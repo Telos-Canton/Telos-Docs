@@ -1,4 +1,4 @@
-# Telos White Paper v1.3
+# Telos白皮书
 
 <img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
 
