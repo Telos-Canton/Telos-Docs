@@ -16,7 +16,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [TELOS区块链](#the-telos-blockchain)
   - [Telos给你一个崭新开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
-  - [对开发者](#for-developers) 
+  - [对于开发者](#for-developers) 
     - [允许拥有专利权的去中心化应用（DApps）](#proprietary-dapps-allowed)
     - [较低的DApp开发成本](#lower-cost-dapp-deployment)
     - [较少的网络停顿](#fewer-network-pauses)
@@ -482,28 +482,27 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
 
-It is the intent of the Telos ABPs that these minimums serve to keep block producers responsive. These minimum requirements are intended to be revised from time to time by a 2/3+1 vote of block producers. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
+Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由令牌持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
 
-# Block Producer Pay
+# Bp薪酬
 
-Block producers are a crucial component of any EOSIO network. There are 21 block producers validating the network at any time. There are also a number of standbys with the goal of being able to step in at any time to maintain network security should other block producers be knocked off the network.
+BP是任何EOSIO网络的重要组成部分 有21个BP随时验证网络。 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
 
-Pay is very unequal between the top block producer and the bottom standby block producer. On July 3, 2018 the top block producer ‘bitfinexeos1’ earned 1,017 EOS (USD $8,960) while the lowest paid standby block producer ‘sheleaders21’ earned just 118 EOS (USD $1,040) a ratio of almost 9:1.
+顶部BP和底部备用BP之间的薪酬非常不平等。 2018年7月3日，顶级区块生产商'bitfinexeos1'获得1,017 EOS（8,960美元），而收入最低的备用BP'sheleaders21'仅获得118 EOS（1,040美元），比率几乎为9：1。
 
-For the standby block producers to truly be able to step in at any time, they need to be able to afford to keep up with the very expensive technical requirements of enterprise-level servers, data centers, DDOS protection, and a staff to keep it all running. It is not easy to slide into this role at a moment’s notice.
+为了使备用BP能够真正能够随时介入，他们需要能够支付得起昂贵的技术要求才能运行：企业级服务器，数据中心，DDOS保护以及员工。 在短时间内转换到这个角色并不容易。
 
-At a pay ratio of 9:1, standby block producers will have a very hard time keeping up with the technical and staffing standards of the leaders. And because there is really no existing process in Eos for verifying the readiness of standby BPs, the ideal moneymaking strategy for an Eos standby block producer below #25 or so would be to run incapable nodes with the producer plugin and spend their entire budget on social media to get votes. This is not what the network needs standbys to do, but this is how they are incentivized by the pay structure.
+如果支付率为9：1，备用BP将很难跟上领导者的技术和人员配备标准。 而且由于Eos中确实没有用于验证备用BP准备情况的现有流程，因此对于低于＃25左右的Eos备用Bp而言，理想的赚钱策略是使用BP不能胜任的节点插件并将其全部预算用于社交媒体获得选票。 这不是网络需要备用BP去做的事情，但是薪酬结构激励他们的去这样做。
 
-The Telos pay structure addresses this by keeping pay at 2:1 between full-time elected block producers and standbys. This allows standby block producers to remain capable of keeping up with the elected block producers. The system also calls on them to step into block producing once every 3-7 days for 6 hours. The final mechanism is open to discussion, but one possible structure is as follows:
+Telos薪酬结构通过在全职的选举出来的BP和备用BP之间保持2：1的薪酬来解决这个问题。 这使得备用BP能够保持能力跟上选定的BP。 该系统还要求他们每隔3-7天进行一次生产，持续6小时。 最终机制可供讨论，但一种可能的结构如下：
 
-**Every elected block producer rotates out for 12 hours once per week.**  
-**Every standby block producer rotates in for 6 hours once per 5 days.**
+每个选举产生的BP每周轮换12小时。 每个备用BP每5天轮换一次，每次6小时。
 
-This reduces the cost of running servers for block producers because they can schedule weekly maintenance and updates and it forces standbys to be ready to truly protect the network. All block producers and standbys will be penalized for blocks not produced.
+这降低了BP运行服务器的成本，因为它们可以安排每周维护和更新，并强制备用BP准备好真正保护网络。 所有BP和备用BP将因未生产的区块而受到处罚。
 
-The following table envisions block producer and standby block producer pay at the outset of the network.
+下表展示了在网络开始时BP和备用BP的薪酬
 
-## Projected Telos Block Producer Pay and USD Value
+## Telos网络中的仲裁
 
 | **USD-TLOS Price**             |             |      | $2.50        | $5.00          | $10.00         | $15.00         | $20.00         |
 | ------------------------------ | ----------- | ---- | ------------ | -------------- | -------------- | -------------- | -------------- |
@@ -528,23 +527,23 @@ The following table envisions block producer and standby block producer pay at t
 
 # Arbitration in the Telos Network
 
-The Telos ABPs intend to clarify their intention for the role and process of arbitration within the Telos network. It is their intention to create a functional Telos Arbitration Organization (TAO) prior to Telos mainnet activation.
+Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。 他们打算在Telos主网激活之前创建一个功能性的Telos仲裁组织（TAO）。
 
-In Telos, the primary role of arbitration is to resolve non-deterministic elements of smart contracts with arbitrators acting as human “oracles” to settle disputes. Secondarily, arbitrators will work with the parties to find an outcome when the actual actions of a smart contract are at odds with the intent and means documented in the Ricardian contract or when breach of contract is alleged. Arbitration is never meant to be used to resolve matters of stolen accounts through instructing block producers to freeze or modify accounts. This function is deemed to generally be moot since thieves can move tokens faster than accounts can be frozen and because EOSIO has robust security features that work to prevent theft. Owners bear responsibility for securing their own addresses.
+在Telos，仲裁的主要作用是解决智能合约的非确定性因素，仲裁员充当人类“神谕”来解决争端。 其次，当智能合约的实际行动与李嘉图合同中记录的意图和手段不一致或者涉嫌违约时，仲裁员将与当事人一起寻求结果。 仲裁并不是通过指示BP冻结或修改账户，来解决被盗账户的问题。 这个功能被认为通常没有实际意义，因为窃贼可以比冻结账户更快地移动令牌，因为EOSIO具有强大的安全功能，可以防止被盗。 业主有责任保护自己的地址安全。
 
-This is the intent of the Telos ABPs. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
+这是Telos ABP的目的。 但是，值得注意的是，Telos网络是去中心的，没有所有者，管理者或受托人，也没有令牌持有者选出的BP投票之外的治理系统。 鼓励未来的Bp，但绝不要求遵守ABP规定的任何意图。
 
-## Telos Arbitration Process
+## Telos仲裁程序
 
-1. The TAO follows a set of core rules for Telos arbitration. Other rule systems (e.g. American Arbitration Association) may be layered on top of these if both parties agree.
-2. The intent for TAO arbitrators is to act as a human “oracle” (data/information/decision source) for non-deterministic contract. Ideally, an arbitrator is appointed at the outset of a smart contract execution.
-3. A case is submitted for arbitration via Dispute Arbitration Smart Contract (DASC) that includes information about the nature of the dispute, whether it is a new dispute or an appeal, and the arbitration fee. 
-  - If a case has wiped out a member’s account, they may request no-fee arbitration TAO members may elect to waive fees or use grants from Worker Proposals or the Telos Foundation to cover these.
-4. The arbitrator will request statements and information from both parties. 
-  - The parties submit their statements and information to the arbitrator and each other.
-  - The parties may submit rebuttals to another party’s statements and additional evidence to address opposition statements or evidence.
-  - The arbitrator may ask any questions he or she deems necessary to determine an outcome.
-  - The arbitrator renders a judgement based solely upon the evidence presented as it relates to the Telos Constitution and Rules and the terms of the smart contract in question. Where they differ, the intent documented by the Ricardian contract will be given more significance than the source code. This decision is transmitted to either the smart contract as an oracle data point, or to the block producers as an arbitrator order via the case’s DASC.
+1. TAO遵循Telos仲裁的一套核心规则。 如果双方同意，其他规则系统（例如美国仲裁协会）可以在这些系统之上分层。
+2. TAO仲裁员的意图是充当非确定性合同的人类“oracle”（数据/信息/决策来源）。 理想情况下，仲裁员是在智能合约执行开始时指定的。
+3. 仲裁案件通过争议仲裁智能合约（DASC）提交，其中包括有关争议性质的信息，无论是新争议还是上诉，以及仲裁费用。 
+  - 如果案件已经清除了会员的账户，他们可以要求免费仲裁TAO会员可以选择免除费用或使用工人提案或Telos基金会的赠款来支付这些费用。
+4. 仲裁员将要求双方发表声明和信息。 
+  - 当事人向仲裁员和对方提交陈述和信息。
+  - 当事人可以向另一方的陈述和其他证据提出反驳，以处理异议声明或证据。
+  - 仲裁员可以询问他或她认为必要的任何问题以确定结果。
+  - 仲裁员仅根据与Telos章程和规则有关的证据以及有关智能合约的条款作出判决。 如果它们不同，则Ricardian合同记录的意图将比源代码更具意义。 该决定作为oracle数据点传输给智能合约，或通过案例的DASC传递给BP作为仲裁员命令。
 5. The arbitrator actions shall be executed directly (where allowed by prior agreement) or else submitted to block producers for execution. Such submission will be in the form of a transaction ordered to be executed on the blockchain along with arbitrator’s private key approval.
 6. The block producers must execute the orders of the DASC within 12 hours.
 
