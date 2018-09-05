@@ -624,29 +624,29 @@ Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价�
 
 Telos指定的BP（ABPs）创建了以下流程，允许在快照时列出EOS的交易所请求通过创建新的TLOS令牌来为其Telos地址提供资金，这些令牌足以为当时的EOS所有者提供TLOS令牌快照（每个客户1：1到40,000 TLOS）。 Telos ABPs同意为完成该过程的每个交易所创建令牌。
 
-Telos项目的目的是在Eos快照时为所有EOS令牌所有者提供TLOS（每个地址或交易所客户最多40,000）。 The Telos ABPs encourage future Telos block producers to honor this intent and to create tokens necessary for every exchange that follows the petition process. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs. Therefore, the ABPs launching the Telos network will only have the full control to process exchange petitions during the period between launch and activation. Upon activation, the decision of whether or not to create new tokens for any petitioning exchange will be up to a vote of 15 of the 21 elected block producers at the time.
+Telos项目的目的是在Eos快照时为所有EOS令牌所有者提供TLOS（每个地址或交易所客户最多40,000）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并为请求过程之后的每个交易所创建所需的令牌。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由代币持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将只能在启动和激活之间的时间段内对处理交易所请求有完全控制权。 激活后，是否决定为任何请求交易所创建新令牌，将由当时21个选举的BP中的15个投票决定。
 
-The Telos ABPs have established an exchange outreach working group to contact all Eos exchanges and help guide them through the process during the launch period. It is important to stress that only during the Telos launch period is the creation of TLOS tokens for petitioning exchanged guaranteed by the ABPs.
+Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，并在启动期间帮助指导他们完成整个过程。 重要的是要强调，只有在Telos启动期间才会创建用于请求交换的TLOS令牌，并由ABP保证。
 
-## Exchange TLOS Token Creation Petition Process
+## 交易所TLOS令牌创建请求流程
 
-1. The exchange and the Telos Exchange Outreach Working Group (TEOWG) initiate communications and each designate a representative for this case. Investment funds, online wallets, and similar institutions holding EOS tokens for multiple owners may also petition under this process.
-2. The exchange signs a letter of intent to list TLOS tokens and provide them to their EOS token holders as of the time of the Eos snapshot with a cap of 40,000 TLOS tokens per account. This letter documents terms of new token printing including that the exchange will agree not to act as a block producer and not to vote tokens for which they are not the beneficial owners. (i.e. never to vote from their exchange holding addresses.) The exchange and/or Telos network may issue publicity about this development.
-3. The exchange provides identification of all exchange-owned addresses on snapshot along with cryptographic proof of ownership and a statement that there are no other addresses under their control.
-4. TEOWG provides current copy of current Telos node and client software and any additional support necessary to deploy.
-5. Exchange provides anonymized list of account amounts at time of Eos snapshot as CSV file or similar.
-6. TEOWG examines the exchange-provided accounts list and caps holdings of all accounts at 40,000 TLOS tokens.
-7. The exchange and TEOWG agree on the total value of tokens to be created and the addresses (from the identified exchange-owned addresses) to which they will be sent.
-8. The exchange publicly announces its upcoming listing of TLOS tokens and distribution to EOS owners with a launch date. (This may have occurred earlier but must occur by this point.)
-9. TEOWG provides exchange’s petition along with documentation to Telos ABPs for review. The Telos ABPs will coordinate scheduling of TLOS token creation with the exchange’s release schedule.
-10. The Telos ABPs vote to create tokens. The Ricardian contract of this transaction requires that the exchange must accept terms of not voting from these addresses and not operating a block producer candidate, and distributing all TLOS tokens to their customers as represented in the agreement.
-11. The exchange enables trading of TLOS.
+1. 交易所和Telos交流外联工作组（TEOWG）发起通信，双方都为此案件指定一名代表。 持有多个投资者的EOS令牌的投资基金也可以在此过程中申请。
+2. 2. 交易所签署了一份意向书，交易TLOS令牌，并在Eos快照时将其提供给他们的EOS令牌持有者，每个账户的上限为40,000个TLOS令牌。 这份意向书记录了新令牌印刷的条款，包括交易所将同意不作为BP和不投票令牌，因为它们不是令牌的受益所有人。 （即永远不要从他们的交易所持有地址投票。）交易所和/或Telos网络可以对这一发展进行宣传。
+3. 3. 交易所提供快照上所有交易所拥有的地址的标识以及所有权的加密证明，以及一份关于其下没有控制其他地址的声明。
+4. 4. TEOWG提供当前Telos节点和客户端软件的当前副本以及部署所需的任何其他支持。
+5. 5. 交易所在Eos快照时将帐户金额的匿名列表提供为CSV文件或类似文件。
+6. 6. TEOWG检查交易所提供的账户清单，并在40,000个TLOS令牌上限制所有账户的持股。
+7. 7. 交易所和TEOWG就将被创建的令牌的总价值和将要发送的地址（来自已识别的交易所拥有的地址）达成一致。
+8. 8. 交易所公布了即将上市的TLOS令牌，并在发行日期分发给EOS所有者。 （这可能发生得比较早，但必须在此时发生。）
+9. 9. TEOWG向Telos ABP提供交易所申请以及文件以供审查。 Telos ABP将协调TLOS令牌创建的安排与交易所发布的时间表。
+10. 10. Telos ABPs投票决定创建令牌。 此交易的李嘉图合同要求交易所必须接受不从这些地址投票的条款，并且不运营BP候选人。
+11. 交易所可以交易TLOS。
 
-# Is Telos a Security?
+# Telos是证券吗？
 
-Ultimately, it will be up to the agency that enforces securities law in each country to determine whether or not Telos’s TLOS tokens are considered a security—and therefore subject to regulation. However, the US Securities Exchange Commission has been known to set precedent in this area and recent statements by the SEC shine a very encouraging light on the question.
+从根本上说，Telos的TLOS令牌是否被视为证券并因此受到监管，将取决于各个国家执行证券法的机构。 然而，众所周知，美国证券交易委员会SEC在这方面已经开创先例，SEC最近的声明在这个问题上洒下了鼓舞人心的一道光。
 
-On May 7, 2018, William Hinman, SEC director of corporate finance spoke at the Yahoo Finance All Markets Summit and sought to clarify under what conditions a coin or token would be considered a security. Two core concepts emerged from his speech. First, a security is largely determined by the nature of its offering to the public—how it was sold, what representations were made, etc. Hinman’s second key point was that a coin or token that was initially sold in a way that would have been viewed as a security could eventually be sold in a way where it was not considered a security, based on decentralization and the lack of centralized entity controlling it. Hinman concluded:
+2018年5月7日，美国证券交易委员会企业融资部主任威廉·欣曼在雅虎财经全市场峰会上发表讲话，并试图阐明在什么条件下将硬币或令牌视为证券。 Two core concepts emerged from his speech. First, a security is largely determined by the nature of its offering to the public—how it was sold, what representations were made, etc. Hinman’s second key point was that a coin or token that was initially sold in a way that would have been viewed as a security could eventually be sold in a way where it was not considered a security, based on decentralization and the lack of centralized entity controlling it. Hinman concluded:
 
 **Based on my understanding of the present state of ether, the Ethereum network, and its decentralized structure, current offers and sales of ether are not securities transactions**
 
