@@ -43,7 +43,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [问题：网络停顿风险](#problem-network-pause-risk)
     - [问题：预备节点没有获得合理的报酬和接受定期检测](#problem-standby-bps-are-not-being-properly-paid-and-regularly-tested)
     - [问题：EOS内存投机推高DAPPS的部署成本](#problem-eos-ram-prospecting-drives-up-the-cost-of-deploying-dapps)
-    - [问题：Eos宪法未经批准](#problem-the-eos-constitution-is-unratified)
+    - [问题：Eos宪法未被承认](#problem-the-eos-constitution-is-unratified)
     - [问题：在启动时没有准备好裁决机构 ](#problem-adjudication-body-not-prepared-at-launch)
     - [Eos有高通胀](#problem-eos-has-high-inflation)
     - [Eos账户可能在3年后被没收](#problem-eos-accounts-can-be-forfeit-after-3-years)
