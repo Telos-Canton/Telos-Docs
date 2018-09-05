@@ -13,7 +13,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 <!-- MarkdownTOC autolink=true levels=1,2,3 bracket=round bullets="-,*,+" -->
 
 - [橡果（Telos）项目](#the-telos-project) 
-  - [TELOS区块链](#the-telos-blockchain)
+  - [分叉链橡果（Telos）](#the-telos-blockchain)
   - [Telos给你一个崭新开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
   - [对于开发者](#for-developers) 
@@ -762,9 +762,9 @@ Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀�
 
 答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Members of the Telos Launch Group will be compensated in the TLOS genesis file. A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
 
-**问：你说Telos不会有任何“巨鲸”，但ABPs和Telos基金不是会成为巨鲸吗？**
+**问：你们说Telos不会有任何“巨鲸”，但ABPs和Telos基金会不是会成为巨鲸吗？**
 
-答：Telos基金会永远不会用它的令牌投票。 ABPs令牌将在3年内均匀解锁，类似于Block. one的令牌背心。 如果没有许多TLOS令牌持有者的帮助，Abps将无法投票进入块生产者行列。 如果没有许多TLOS令牌持有者的帮助，ABPs将无法投票进入块生产者行列。
+答：Telos基金会绝对不会用它的通证投票。 ABPs令牌将在3年内均匀解锁，类似于Block. one的令牌背心。 如果没有许多TLOS令牌持有者的帮助，Abps将无法投票进入块生产者行列。 如果没有许多TLOS令牌持有者的帮助，ABPs将无法投票进入块生产者行列。
 
 **Q: Why are TLG members being compensated?**
 
