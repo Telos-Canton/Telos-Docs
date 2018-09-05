@@ -69,53 +69,53 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [来自销售的未认领的EOS令牌](#unclaimed-eos-tokens-from-token-sale)
     - [在EOS主网发布的交易所EOS TOKENS](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
 - [TELOS RAM投机预防](#telos-ram-speculation-prevention) 
-  - [Limit Initial RAM Allocation](#limit-initial-ram-allocation)
-  - [Tie RAM Increases to Network Utilization](#tie-ram-increases-to-network-utilization)
-  - [Encourage Telos Foundation to Help Stabilize Price Swings](#encourage-telos-foundation-to-help-stabilize-price-swings)
-- [Telos Exchange Petition Process](#telos-exchange-petition-process) 
-  - [Exchange TLOS Token Creation Petition Process](#exchange-tlos-token-creation-petition-process)
-- [Is Telos a Security?](#is-telos-a-security)
-- [Telos FAQ](#telos-faq)
+  - [限制初始RAM分配](#limit-initial-ram-allocation)
+  - [将RAM的增加与网络利用绑定](#tie-ram-increases-to-network-utilization)
+  - [鼓励TELOS基金会帮助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
+- [Telos交易所请愿程序](#telos-exchange-petition-process) 
+  - [交换TLOS令牌创建请愿程序](#exchange-tlos-token-creation-petition-process)
+- [Telos是证券吗？](#is-telos-a-security)
+- [问答](#telos-faq)
 
 <!-- /MarkdownTOC -->
 
-# The Telos Project
+# 橡果（Telos）项目
 
-A sustainably decentralized EOSIO network
+一个可持续的去中心化 EOSIO 网络
 
-The Eos system offers an amazing promise of a new economy. Unfortunately, high centralization undermines this promise. Just 1.6% of Eos holders own 90% of the tokens. The token ownership, governance, and block producer selection are all compromised by the existence of massive “whale” addresses that can push Eos in any direction they want without regard to the majority of token holders, developers, or even the overall health of the network.
+Eos系统为新经济带来了了不起的承诺。 不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者拥有90％的令牌。 令牌所有权，治理和区块生产者BP选举都受到大量“鲸鱼”地址的影响，这些地址可以将Eos推向他们想要的任何方向，而不考虑大多数令牌持有者，开发者，甚至网络的整体健康状况。
 
-Telos is an alternative network based on the same EOSIO code that aims to solve the key problems of Eos. The Telos network offers:
+Telos是基于相同EOSIO代码的一个替代网络，旨在解决Eos的关键问题。 Telos网络提供：
 
-1. Economic decentralization – No whale addresses
-2. Equitable pay structure for block producers and standbys
-3. DApp developer-friendly with proprietary DApps and lower cost deployment
-4. Additional token holder protection and pre-activation resolution of stolen tokens
+1. 经济去中心化 - 没有鲸鱼地址
+2. 区块生产者BP和备用BP的公平薪酬结构
+3. DApp开发人员友好的专有DApps和较低成本部署
+4. 额外的令牌持有者保护和被盗令牌的预激活解决方案
 
-> “The EOS dream will not come true until it fixes its centralization problems.” – Juan M. Villaverde, Weiss Ratings
+> “EOS的梦想，在修复它的中心化问题之前不会实现。”– Juan M. Villaverde, Weiss Ratings
 
-## The Telos Blockchain
+## Telos区块链
 
 Telos forks EOSIO code into a new blockchain and updates the following elements:
 
-- Remove the extreme economic power of a small number of “whales” by capping the value of every address in the genesis snapshot at 40,000 Telos (TLOS) tokens.
+- 通过将创世快照中每个地址的值限制为40,000 Telos（TLOS）令牌，消除少数“巨鲸”的极端经济实力。
   
-  - Eliminates whales’ control of block producer selection and token holder voting.
-  - Exchanges will be given a process for petitioning to have TLOS tokens created for their EOS owners at the time of the snapshot, provided that they agree to list TLOS and distribute tokens, capped at 40,000 per account holder.
+  - 消除了巨鲸对区块生产者选举和令牌持有者投票的控制。
+  - 如果他们同意发行TLOS并分发令牌，在交易过程中将请求在其快照时为其EOS所有者创建TLOS令牌，每个账户持有者的上限为40,000个。
   
   <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
 
-- Revise block producer (BP) and standby pay model to better secure the network.
+- 修改区块生产者（BP）和备用BP的支付模型以更好地保护网络。
   
-  - A fixed 21 block producers plus 30 standbys based on voting.
-  - Equalize pay among block producers and standbys. All BPs will be paid the same amount and all standbys will be paid 50% the BP rate.
-  - Standbys will rotate into block production for a short time on a regular basis (every 3-7 days) to earn their pay and prove that they are ready to produce.
-  - Active BPs that fail to produce 180 blocks in a row will be temporarily replaced by a standby BP (after 30 minutes vs. 3 hours under Eos rules). 
-  - Active BPs and standby BPs are penalized for missed blocks.
-  - **Active** This model will reduce incidence of network pauses due to 6 or more BPs becoming inactive.
-  - BPs and standby BPs will have a clear minimum requirement in terms of information disclosure, practices, and hardware/connectivity – any that do not meet
+  - 一个固定的21个BP加上30个基于投票产生的备用BP。
+  - 在区块生产者和备用生产者之间平衡薪酬。 所有BP将被支付相同的金额，所有备用BP将被支付50％的BP费率。
+  - 备用BP将定期（每3-7天）轮流进行一小段时间生成区块以取得报酬，以及证明其已准备好生产。
+  - 无法连续生成180个区块的活跃BP将暂时被备用BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
+  - BP和备用BP因未生成/错过的区块而受到处罚。
+  - 该模型将减少由于6个或更多BP变为不活跃而导致的网络暂停的发生率。
+  - BP和备用BP在信息披露，惯例和硬件/连接方面具有明确的最低要求 - 无论投票如何，任何不符合最低要求的都将被禁止服务。
   - minimum will be prevented from serving regardless of voting.
-  - Statistics on BP/Stand-by performance will be published to empower voters towards electing more reliable BPs.
+  - BP/备用BP表现的统计数据将被公布，以使选民能够指向更可靠的BP。
 - Telos code review/testing 
   - The block producers or a body elected by them will review code for security and value. 
   - 新的代码发布在主网部署之前由所有BP和预备BP维护的私有测试网进行现场测试。
