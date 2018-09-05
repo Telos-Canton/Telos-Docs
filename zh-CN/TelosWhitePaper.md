@@ -302,7 +302,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 ## Eos的问题以及Telos如何解决这些问题
 
-作为Eos Mainnet Launch Group（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它受到Eos中心化和Eos销售和流程要求引起的问题的影响。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos has more latitude to improve the tokenomics because it is not related to Block.one and did not raise any money through an ICO or presale. As a result, the Telos network may issue new TLOS tokens in any way it determines is best for the network.
+作为Eos Mainnet Launch Group（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它受到Eos中心化和Eos销售和流程要求引起的问题的影响。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos有很多纬度去提升tokenomics，因为这与Block.one无关，且不会通过ICO或预售筹集资金。 As a result, the Telos network may issue new TLOS tokens in any way it determines is best for the network.
 
 ### 问题：用户投票不重要 - 巨鲸控制网络。
 
