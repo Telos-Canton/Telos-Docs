@@ -124,24 +124,24 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
 - Telos将年度通胀率降至2.5％，而不是5％。
 - Telos地址在不使用3年后不会被销毁。 Eos的这个功能是不公平和不必要的，不会在Telos中实施。 However, genesis Telos accounts created by the Eos genesis snapshot must be used at least once by their owners within one year to opt in to the system or they will be removed.
 
-Telos will be launched by a consortium of Eos block producer candidates who took part in the Eos Mainnet Launch Group (EMLG). This group is well versed in the mechanics of launching and running the mainnet since it has done so before.
+Telos将由参与Eos Mainnet Launch Group（EMLG）的Eos BP候选人联盟发起。 这个小组非常精通启动和运行主网的机制，因为它之前已经这样做了。
 
-We will distribute an entirely new token, TLOS, to those listed on the Eos genesis snapshot with a few modifications:
+我们将分发一个全新的令牌TLOS，给Eos创世快照中列出的那些人。将稍做几点改动：
 
-- All genesis addresses will be capped at 40,000 TLOS.
-- All addresses that can prove they were stolen prior to launch will be repatriated to their true owners.
+- 所有创世地址的上限为40,000 TLOS。
+- 所有可以证明在发行/发射前被盗的地址都将被返回真正的所有者手中。
 - New tokens will be generated to create the Telos Founders Rewards Pool (TFRP) to compensate the founders and the Telos Community Rewards Pool (TCRP) to compensate community members promoting Telos, and to fund the Telos Foundation – a promotional organization for funding work important to the Telos network outside the worker proposals system.
-- Exchanges can petition to have their accounts re-created by the ABPs or BPs by agreeing to list TLOS for exchange and to distribute TLOS tokens to their EOS token holders as of the snapshot, capped at 40,000 per account holder.
+- 交易所同意买卖TLOS，并在快照时将TLOS通证分发给他们的EOS通证持有者，就可以请求由ABPs或BPs重新创建账户。每个账户持有人的上限为40,000。
 
-**Exchanges can be expected to list TLOS** due to pressure from their customers who want to receive the tokens—providing a method for exchange.
+由于来自希望接收令牌的客户的压力，交易所可能会列出TLOS，从而提供买卖方法。
 
-**The Telos network is likely to be more stable** because block producers will be selected by voting from a broad community based on capability rather than a small number of whales based on affiliation. Also, block producers who fail to produce blocks will be rotated out within 30 minutes (180 missed blocks) as opposed to 3 hours. Additionally, standby block producers will be enabled and required to produce blocks every 3-7 days in order to prove they are constantly ready. This semi-regular schedule provides needed downtime for block producers to maintain and update their servers, lowering the cost of operation. It also includes more standby block producers in governance as their votes will factor into block producer voting. This approach means proven standby capability and greater network resiliency which will likely result in fewer network pauses.
+Telos网络很可能更加稳定，因为区块生产者BP将通过广泛社区基于能力的投票而不是少量有从属关系的巨鲸进行选择。 另外，未能生产区块的区块生产者将在30分钟内（180个错过的区块）轮换出来，而不是3个小时。 此外，备用BP将被启用，并且需要每3-7天生成一个块以证明它们时刻准备就绪。 这种半定期计划为BP提供了维护和更新服务器所需的停机时间，从而降低了运营成本。 它还把更多的备用BP加入到治理中，因为备用BP的投票将影响BP投票。 这种方法意味着可以验证备用BP的能力和得到更高的网络弹性（可能减少网络暂停）。
 
-**Developers are likely to prefer the Telos system** because they may designate some DApps as proprietary and therefore worth their development investment. The Telos network will work to lower deployment costs by keeping RAM availability commensurate with network need to reduce RAM hoarding by early participants. This should keep the cost of deploying DApps lower than on Eos. In all other ways, the Telos network will work to remain compatible with the Eos mainnet software so that DApps can be run interchangeably on either network.
+开发人员可能更喜欢Telos系统，因为他们可能将某些DApp指定为专有，因此值得他们进行开发投资。 Telos网络将通过保持RAM可用性与网络需求相对应来降低部署成本，以减少早期参与者的RAM囤积。 这应该使部署DApps的成本低于在Eos上（的成本）。 在所有其他方面，Telos网络将与Eos主网软件保持兼容，以便DApps可以在任一网络上互换运行。
 
-**Token holders can be expected to be more engaged** because their votes matter more compared to Eos, where only the whale votes really count. Analysts such as Weiss Ratings are likely to give higher valuations to Telos than Eos, since they have already warned about centralization as a severe problem with the Eos system and suggested limited voting of large accounts and incorporating more block producers – both of which Telos accomplishes. The TLOS token supply is expected to be between onefifth and one-third that of EOS (200-330 million tokens) depending on exchange participation. Given all of these advantages, TLOS may come to have a greater value than EOS.
+可以预期令牌持有者更加投入，因为与Eos相比，他们的投票更为重要。 Eos只有巨鲸的选票真的重要。 像Weiss Ratings这样的分析师可能会给予Telos更高的估值，因为他们已经警告集中化是Eos系统的一个严重问题，并建议对大型账户进行有限投票和吸收更多的BP - 这两者都是Telos做到了。 TLOS令牌供应将是EOS的五分之一到三分之一，具体取决于交易所参与。 鉴于所有这些优势，TLOS可能比EOS具有更大的价值。
 
-## A Fresh Start with Telos
+## Telos - 一个崭新的开始
 
 The Eos mainnet launch has revealed numerous important shortcomings of the system. We are fortunate to have learned from these. Many of these problems will be solved in time. Telos has the benefit of a clean slate to deal with these problems head on and solve the most pressing problems immediately on launch. The Telos network offers a fresh start to run the EOSIO software on a network that focuses on providing clear and immediate value to DApp developers and token holders. Ultimately, Telos may provide a testbed of innovative solutions that the EOS mainnet may adopt. For now, Telos aims to be a cost-effective, highly reliable network that users can join for free and developers can afford to deploy their DApps on.
 
