@@ -1,10 +1,10 @@
-# Telos White Paper v1.3
+# Telos（橡果）白皮书 v1.3
 
 <img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
 
-*A sustainably decentralized EOSIO network by Douglas Horn*
+*一个可持续的去中心化 EOSIO 网络 作者：道格拉斯·泓恩（Douglas Horn）*
 
-TELOS – THE ULTIMATE PURPOSE OF A THING. (FROM GREEK ΤΈΛΟΣ)
+TELOS - 事物的终极目的。 (FROM GREEK ΤΈΛΟΣ)
 
 > “The telos of an acorn is to become an oak tree.” – Aristotle.
 
