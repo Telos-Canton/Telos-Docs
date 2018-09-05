@@ -246,57 +246,56 @@ Telos基金会和ABP将提供一份智能合约，允许任何被盗的EOS持有
 
 ### 公平的支付模式
 
-Telos区块生产者系统由21个BP和30个备用BP组成，根据用户投票排名。 每个区块生产者将获得与Telos 1％通胀相同的每日份额。 Every standby block producer (up to 30) will receive one half the amount that the top 21 block producers receive. Every standby block producer will rotate into active block production every 3-7 days to “earn their keep” and prove that they are constantly available to fulfill their responsibilities. Block producers will be penalized for any missed blocks and statistics will be provided to Telos voters.
+Telos区块生产者系统由21个BP和30个备用BP组成，根据用户投票排名。 每个区块生产者将获得与Telos 1％通胀相同的每日份额。 每个备用区块生产者（最多30个）将获得前21个块生产者收到的金额的一半。 每个备用区块生产者将每3-7天轮换一次生产区块以“获得他们的保留”并证明他们可以不断地履行其职责。 对于任何错过的区块，区块生产者将受到处罚，并将向Telos选民提供统计数据。
 
-### Equitable Voting / Inverse Vote Weighting
+### 公平投票/反投票权重
 
-In the Eos voting system, whales can elect any block producer they choose. Voters who want to support only their own affiliated block producers can increase the value of their votes by not voting for anyone else—which hurts the voting system. Telos does not have whales and therefore block producers need only convince the broad collective of TLOS token holders of their strong candidacy.
+在Eos投票系统中，巨鲸可以选举他们选择的任何区块生产者。 想要只支持他们自己的附属区块生产者的选民可以通过不投票给其他任何人来增加他们的选票价值 - 这会损害投票系统。 Telos没有巨鲸，因此区块生产者只需要说服TLOS令牌持有者的广泛集体，他们有很强的候选资格。
 
-Additionally, Telos block producer voting is “inverse weighted” meaning that if you only vote for 1 or 2 block producers your votes have less weight than if you vote for 30. This encourages the majority of Telos members to become more educated about block producer candidates and discourages those who seek to vote only for themselves and their affiliates.
+此外，Telos区块生产者投票是“反向加权”，这意味着如果您只投票给1或2个区块生产者，您的投票权重将低于您投票给30个BP的投票权。 这鼓励大多数Telos成员去了解更多关于区块生产者候选人。 并阻止那些只为自己及其分支机构投票的人。
 
 <img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
 
 <img align="center" src="./images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
-### Smart Contract Enforced Block Producer Requirements
+### 智能合约强制执行对区块生产者的要求
 
-Telos maintains minimum standards for block producers to be eligible candidates. These standards are based on security, server capacity, information disclosure, and participation in the public and private testnet. These standards will be enforced by smart contract from the time of mainnet activation and any block producer candidate that is not in compliance will not be capable of serving, regardless of votes. All other block producer candidates will automatically rise up the block producer ranks to fill in until the minimum requirements are met.
+Telos维持区块生产者的最低标准，使其成为合格的候选人。 这些标准基于安全性，服务器容量，信息披露以及参与公共和私有测试网。 从主网激活时起，这些标准将由智能合约强制执行，并且任何不符合要求的区块生产者候选人将无法成为BP，无论投票如何。 所有其他区块生产者候选人将自动上升等级填补队列，直到满足最低要求。
 
-### Regular Downtime for Node Maintenance
+### 节点维护的定期停机时间
 
-Standby block producers will prove their reliability by rotating into block production for several hours every 3-7 days on a semi-regular schedule. This will give primary block producers frequent opportunities to take down nodes for maintenance and upgrades. This significantly reduces the cost of operation. This system also ensures all standbys are constantly ready to fulfill their duties.
+备用区块生产者将通过半定期安排每3天轮流生产几个小时来证明其可靠性。 这将使主要区块生产者经常有机会关闭节点以进行维护和升级。 这显著降低了操作成本。 该系统还确保所有备用BP随时准备履行其职责。
 
-# Telos Token Distribution
+# Telos令牌分配
 
 *Calculations & analysis by Ava Masucci*
 
-The distribution of tokens in the Eos system is one of the most concentrated of all major cryptocurrencies. Telos distribution on the other hand is one of the least concentrated of all cryptocurrencies.
+Eos系统中令牌的分配是所有主要加密货币中最集中的其中一种。 而Telos分配是所有加密货币中最不集中的一种。
 
-- 90% of EOS tokens are controlled by just 1.6% of addresses.
+- 90％的EOS令牌被仅1.6％的地址控制。
   
   <img align="center" src="./images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
-  A More Even Distribution
+  更均匀的分配
 
-Initially capping the TLOS token amount of all Telos addresses at 40,000 radically alters the token distribution from EOS in the following ways:
+最初将所有Telos地址的TLOS令牌数量限制为40,000，从根本上改变令牌分布，与EOS不同。方法如下：
 
-- Removes 86.5 % of token supply, or 865,000,000 tokens
-- Reduces the holding of just 0.67% addresses, or 1,098 individual addresses, registered at time of snapshot.
-- The circulating supply is reduced from ~996,691,000 EOS to 178,473,249 TLOS tokens.
-- Assuming another 78.6% (Fibonacci level) of 178,439,249 will be added back into the money supply due to tokens created for petitioning exchanges, the supply will rise to approximately 318,753,222. 
-  - An additional 13,000,000 tokens will be created for the Telos Founders Reward Pool, Telos Community Rewards Pool, and Telos Foundation creating a total money supply of approximately 331,753,222 TLOS tokens – about one-third of the Eos money supply.
-- Each TLOS token will represent ~3X the network equity of an EOS token.
+- 删除86.5％的令牌供应或，865,000,000个令牌
+- 减少在快照时注册的仅0.67％的地址或1,098个地址的持有的数量。
+- 循环供应从约996,691,000 EOS减少到178,473,249 TLOS令牌。
+- 假设另外78.6％（斐波那契水平）178,439,249将被重新加入货币供应量，因为为请求交易所创建的令牌，供应量将上升至约318,753,222。 
+  - 将为ABP和Telos基金会创建额外的12,000,000个令牌，创造大约330,753,222个TLOS令牌的总货币供应量 - 约为Eos货币供应量的三分之一。
+- 每个TLOS令牌将代表EOS令牌的网络权益的约3倍。
 
-## Comparative Distribution
+## 比较分布
 
-Capping the number of tokens at 40,000 per address alters less than 0.67% of registered addresses.   
-Capping the number of tokens at a larger amount does not significantly alter the number of addresses affected.
+将每个地址令牌数量限制在40,000改变了不到0.67％的注册地址。 以更大的数量限制令牌数量不会显著改变受影响的地址数量。
 
 <img align="center" src="./images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
 <img align="center" src="./images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
-Capping the token amount at 40,000 alters approximately 86% of the EOS token supply. Setting the token cap to a higher number would grant a smaller number of token holders more power.
+将令牌数量限制为40,000个会改变EOS令牌供应的约86％。 将令牌上限设置为更高的数字将使更少数量的令牌持有者获得更多权力。
 
 <img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
