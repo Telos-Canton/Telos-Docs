@@ -169,10 +169,10 @@ Telos是基于Eos的新网络。 It offers many advantages over the Eos Mainnet.
 
 对于区块生产者
 
-    公平的支付模式
-    公平投票/反投票权重
-    智能合约强制执行区块生产者要求
-    节点维护的定期停机时间
+    - 公平的薪酬模式
+    - 公平的投票 / 不投票权重
+    - 智能合约保证区块生产者的质量
+    - 节点维护的时间表
     
 
 * * *
@@ -756,24 +756,24 @@ A: The Telos Launch Group will hold a series of “go/no-go” votes about launc
 
 **问：Telos Bp如何获得报酬？**
 
-Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀率。 每个BP将获得相同的统一费率，每个备用BP将得到该费率的一半。 All will receive pay deductions for missed blocks.
+Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀率。 每个BP将获得相同的统一费率，每个备用BP将得到该费率的一半。 所有BP都将因错过生产的区块被扣除薪酬。
 
-**Q: Will the team launching Telos take a fee for its service?**
+**问：启动Telos的团队会收取服务费吗？**
 
-A: Launching the Telos network is an expensive and time-consuming venture. The people launching Telos include block producers, developers, social media marketers, arbitrators, and others working together in a largely decentralized way. Members of the Telos Launch Group will be compensated in the TLOS genesis file. A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
+答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Members of the Telos Launch Group will be compensated in the TLOS genesis file. A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
 
-**Q: You say that Telos won’t have any “whales” but aren’t the TFRP recipients and Telos Foundation going to become whales?**
+**问：你说Telos不会有任何“巨鲸”，但ABPs和Telos基金不是会成为巨鲸吗？**
 
-A: The Telos Foundation will never vote its tokens. TFRP funds will be broadly distributed among contributors in a manner to be determined soon. Distributions over a certain amount will unlock evenly over a 3-year period similar to how Block.one’s tokens vest. No TFRP recipient will be able to vote itself into the block producer ranks without the help of many TLOS token holders.
+答：Telos基金会永远不会用它的令牌投票。 ABPs令牌将在3年内均匀解锁，类似于Block. one的令牌背心。 如果没有许多TLOS令牌持有者的帮助，Abps将无法投票进入块生产者行列。 如果没有许多TLOS令牌持有者的帮助，ABPs将无法投票进入块生产者行列。
 
 **Q: Why are TLG members being compensated?**
 
 A: Members of the Telos Launch Group are taking a central role in creating and launching the Telos network. They are bearing the costs and contributing the effort to bring the network to life. To compensate their work and defray cost they incur, they are being granted new genesis tokens on the Telos blockchain distributed from the Telos Founders Reserve Pool. These tokens are of zero value at the genesis and will only gain value if the TLG, Telos Foundation, and other participants can launch a valuable network. This approach is in line with bounty programs common in cryptocurrency launches. The total amount of compensation for the many founders/bounty recipients is ~1.8% of the expected Telos token supply, which is a low number for cryptocurrency projects where large amounts of work are required and no funding has been sought.
 
-**Q: What is the Telos Foundation?**
+**问：Telos基金会是什么？**
 
-A: The Telos Foundation is a promotional arm of the Telos Network. Prior to the Telos mainnet launch, the Telos foundation will organize technical, informational, and marketing efforts to advance the Telos network. The Telos Foundation will manage the Telos genesis file subject to validation of the ABPs. Immediately upon the mainnet launch, the Telos Foundation will cede its authority to the ABPs to be governed by the Telos Constitution and voting rules.
+答：Telos基金会是最初启动Telos网络的组织。 在Telos主网启动之前，Telos基金会将组织技术，信息和营销工作，以推进Telos网络。 Telos基金会将管理Telos起源文件，但须经过6个ABP的验证。 在主网启动后，Telos基金会将立即割让管理权给6个ABPs，ABPs受Telos宪法和投票规则管理。
 
-After mainnet launch the Telos Foundation will function as an independent promotion and funding body for the Telos network. Its function will be to pay for projects that are not selected for worker proposals or that cannot yet be funded due to inadequate funds. (Particularly early in the life of the network.) The Telos Foundation may apply for worker proposal funds to reimburse funds dispersed as the goal is to create an ongoing fund that is not depleted. It will also seek to stabilize RAM prices by regularly publishing a guidance price and buying below that price, selling above it, and offering RAM for sale or lease to bona fide developers seeking to develop on the network.
+在主网启动后，Telos基金会将作为Telos网络的独立推广和资助机构。 它的职能是支付那些未被选中的工人提案或由于资金不足而无法获得资助的项目。 （特别是在网络生命的早期。）Telos基金会可以申请工人提案资金来偿还分散的资金，因为目标是建立一个不会耗尽的持续资金。 它还将定期发布指导价来稳定RAM价格（在价格低于指导价时购买，在价格高于指导价时出售），并向努力在网络上发展的真正开发者提供RAM出售或租赁。
 
-The Telos Foundation is a decentralized organization that votes on its own issues via smart contract. It does not serve or seek any official governance position and will remain neutral on block producer candidates and proposals. Addresses owned by the Telos Foundation will never vote.
+Telos基金会是一个去中心化的组织，通过智能合约对自己的事务进行投票。 它不服务或寻求任何官方治理职位，并将对BP候选人和提案保持中立。 Telos基金会拥有的地址绝不会投票。
