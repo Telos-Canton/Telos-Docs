@@ -144,9 +144,9 @@ Telos网络很可能更加稳定，因为区块生产者BP将通过广泛社区�
 
 Eos主网的发布揭示了该系统的许多重要缺点。 我们很幸运从中学到了东西。 其中许多问题将及时得到解决。 Telos的优势是可以从新开始，可以直接处理这些问题，并在发布时立即解决最紧迫的问题。 Telos网络为在网络上运行EOSIO软件提供了新的开始，该网络专注于为DApp开发人员和令牌持有者提供明确而直接的价值。 最终，Telos可能会提供一个创新解决方案的测试平台，这个测试平台EOS主网可能会采用。 目前，Telos旨在成为一个有成本效益的，高度可靠的网络，用户可以免费加入，开发人员可以负担得起部署他们的DApps。
 
-# Telos优势
+# Telos的优势
 
-Telos is a new network based on Eos. It offers many advantages over the Eos Mainnet.
+Telos是基于Eos的新网络。 It offers many advantages over the Eos Mainnet.
 
 对于开发人员
 
@@ -658,33 +658,33 @@ Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，�
 
 其次，如果要推断TLOS令牌本来是一种证券，尽管从未被出售或出售，Telos网络完全去中心化的性质使得这一点变得没有实际意义。 Telos没有所有者，管理者或受托人。 该网络由验证节点运算符的独立网络（称之为BP）来管理。这些BP通过TLOS令牌持有者的智能合约投票连任。 TLOS令牌所有权很明显是所有加密货币中分布最均匀和最分散的。 甚至没有证据表明任何单一实体控制着Telos网络的1.5％。 Telos has no owners, managers, or fiduciaries. The network is administered by independent network of validating node operators called block producers who are continuously elected through the smart contract voting of TLOS token holders. The TLOS token ownership is notably one of the most evenly distributed and decentralized of all cryptocurrencies. There is no evidence that any single entity will control even 0.5% of the Telos network.
 
-The Telos network will be initially launched by appointed block producers (ABPs) who will initiate the network launch and will be granted TLOS tokens for their efforts. An entity referred to as the Telos Foundation will receive TLOS tokens as a way to provide funding grants for necessary network functions. At the time these TLOS token will be granted to these entities and the TLOS token holders at large, the tokens will have no par value because they derive their value from either the exchange price (at a time when they are not listed for trade on any exchange in the world) or by the network value (at a time when the network has neither been launched nor can conduct transactions).
+Telos网络最初将由6个指定的区块生产者（ABPs）发起，他们将启动网络发布，并将获得TLOS令牌。 被称为Telos基金会的实体将获得TLOS令牌，作为向必需的网络功能提供资金补助的一种方式。 当这些TLOS令牌被授予这些实体和所有TLOS令牌持有者时，令牌将没有面值，因为它们从交换价格中获得它们的价值（在它们未被列入世界上任何交易所的时候）或网络价值（在网络既没有启动也不能进行交易的时候）。
 
-Before the Telos network becomes live and open to transactions, the 6 ABPs will all relinquish their privileges and step aside for the 21 block producers elected from voting of at least 15% of all TLOS token holders. TLOS tokens will only attain value if the token holder-elected block producers in conjunction with the efforts of the members themselves create a working, valuable network.
+在Telos网络活跃并开放交易之前，6个ABPs将全部放弃他们的特权，并让位给通过至少15%TLOS令牌持有者投票选举出来的21个BP。 如果令牌持有者选举的BP与成员自己一期努力创建一个有效的，有价值的网络，TLOS令牌才会获得价值。
 
-Our understanding as ABPs is that, based on the comments of Mr. Hinman, published on the SEC web site, that TLOS tokens are not securities and our issuance of these no value tokens of ownership in a thoroughly decentralized network is not an offer of securities.
+我们作为ABP的理解是，根据Hinman先生在美国证券交易委员会网站上发表的评论，TLOS令牌不是证券，我们在完全去中心化的网络中发行这些没有价值的所有权令牌，并不是证券要约。
 
-The ABPs are not attorneys and this should not be construed as legal advice. Frankly, this is largely unsettled law. However, Director Hinman’s statements are clear and have been published on the SEC web site, signaling that they are officially sanctioned. Based on this definition, it seems difficult to deem TLOS a security under the US SEC definition.
+ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 根据这一定义，似乎很难将TLOS视为美国证券交易委员会定义下的证券。 Based on this definition, it seems difficult to deem TLOS a security under the US SEC definition.
 
 **NOTE: THIS IS NOT LEGAL OR SECURITIES ADVICE. IT IS OUR INTERPRETATION OF PUBLISHED STATEMENTS BY THE UNITED STATES SECURITIES EXCHANGE COMMISSION AS THEY MIGHT APPLY TO TLOS TOKENS. SEEK COUNSEL FROM YOUR OWN PROFESSIONAL ADVISORS BASED ON YOUR NEEDS AND JURISDICTION.**
 
 # Telos FAQ
 
-**Q: What is Telos?**
+**问：什么是Telos？**
 
-A: Telos is a new blockchain network based on EOSIO software.
+答：Telos是一种基于EOSIO软件的新区块链网络。
 
-**Q: What is the difference between Eos and Telos?**
+**问：Eos和Telos有什么区别？**
 
-A: Eos and Telos are both networks running the EOSIO software. Any smart contract that runs on one system should run equally well on the other. Telos has modified the Eos genesis snapshot and some rules to make the network more responsible to the majority of token holders, to be more attractive to DApp developers, and to generally run more responsively and sustainably.
+答：Eos和Telos都是运行EOSIO软件的网络。 在一个系统上运行的任何智能合约应该在另一个系统上运行良好。 Telos修改了Eos创世快照和一些规则，使网络对大多数令牌持有者更负责任，对DApp开发人员更具吸引力，并且通常以更具响应性和可持续性的方式运行。
 
-**Q: What is TLOS?**
+**问：什么是TLOS？**
 
-A: TLOS is the name of the token that reflects ownership in the Telos network. A TLOS token is like an EOS token except that there will be around 3X fewer TLOS tokens than EOS.
+答：TLOS是反映Telos网络所有权的令牌名称。 TLOS令牌就像一个EOS令牌，但是TLOS令牌将比EOS少大约3倍。
 
-**Q: Are you taking away people’s EOS tokens?**
+**问：你是否拿走了人们的EOS令牌？**
 
-A: No. EOS holders will have the exact same number of EOS tokens on the Eos network as they ever had. That is what they purchased from Block.one. Telos is a new project based on the Eos network. The Eos source code is open source and freely available to fork. We have decided to give an equal number of TLOS tokens to every EOS token holder on the genesis snapshot, but capping values at 40,000 TLOS per genesis address. This means that there will be no whales created from the Telos genesis, although the total token ownership of any account is unlimited once the network launches.
+答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分叉。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 This means that there will be no whales created from the Telos genesis, although the total token ownership of any account is unlimited once the network launches.
 
 **Q: Is Telos an airdrop?**
 
