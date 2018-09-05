@@ -21,7 +21,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [较低的DApp部署成本](#lower-cost-dapp-deployment)
     - [较少的网络停顿](#fewer-network-pauses)
     - [增强的安全性](#enhanced-security)
-    - [由区块生产者运营的公共测试网](#public-testnet-operated-by-block-producers)
+    - [由区块生产者运作的公共测试网](#public-testnet-operated-by-block-producers)
     - [TELOS/EOS主网兼容性](#teloseos-mainnet-compatibility)
   - [面向通证持有者](#for-token-holders) 
     - [所有的投票都有意义](#meaningful-voting-for-all)
@@ -109,8 +109,8 @@ Telos将EOSIO代码分配到新的区块链中并更新了以下元素：
   
   - 基于投票固定产生21个BP以及30个预备节点。
   - BP与预备节点之间薪酬的平衡。 所有BP将被支付相同的薪酬，所有预备BP将被支付50％的BP费率。
-  - 备用BP将定期（每3-7天）轮流进行一小段时间生成区块以取得报酬，以及证明其已准备好生产。
-  - 无法连续生成180个区块的活跃BP将暂时被备用BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
+  - 预备BP将定期的（每3-7天）参与短时间的区块生产以验证其处于预备生产状态，以此获取酬劳。
+  - 无法连续生成180个区块的活跃BP将暂时被预备BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
   - BP和备用BP因未生成/错过的区块而受到处罚。
   - This model will reduce incidence of network pauses due to 6 or more BPs becoming inactive.
   - **Active** BPs and standby BPs will have a clear minimum requirement in terms of information disclosure, practices, and hardware/connectivity – any that do not meet minimum will be prevented from serving regardless of voting.
