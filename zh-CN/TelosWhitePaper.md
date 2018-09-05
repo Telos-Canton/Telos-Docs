@@ -31,7 +31,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [被盗通证的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
   - [面向区块生产者](#for-block-producers) 
     - [公平的报酬模式](#equitable-payout-model)
-    - [公平的投票/反投票权重](#equitable-voting--inverse-vote-weighting)
+    - [公平的投票/反向投票加权](#equitable-voting--inverse-vote-weighting)
     - [智能合约加强对区块生产者的要求](#smart-contract-enforced-block-producer-requirements)
     - [节点维护的常规停机时间](#regular-downtime-for-node-maintenance)
 - [TELOS令牌分配](#telos-token-distribution) 
@@ -142,11 +142,11 @@ Telos网络有望更加稳定，因为BP是基于能力由广泛的社区投票�
 
 ## Telos —— 一个崭新的开始
 
-Eos主网的启动揭示了该系统的许多重要缺点。 我们很幸运从中学到了东西。 其中许多问题将及时得到解决。 Telos的优势是可以从新开始，可以直接处理这些问题，并在发布时立即解决最紧迫的问题。 Telos网络为在网络上运行EOSIO软件提供了新的开始，该网络专注于为DApp开发人员和令牌持有者提供明确而直接的价值。 最终，Telos可能会提供一个创新解决方案的测试平台，这个测试平台EOS主网可能会采用。 目前，Telos旨在成为一个有成本效益的，高度可靠的网络，用户可以免费加入，开发人员可以负担得起部署他们的DApps。
+Eos主网的启动揭示了该系统的许多重要缺点。 我们很幸运从中学到了东西。 其中许多问题将及时得到解决。 Telos的优势是可以从新开始，可以直接处理这些问题，并在启动时立即解决最紧迫的问题。 Telos网络为在网络上运行EOSIO软件提供了新的开始，该网络专注于为DApp开发人员和令牌持有者提供明确而直接的价值。 最终，Telos可能会提供一个创新解决方案的测试平台，这个测试平台EOS主网可能会采用。 目前，Telos旨在成为一个有成本效益的，高度可靠的网络，用户可以免费加入，开发人员可以负担得起部署他们的DApps。
 
 # Telos的优势
 
-Telos是基于Eos的新网络。 It offers many advantages over the Eos Mainnet.
+Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 对于开发者
 
