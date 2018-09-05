@@ -390,59 +390,59 @@ Telos基金会是一个去中心化的自治组织，使用Telos基金会投票�
 
 The Telos Foundation voters are drawn from active contributors to the Telos community—as selected by the existing Telos Foundation voters. The initial group of Telos Foundation voters will be draw from contributors to the Telos Network creation and launch. All Telos Foundation Voter Token holders will be publicly announced and their voting token addresses will be associated with their identities so that each voter’s voting record will also be publicly recorded on the blockchain.
 
-**The Telos Foundation has no role in network governance. It does not vote its tokens or issue positions on voting matters or BP selection. Its sole functions are to provide funding to beneficial Telos projects that might otherwise go unfunded and to help stabilize the price of RAM on the network.**
+**Telos基金会在网络治理方面没有任何作用。 它不会用其令牌投票或在投票事项或BP选择上发布立场。 它的唯一职能是为有益的Telos项目提供资金，否则这些项目可能无法获得资金，并有助于稳定网络上RAM的价格。**
 
-Areas where the Telos Foundation may grant tokens include:
+Telos基金会可能授予令牌的领域包括：
 
-    - Compensation for those who contributed to the Telos launch success
-    - Compensation for developers of valuable tools used on the Telos network
-    - Initiating funding for the Telos Arbitration Organization
-    - Reimbursing select exchanges for the cost of listing TLOS where necessary
-    - Funding new tool creation
-    - Funding advertising and marketing for the platform
-    - Providing RAM grants to developers priced out of deploying by speculators
-    - Any other function that promotes or secures the Telos network
+    对那些为Telos发布成功做出贡献的人的报酬
+    为Telos网络上使用的有价值工具的开发人员提供补偿
+    为Telos仲裁组织启动资金
+    在必要时偿还选择的交易所用于发行TLOS的成本
+    资助新工具的创建
+    为平台提供广告和营销资金
+    为那些因RAM投机者被高价格挤出而不能部署开发者提供RAM补助
+    促进或保护Telos网络的任何其他功能
     
 
-Many of these cases may also be funded through worker proposals. The Telos Foundation will fund proposals that its voting members feel are not adequately funded through voting proposals.
+其中许多案件也可能通过工人提案获得资助。 Telos基金会将资助其投票成员认为没有通过投票建议获得充足资金的提案。
 
-A foundation funded with tokens and entrusted with promoting the network is a common enough entity in cryptocurrency. Many blockchain projects establish ongoing funding for their project’s version of the Telos Foundation. Telos has decided to leave these decisions in the hands of the block producers at any given time to best support the decentralized nature of the Telos network.
+由金钱资助并受委托推广网络的基金会是加密货币中常见的实体。 许多区块链项目为其项目的Telos基金会版本建立了持续的资金。 Telos决定在任何特定时间将这些决定交给BP，以最好地支持Telos网络的去中心化。
 
 <img align="center" src="./images/the_telos_foundation.png" width="495.5px" height="162.5px" />
 
-# Launching a Complete Network
+# 启动完整的网络
 
-Telos benefits from the lessons of the EOS mainnet launch. Some decisions made in that launch have proven to be problematic. Telos will improve on the launch by including all the tools necessary for the network to be a success.
+Telos受益于EOS主网启动的教训。 在那次发布会上做出的一些决定已被证明是有问题的。 Telos将引入网络成功所需的所有工具来改进启动。
 
-## Voting Wallets
+## 投票钱包
 
-At Telos network launch, there will be approved voting wallets for users. Telos is working with wallet and tool developers including Scatter, Greymass, SimplEOS and Telos Lynx* to ensure that their wallets will work seamlessly on the Telos blockchain.
+在Telos网络启动时，将为用户提供经过批准的投票钱包。 Telos正在与钱包开发商Scatter和Greymass *合作，以确保他们的钱包能够与Telos区块链无缝协作。
 
 ## Governance
 
 Telos will have a full-force Telos Network Operating Agreement (like the EOS constitution) and all supporting governance documents upon launch addressing all areas of governance.
 
-## Referendum Process
+## 公投程序
 
-In addition to a full-force Constitution, Telos will have a constitutional referendum process upon launch in the form of a referendum voting contract. The referendum process will be clearly described and any Telos token holder may call the contract and propose a referendum vote.
+除了全面的宪法之外，Telos将以公投投票合同的形式启动宪法公投程序。 将明确描述公民投票过程，任何Telos成员调用合同并提出公民投票。
 
-## Worker Proposals Submission and Voting Process
+## 工人提案提交和表决程序
 
-Worker proposals are an important part of running the network. Upon Telos mainnet activation, there will be a well-documented, smart contract-based submission and voting process for worker proposals.
+工人提案是运行网络的重要部分。 在Telos主网络激活后，将为工人提案提供一份记录良好，基于智能合约的提交和投票流程。
 
-## Arbitration Process
+## 仲裁程序
 
-The Telos white paper includes an overview of the arbitration process, which is driven by a multi-party smart contract.
+Telos白皮书包括仲裁过程的概述，该过程由多方智能合约驱动。
 
-## Arbitration Body
+## 仲裁机构
 
-The Telos Arbitration Organization (TAO) will be active by the time the Telos mainnet activates. The Telos ABPs and others are actively seeking out qualified and interested personnel to lead the organization. To eliminate conflict of interest, the TAO will be initially funded by a grant from the Telos Foundation and thereafter, funded by arbitration fees and/or worker proposals.
+当Telos主网激活时，Telos仲裁组织（TAO）将处于活跃状态。 Telos ABP和其他人正在积极寻找合格且感兴趣的人员来领导该组织。 为了消除利益冲突，TAO最初将由Telos基金会提供资金，之后由仲裁费和/或工人提案资助。
 
-## Block Producer Enforcement
+## Bp执行
 
-Because elected block producers have the potential for enormous power in DPoS blockchains, it’s crucial that block producers swiftly police each other for infractions that, left unchecked, could threaten network security. Decentralizing the Telos voter base is an important step but without vigilance from elected block producers, centralization could emerge.
+由于选举出来的BP有可能在DPoS区块链中拥有巨大的权力，因此BP必须迅速监督对方的违规行为，如果（这些违规行为）未经检查，可能威胁网络安全。 去中心化Telos选民基础是一个重要的步骤，但如果没有选举产生的BP的警惕，中心化可能会出现。
 
-Telos will revise the Ricardian contract included in the regproducer smart contract that a member must execute in order to register as a block producer candidate. The existing contract asks block producer candidates to agree to certain provisions, but makes no suggestion about what should be done if these are violated. As a result, there has so far been no enforcement for infractions.
+Telos将修改regproducer智能合约中包含的Ricardian合同，成员必须执行这个合同以便注册为块生产者候选人。 现有合同要求BP候选人同意某些条款，但不建议如果违反这些条款应该采取什么措施。 因此，到目前为止还没有针对违规行为的执法措施。
 
 The revised Telos regproducer contract will clearly state proscribed actions along with penalties for violation—such as treating transactions preferentially, and will call on all other block producers to enforce. To facilitate this, there will be a smart contract that any block producer may execute documenting alleged violations on-chain and requiring all other block producers to vote to whether or not to enforce the required penalty. If a 2/3+1 majority votes to enforce, then the smart contract will carry out the enforcement immediately. No additional action will be required.
 
