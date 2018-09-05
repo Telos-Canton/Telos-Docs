@@ -4,7 +4,7 @@
 
 *一个可持续的去中心化 EOSIO 网络 作者：道格拉斯·泓恩（Douglas Horn）*
 
-TELOS - 事物的终极目的。 (FROM GREEK ΤΈΛΟΣ)
+TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 
 > “橡果的终极目的是成为一颗橡树。”——亚里士多德
 
@@ -56,19 +56,19 @@ TELOS - 事物的终极目的。 (FROM GREEK ΤΈΛΟΣ)
   - [仲裁程序](#arbitration-process)
   - [仲裁机构](#arbitration-body)
   - [区块生产者执行](#block-producer-enforcement)
-  - [Central Information Hub](#central-information-hub)
-- [Telos Block Producer Minimum Requirements](#telos-block-producer-minimum-requirements)
-- [Block Producer Pay](#block-producer-pay) 
-  - [Projected Telos Block Producer Pay and USD Value](#projected-telos-block-producer-pay-and-usd-value)
-- [Arbitration in the Telos Network](#arbitration-in-the-telos-network) 
-  - [Telos Arbitration Process](#telos-arbitration-process)
-- [Telos Stolen Fund Repatriation Process](#telos-stolen-fund-repatriation-process) 
-  - [Telos Stolen Fund Repatriation Process](#telos-stolen-fund-repatriation-process-1) 
-    - [Registered addresses that have not been stolen:](#registered-addresses-that-have-not-been-stolen)
-    - [Registered addresses that have been stolen:](#registered-addresses-that-have-been-stolen)
-    - [Unclaimed EOS tokens from token sale:](#unclaimed-eos-tokens-from-token-sale)
-    - [EOS tokens on exchanges at Eos mainnet launch:](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
-- [Telos RAM Speculation Prevention](#telos-ram-speculation-prevention) 
+  - [中央信息中心](#central-information-hub)
+- [Telos区块生产者最低要求](#telos-block-producer-minimum-requirements)
+- [区块生产者支付](#block-producer-pay) 
+  - [预计的Telos块生产者支付和美元价值](#projected-telos-block-producer-pay-and-usd-value)
+- [在Telos网络里的仲裁](#arbitration-in-the-telos-network) 
+  - [Telos仲裁程序](#telos-arbitration-process)
+- [Telos被盗资金汇回程序](#telos-stolen-fund-repatriation-process) 
+  - [Telos被盗资金汇回程序](#telos-stolen-fund-repatriation-process-1) 
+    - [登记未被盗的地址](#registered-addresses-that-have-not-been-stolen)
+    - [登记被盗的地址](#registered-addresses-that-have-been-stolen)
+    - [来自销售的未认领的EOS令牌](#unclaimed-eos-tokens-from-token-sale)
+    - [在EOS主网发布的交易所EOS TOKENS](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
+- [TELOS RAM投机预防](#telos-ram-speculation-prevention) 
   - [Limit Initial RAM Allocation](#limit-initial-ram-allocation)
   - [Tie RAM Increases to Network Utilization](#tie-ram-increases-to-network-utilization)
   - [Encourage Telos Foundation to Help Stabilize Price Swings](#encourage-telos-foundation-to-help-stabilize-price-swings)
@@ -118,7 +118,7 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
   - Statistics on BP/Stand-by performance will be published to empower voters towards electing more reliable BPs.
 - Telos code review/testing 
   - The block producers or a body elected by them will review code for security and value. 
-  - New code releases will be live tested on a private testnet maintained by all block producers and standbys prior to mainnet deployment.
+  - 新的代码发布在主网部署之前由所有BP和预备BP维护的私有测试网进行现场测试。
   - Block producers and standbys will coordinate updates based on private testnet results.
 - Telos DApp developers may designate original code portions of their DApps to be proprietary or open source. (All Eos DApps must be open source which will limit participation by many potential developers.)
 - Telos will reduce annual inflation to 2.5% compared to 5%.
