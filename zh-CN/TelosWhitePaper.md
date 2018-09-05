@@ -14,22 +14,22 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 
 - [橡果（Telos）项目](#the-telos-project) 
   - [分叉链橡果（Telos）](#the-telos-blockchain)
-  - [Telos给你一个崭新开始](#a-fresh-start-with-telos)
-- [Telos的优势](#the-telos-advantage) 
-  - [对于开发者](#for-developers) 
+  - [与橡果（Telos）来一个全新的开始](#a-fresh-start-with-telos)
+- [橡果（Telos）的优势](#the-telos-advantage) 
+  - [面向开发者](#for-developers) 
     - [允许拥有专利权的去中心化应用（DApps）](#proprietary-dapps-allowed)
-    - [较低的DApp开发成本](#lower-cost-dapp-deployment)
+    - [较低的DApp部署成本](#lower-cost-dapp-deployment)
     - [较少的网络停顿](#fewer-network-pauses)
     - [增强的安全性](#enhanced-security)
     - [由区块生产者运营的公共测试网](#public-testnet-operated-by-block-producers)
     - [TELOS/EOS主网兼容性](#teloseos-mainnet-compatibility)
-  - [对于通证持有者](#for-token-holders) 
+  - [面向通证持有者](#for-token-holders) 
     - [所有的投票都有意义](#meaningful-voting-for-all)
     - [每个通证具有更高平等性](#higher-equity-per-token)
     - [开发者专注于创造价值](#developer-focus-builds-value)
     - [较低的通胀率](#lower-inflation)
     - [被盗通证的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
-  - [对于区块生产者](#for-block-producers) 
+  - [面向区块生产者](#for-block-producers) 
     - [公平的支付模式](#equitable-payout-model)
     - [公平的投票/反投票权重](#equitable-voting--inverse-vote-weighting)
     - [智能合约加强对区块生产者的要求](#smart-contract-enforced-block-producer-requirements)
@@ -107,8 +107,8 @@ Telos将EOSIO代码分配到新的区块链中并更新了以下元素：
 
 - 修改区块生产者（BP）和备用BP的支付模型以更好地保护网络。
   
-  - 一个固定的21个BP加上30个基于投票产生的备用BP。
-  - 在区块生产者和备用生产者之间平衡薪酬。 所有BP将被支付相同的金额，所有备用BP将被支付50％的BP费率。
+  - 基于投票固定产生21个BP以及30个预备节点。
+  - BP与预备节点之间薪酬的平衡。 所有BP将被支付相同的薪酬，所有预备BP将被支付50％的BP费率。
   - 备用BP将定期（每3-7天）轮流进行一小段时间生成区块以取得报酬，以及证明其已准备好生产。
   - 无法连续生成180个区块的活跃BP将暂时被备用BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
   - BP和备用BP因未生成/错过的区块而受到处罚。
