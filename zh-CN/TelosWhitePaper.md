@@ -116,13 +116,13 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
   - BP和备用BP在信息披露，惯例和硬件/连接方面具有明确的最低要求 - 无论投票如何，任何不符合最低要求的都将被禁止服务。
   - minimum will be prevented from serving regardless of voting.
   - BP/备用BP表现的统计数据将被公布，以使选民能够指向更可靠的BP。
-- Telos code review/testing 
-  - The block producers or a body elected by them will review code for security and value. 
-  - 新的代码发布在主网部署之前由所有BP和预备BP维护的私有测试网进行现场测试。
-  - Block producers and standbys will coordinate updates based on private testnet results.
-- Telos DApp developers may designate original code portions of their DApps to be proprietary or open source. (All Eos DApps must be open source which will limit participation by many potential developers.)
-- Telos will reduce annual inflation to 2.5% compared to 5%.
-- Once activated, Telos addresses will not be destroyed after 3 years of non-use. This feature of Eos is unfair and unnecessary and will not be implemented in Telos. However, genesis Telos accounts created by the Eos genesis snapshot must be used at least once by their owners within one year to opt in to the system or they will be removed.
+- Telos代码审查/测试 
+  - 区块生产者或由他们选出的机构将审查代码的安全性和价值。 
+  - 新的代码版本将在主网络激活之前，在一个专用的测试网络上进行实时测试，这个专用网络由所有BP和备用BP维护。
+  - BP和备用BP将根据专用测试网络的结果协调更新。
+- Telos DApp开发人员可以将其DApp的原始代码部分指定为专有或开源。 （所有Eos DApps必须是开源的，这将限制许多潜在开发者的参与。）
+- Telos将年度通胀率降至2.5％，而不是5％。
+- Telos地址在不使用3年后不会被销毁。 Eos的这个功能是不公平和不必要的，不会在Telos中实施。 However, genesis Telos accounts created by the Eos genesis snapshot must be used at least once by their owners within one year to opt in to the system or they will be removed.
 
 Telos will be launched by a consortium of Eos block producer candidates who took part in the Eos Mainnet Launch Group (EMLG). This group is well versed in the mechanics of launching and running the mainnet since it has done so before.
 
