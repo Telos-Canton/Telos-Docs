@@ -42,7 +42,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [问题：DAPP开发者使用网络的积极性被抑制](#problem-dapp-developers-are-disincentivized-from-using-network)
     - [问题：网络停顿风险](#problem-network-pause-risk)
     - [问题：预备节点没有获得合理的报酬和接受定期检测](#problem-standby-bps-are-not-being-properly-paid-and-regularly-tested)
-    - [问题：EOS RAM可能提高部署DAPPS的成本](#problem-eos-ram-prospecting-drives-up-the-cost-of-deploying-dapps)
+    - [问题：EOS内存投机推高DAPPS的部署成本](#problem-eos-ram-prospecting-drives-up-the-cost-of-deploying-dapps)
     - [问题：Eos宪法未经批准](#problem-the-eos-constitution-is-unratified)
     - [问题：在启动时没有准备好裁决机构 ](#problem-adjudication-body-not-prepared-at-launch)
     - [Eos有高通胀](#problem-eos-has-high-inflation)
@@ -302,11 +302,11 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 ## Eos的问题以及Telos如何解决这些问题
 
-作为Eos Mainnet Launch Group（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它受到Eos中心化和Eos销售和流程要求引起的问题的影响。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos有很多纬度去提升tokenomics，因为这与Block.one无关，且不会通过ICO或预售筹集资金。 As a result, the Telos network may issue new TLOS tokens in any way it determines is best for the network.
+作为Eos Mainnet Launch Group（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它受到Eos中心化和Eos销售和流程要求引起的问题的影响。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos有很多纬度去提升tokenomics，因为这与Block.one无关，且不会通过ICO或预售筹集资金。 因此，Telos网络可以用确认对网络最好的方式发行新的TLOS通证。
 
 ### 问题：用户投票不重要 - 巨鲸控制网络。
 
-由于Eos网络内部存在巨大的经济差异，并且因为只有21个区块生产者被指定运营网络并因此获得巨额奖励，因此巨鲸令牌持有者控制着Eos系统。 他们可以轻而易举地投票选出最多30位将遵循他们要求的附属区块生产者。 可以随时通过巨鲸EOS令牌持有者删除独立区块生产者。
+由于Eos网络内部存在巨大的经济差异，并且因为只有21个BP被指定运营网络并因此获得巨额奖励，导致巨鲸通证持有者控制着Eos系统。 他们可以轻而易举地投票选出最多30位将遵循他们要求的附属BP。 可以随时通过巨鲸EOS通证持有者删除独立BP。
 
 Eos网络已经看到一些巨鲸的附属区块生产者未能生产区块，缺少必要的技术规划会议，并且没有向选民提供重要的信息披露。 这些巨鲸可能只是在Eos网络中吸收一大部分5％年度通胀，同时提供最低限度的服务，因为它们的投票能力使它们几乎无法被反对。
 
