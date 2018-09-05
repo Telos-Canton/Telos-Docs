@@ -184,69 +184,69 @@ Telos网络旨在为开发人员提供可靠，经济，管理良好的网络，
 
 ### 允许专利的DApps
 
-All DApp code running on the Eos mainnet must be open source. (Eos Constitution: Article VII) Telos will not force developers to open source their code.
+在Eos主网上运行的所有DApp代码都必须是开源的。 （Eos宪法：第VII条）Telos不会强迫开发人员开源他们的代码。
 
-### Lower Cost DApp Deployment
+### 降低DApp部署成本
 
-The Telos network will manage RAM requirements in a way that scales with actual usage. This will limit early RAM hoarding and keep the cost of deploying DApps more affordable.
+Telos网络将依实际使用比例来管理RAM需求。 这将限制早期RAM囤积并保持部署DApps的成本更加经济实惠。
 
-### Fewer Network Pauses
+### 更少的网络暂停
 
-The Telos network uses a block producer system that swaps all standbys into block production every 3-7 days to prove that all are capable of producing blocks whenever called on. This system also allows any block producer that is not operational to be temporarily swapped out after missing just 30 minutes (180 consecutive blocks) as opposed to 3 hours on the Eos mainnet. This reduces the risk of mandatory network pauses due to any 6 block producers becoming inactive at any given time.
+Telos网络使用区块生产者系统，该系统每天替换所有备用BP进行区块生产，以证明所有备用BP都能够在每次调用时生成区块。 该系统还允许任何不可运营的BP在错过30分钟（180个连续块）之后暂时换出，而不是在Eos主网上的3个小时。 这降低了由于6个BP在任何给定时间变为非活动状态而导致强制网络暂停的风险。
 
-### Enhanced Security
+### 增强的安全性
 
-Telos expands on the security of the Eos network by adding enforced minimum technical and information disclosure requirements for Telos block producers.
+Telos通过为Telos区块生产者添加强制性最低技术和信息披露要求，扩展了Eos网络的安全性。
 
-All Telos block producers and standbys are required to have a node on the BP private testnet where new patches can be tested before implementation on the mainnet* . This increases network security by revealing new bugs prior to implementation and allows for better update coordination among block producers to reduce the incidents of dead chains.
+所有Telos BP和备用BP都必须在BP专用测试网上有一个节点，在实施之前可以测试新的补丁*。 这通过在实施之前披露新的故障来增加网络安全性，并允许BP之间更好的更新协调以减少死链的事件。
 
-(* except emergency security patches for known exploits.)
+（*已知漏洞的紧急安全补丁除外。）
 
-### Public Testnet Operated by Block Producers
+### 公共测试网由BP运营
 
-All Telos block producers and standbys are required to contribute a node to a full and open testnet identical to the Telos mainnet. This aids in app development and testing.
+所有Telos区块生产者和备用BP都需要将一个节点贡献给与Telos主网相同的完整且开放的测试网络。 这有助于应用程序开发和测试。
 
-### Telos/Eos Mainnet Compatibility
+### Telos / Eos主网兼容性
 
-The Telos network runs the same EOSIO software as the Eos mainnet, so DApps written for Eos can run on Telos. The primary code changes on the Telos network relate to how BPs are paid, elected, and temporarily removed from service due to noncompliance. All other differences result from genesis snapshot modifications, constitutional changes, and organizational principles.
-
-* * *
-
-## FOR TOKEN HOLDERS
-
-Telos tokens (TLOS) have advantages over EOS tokens:
-
-### Meaningful Voting For All
-
-The Telos genesis token ownership caps all genesis accounts at 40,000 TLOS tokens. Telos Foundationowned addresses cannot vote. As a result, Telos token ownership is one of the most proportionate of any cryptocurrency network. Telos members have a much more equal say in the governance of the network than Eos members.
-
-### Higher Equity Per Token
-
-Each EOS token represents 1/1,000,000,000 of the total value of the Eos network. Because Telos has fewer tokens, each TLOS token represents approximately 1/330,000,000* of the value of the Telos network. That is more than 3X the network ownership percentage for the same number of tokens.
-
-(* Depending on the total number of Exchanges that activate TLOS token distribution for their EOS token owners.)
-
-### Developer Focus Builds Value
-
-The value of any Eos-based network will ultimately reflect the network’s usefulness to developers in deploying DApps. Telos offers additional value to developers through features like lower DApp deployment costs and the ability to deploy proprietary code. These features may make the Telos network more attractive and more valuable to developers over time.
-
-### Lower Inflation
-
-Eos inflation is set at 5% per year. Telos will aim for inflation of 2.5% per year. TLOS token inflation will be as much as 50% lower than that of EOS.
-
-### Pre-activation Resolution of Stolen Tokens
-
-The Telos Foundation and ABPs will provide a smart contract to allow any EOS holders who had tokens stolen to prove their ownership prior to Telos mainnet launch. This will return the tokens to their rightful owners and prevent additional members from unwittingly purchasing tokens that may later be frozen due to theft.
+Telos网络运行与Eos主网相同的EOSIO软件，因此为Eos编写的DApp可以在Telos上运行。 Telos网络上唯一的代码改动，与BP如何被支付，选择和音不合规暂时被从服务中删除有关。 所有其他差异都来自于创世纪快照的修改，宪法变更和组织原则。
 
 * * *
 
-## FOR BLOCK PRODUCERS
+## 对于令牌持有者
 
-Block producers validate transactions, provide network security, and perform crucial governance roles on the blockchain. In order to attract the best possible block producers to the Telos network, we have enacted the following improvements:
+Telos令牌（TLOS）优于EOS令牌：
 
-### Equitable Payout Model
+### 所有人的投票都有意义
 
-The Telos block producer system is comprised of 21 block producers and 30 standbys, organized by rank based on user votes. Every block producer will be paid the same daily share of the Telos 1% inflation. Every standby block producer (up to 30) will receive one half the amount that the top 21 block producers receive. Every standby block producer will rotate into active block production every 3-7 days to “earn their keep” and prove that they are constantly available to fulfill their responsibilities. Block producers will be penalized for any missed blocks and statistics will be provided to Telos voters.
+Telos创世令牌所有权限制了所有创世纪账户上限为40,000个TLOS令牌。 Telos基金会拥有的地址不能投票。 Telos基金会拥有的地址不能投票。 因此，Telos令牌所有权是任何加密货币网络中其中一个最均衡比例的。 与Eos成员相比，Telos成员在网络治理方面拥有更为平等的发言权。
+
+### 每个令牌更高权益
+
+每个EOS令牌代表Eos网络总值的1 / 1,000,0000,000。 由于Telos有较少的令牌，因此每个TLOS令牌代表Telos网络值的大约1 / 330,000,000 *。 对于相同数量的令牌，这是网络所有权百分比的3倍以上。
+
+（*取决于为其EOS令牌所有者激活TLOS令牌分发的交易所总数。）
+
+### 开发者专注建立价值
+
+任何基于Eos的网络的价值最终都将反映网络对开发人员部署DApps的有用性。 Telos通过降低DApp部署成本和部署专有代码的能力为开发人员提供额外的价值。 随着时间的推移，这些功能可能使Telos网络对开发人员更具吸引力和更有价值。
+
+### 更低的通胀
+
+Eos通胀率定为每年5％。 Telos的目标是每年通胀2.5％。 TLOS令牌通胀率将比EOS低50％。
+
+### 被盗令牌的预激活解决方案
+
+Telos基金会和ABP将提供一份智能合约，允许任何被盗的EOS持有人在Telos主网启动之前证明其所有权。 这会将令牌返还给他们的合法所有者，并防止其他成员无意中购买可能因盗窃而被冻结的令牌。
+
+* * *
+
+## 对于区块生产者
+
+区块生产者验证交易，提供网络安全性，并在区块链上执行关键的治理角色。 为了吸引最好的区块生产者加入Telos网络，我们已经实施了以下改进：
+
+### 公平的支付模式
+
+Telos区块生产者系统由21个BP和30个备用BP组成，根据用户投票排名。 每个区块生产者将获得与Telos 1％通胀相同的每日份额。 Every standby block producer (up to 30) will receive one half the amount that the top 21 block producers receive. Every standby block producer will rotate into active block production every 3-7 days to “earn their keep” and prove that they are constantly available to fulfill their responsibilities. Block producers will be penalized for any missed blocks and statistics will be provided to Telos voters.
 
 ### Equitable Voting / Inverse Vote Weighting
 
