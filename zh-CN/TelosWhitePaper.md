@@ -150,21 +150,21 @@ Telos是基于Eos的新网络。 It offers many advantages over the Eos Mainnet.
 
 对于开发人员
 
-    允许专利的DApps
-    降低DApp部署成本
-    网络暂停较少
-    增强安全性
-    公共测试网由BP运营
-    Telos / Eos主网兼容性
+    - 允许专利的DApps
+    - 降低DApp部署成本
+    - 网络暂停较少
+    - 增强安全性
+    - 公共测试网由BPs运营
+    - Telos/Eos主网兼容性
     
 
-对于令牌持有人
+对于通证持有者
 
-    所有人的投票都有意义
-    每个令牌的权益更高
-    开发人员关注建立价值
-    更低的通胀率
-    被盗令牌的预激活解决方案
+    - 所有人的投票都有意义
+    - 每个通证的权益更高
+    - 开发者专注创造价值
+    - 更低的通胀率
+    - 被盗通证的预激活解决方案
     
 
 对于区块生产者
@@ -686,41 +686,41 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分叉。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 This means that there will be no whales created from the Telos genesis, although the total token ownership of any account is unlimited once the network launches.
 
-**Q: Is Telos an airdrop?**
+**问：Telos是空投吗？**
 
-A: Telos is a completely new network using the same EOSIO operating software as Eos mainnet with a few small modifications. It is not an airdrop. However, the distribution of TLOS tokens is similar to an airdrop in that anyone who owned Eos tokens will receive new TLOS tokens at their addresses based on our genesis token distribution algorithm.
+答：Telos是一个全新的网络，使用与Eos主网相同的EOSIO操作软件，只需进行一些小的修改。 它不是空投。 然而，TLOS令牌的分布类似于空投，因为任何拥有Eos令牌的人都将根据我们的创世令牌分配算法在其地址接收新的TLOS令牌。
 
-**Q: What exactly is the Telos genesis token distribution algorithm?**
+**问：Telos创世纪令牌分配算法究竟是什么？**
 
-A: Simply, it is that all Telos genesis addresses will receive the same number of tokens as their corresponding Eos addresses held in the genesis snapshot—up to a maximum of 40,000 tokens. Except for a few special cases: Addresses proven to have been stolen, phished, or misregistered, thereby depriving their rightful owners of them will be restored to new addresses controlled by their rightful owners; and new genesis tokens will be created to compensate the Telos Launch Group contributors and community members promoting the network, and to establish the Telos Foundation.
+答：简单来说，就是所有Telos创世地址都将获得与创世快照中相应的Eos地址相同数量的令牌，最多可达40,000个令牌。 Except for a few special cases: Addresses proven to have been stolen, phished, or misregistered, thereby depriving their rightful owners of them will be restored to new addresses controlled by their rightful owners; and new genesis tokens will be created to compensate the Telos Launch Group contributors and community members promoting the network, and to establish the Telos Foundation.
 
-**Q: If you cap all accounts, how can EOS holders get TLOS from exchanges?**
+**问：如果您对所有账户设置上限，EOS持有人如何从交易所获得TLOS？**
 
-A: The TLOS block producers have the ability to create new tokens by a vote of 2/3+1. The 6 ABPs agree to create new tokens for distribution for any exchange that can show EOS holdings on the snapshot and that agrees: to list TLOS; not to vote the exchange account; and to request and distribute only enough coins so that all EOS holders at the time of the snapshot receive their coins capped at 40,000 per account. The ABPs will have a process in place for exchanges to petition them to create TLOS tokens and promise to honor all valid petitions. (It will require a vote of 5 of the 6 block producers to accomplish this.) Once the Telos network activates and the elected block producers validate the network, it will take a vote of 15 of the 21 block producers to create new tokens for exchanges.
+答：TLOS BP能够通过2/3 + 1的投票创建新的令牌。 6个ABP同意为任何可以在快照上显示EOS持有量的交易所创建新的令牌，这些交易所必须同意：交易TLOS; 不投票交易所账户; 并且要求和分发刚好足够的硬币，使快照时所有EOS持有者收到的硬币上限为每个账户40,000。 ABPs将有一个请求交易所创建TLOS令牌的流程，并请求它们承诺尊重所有有效的请愿书。 （需要对6个区块生产商中的5个进行投票才能实现这一目标。）一旦Telos网络激活并且选出的BP验证网络，将对21个区块生产商中的15个进行投票，以便为交易所创建新的代币。
 
-**Q: Why cap genesis addresses at 40,000 TLOS?**
+**问：为什么限制创世地址的TLOS为40,000个？**
 
-A: The largest 1,050 Eos addresses control about 90% of EOS tokens and therefore completely control block producer selection, their voting, and ultimately the entire network. This makes the system dangerously centralized. By capping genesis addresses at 40,000 TLOS—approximately the 90th percentile of ownership—the Telos network will be one of the most evenly distributed major blockchains in existence. 162,930 addresses will have exactly as many TLOS as they did EOS. The total TLOS token supply will be lowered to approximately 200-400,000,000 TLOS tokens depending on how many exchanges petition to recreate their wallets.
+答：最大的1,050个Eos地址控制着大约90％的EOS令牌，因此完全控制了BP的选举，他们的投票，最终控制了整个网络。 这使得系统严重中心化。 通过限制创世地址40,000个TLOS - 大约90％的所有权 - Telos网络将成为现存最均匀分布的主要区块链之一。 162,930个地址将具有与EOS一样多的TLOS。 The total TLOS token supply will be lowered to approximately 200-400,000,000 TLOS tokens depending on how many exchanges petition to recreate their wallets.
 
-**Q: Can Telos addresses ever have more than 40,000 TLOS?**
+**问：Telos地址可以拥有超过40,000个TLOS吗？**
 
-A: Yes. The 40,000 TLOS cap only applies at the network genesis. Addresses may hold any amount of TLOS thereafter.
+答：是的。 40,000 TLOS上限仅适用于网络创世账户。 之后，地址可以保留任何数量的TLOS。
 
-**Q: Will you still require 15% of TLOS token holders to vote to launch the mainnet?**
+**问：您是否仍需要15％的TLOS令牌持有者投票启动主网？**
 
-A: Yes. However, with addresses capped and Telos Foundation addresses permanently excluded from voting, the number of total votes needed to launch will decrease. This will represent a much broader cross-section of individual TLOS token holders.
+答：是的。 但是，由于地址上限且Telo基金会地址永久被排除在投票之外，启动所需的总票数将减少。 这将代表更广泛的有代表性的各个TLOS令牌持有者群体。
 
-**Q: What is the difference between the Telos mainnet launch and activation?**
+**问：Telos主网启动和激活有什么区别？**
 
-A: Telos mainnet launch is the process of the beginning to run the Telos network to allow votes to be cast for block producers and for network validation. Activation is the point when TLOS holders can begin transferring or otherwise controlling their tokens beyond just voting. Activation will commence 24 hours after 15% of TLOS token holders eligible to vote have voted for block producers and mainnet activation and at least 40 block producer candidates meet the minimum block producer requirements.
+答：Telos主网启动是开始运行Telos网络的过程，允许BP和网络验证投票。 激活是当TLOS持有者可以开始转移或以其他方式控制其令牌而不仅仅是投票的时间点。 激活将在有资格投票的TLOS令牌持有者中有15％投票支持BP和主网激活，并且至少40个BP候选符合最低BP要求的24小时后开始。
 
-**Q: If exchange addresses cannot vote, will my TLOS tokens be able to vote if they are currently on an exchange?**
+**问：如果交易所地址不能投票，我的TLOS令牌是否可以投票，如果它们目前在交易所？**
 
-A: Once tokens are off the exchange and on your own Telos address, you can vote them. Individual owners cannot vote their tokens held on exchanges. Preventing voting from exchange accounts keeps exchanges from voting with customer tokens, which is against the Telos rules.
+答：一旦令牌离开交易所并在您自己的Telos地址，您可以投票。 个人所有者不能用其在交易所持有的令牌投票。 防止交易所账户投票要使交易所不能用客户令牌进行投票，因为这同样违反了Telos规则。
 
-**Q: Will this hurt the Eos network?**
+**问：这会伤害Eos网络吗？**
 
-A: The Eos network will succeed or fail based on its own merits. We hope it succeeds, as we are all deeply invested in this project. However, the Eos mainnet release has revealed problems with the system that will be difficult to resolve on the Eos blockchain. “Whales” have shown that they generally just vote for their own block producer partners and even game the rewards system to harm other block producers— this may also be expected once worker proposals emerge. The Eos network is under the control of a few whale accounts. We offer a fresh approach where all token holders’ voices matter. Telos also hopes to provide a testbed for new ideas that may eventually be adopted by the Eos mainnet. In this way we hope to strengthen Eos.
+答：Eos网络成功或失败取决于它自身的价值。 我们希望它成功，因为我们都在这个项目上投入了大量资金（和精力）。 然而，Eos主要网络版本已经揭示了Eos区块链难以解决的系统问题。 “巨鲸”已经表明，他们通常只投票支持他们自己的BP合作伙伴，甚至还会利用奖励系统来伤害其他BP - 一旦工人提案出现，这也可能是预期的。 Eos网络由几个巨鲸账户控制。 我们提供了一种全新的方法，所有令牌持有者的声音都很重要。 Telos还希望提供一个测试平台，来测试那些最终可能被Eos主网采用的新想法。 通过这种方式，我们希望加强Eos。 In this way we hope to strengthen Eos.
 
 **Q: If these changes will fix the network, why doesn’t Eos make them?**
 
