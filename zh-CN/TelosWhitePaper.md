@@ -75,7 +75,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 - [Telos交易所请愿程序](#telos-exchange-petition-process) 
   - [交换TLOS令牌创建请愿程序](#exchange-tlos-token-creation-petition-process)
 - [Telos是证券吗？](#is-telos-a-security)
-- [问答](#telos-faq)
+- [常见问题](#telos-faq)
 
 <!-- /MarkdownTOC -->
 
@@ -211,7 +211,7 @@ Telos网络运行与Eos主网相同的EOSIO软件，因此为Eos编写的DApp可
 
 * * *
 
-## 对于令牌持有者
+## 对于通证持有者
 
 Telos令牌（TLOS）优于EOS令牌：
 
