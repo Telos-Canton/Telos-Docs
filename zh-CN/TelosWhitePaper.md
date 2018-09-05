@@ -148,7 +148,7 @@ Eos主网的发布揭示了该系统的许多重要缺点。 我们很幸运从�
 
 Telos是基于Eos的新网络。 It offers many advantages over the Eos Mainnet.
 
-对于开发人员
+对于开发者
 
     - 允许专利的DApps
     - 降低DApp部署成本
@@ -720,43 +720,43 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：这会伤害Eos网络吗？**
 
-答：Eos网络成功或失败取决于它自身的价值。 我们希望它成功，因为我们都在这个项目上投入了大量资金（和精力）。 然而，Eos主要网络版本已经揭示了Eos区块链难以解决的系统问题。 “巨鲸”已经表明，他们通常只投票支持他们自己的BP合作伙伴，甚至还会利用奖励系统来伤害其他BP - 一旦工人提案出现，这也可能是预期的。 Eos网络由几个巨鲸账户控制。 我们提供了一种全新的方法，所有令牌持有者的声音都很重要。 Telos还希望提供一个测试平台，来测试那些最终可能被Eos主网采用的新想法。 通过这种方式，我们希望加强Eos。 In this way we hope to strengthen Eos.
+答：Eos网络成功或失败取决于它自身的价值。 我们希望它成功，因为我们都在这个项目上投入了大量资金（和精力）。 然而，Eos主要网络版本已经揭示了Eos区块链难以解决的系统问题。 “巨鲸”已经表明，他们通常只投票支持他们自己的BP合作伙伴，甚至还会利用奖励系统来伤害其他BP - 一旦工人提案出现，这也可能是预期的。 Eos网络由几个巨鲸账户控制。 我们提供了一种全新的方法，所有令牌持有者的声音都很重要。 Telos还希望提供一个测试平台，来测试那些最终可能被Eos主网采用的新想法。 通过这种方式，我们希望加强Eos。
 
-**Q: If these changes will fix the network, why doesn’t Eos make them?**
+**问：如果这些改变将修复网络，为什么Eos不能做出改变？**
 
-A: Block.one sold EOS tokens in their tokensale. They accepted money for tokens and made certain representations. They can’t easily change the results of their sale—especially by reducing the tokens of their largest contributors, which is really the key change that fixes the system. Telos is a completely new system that never took money from nor made promises to anyone. We intend to build a network using the open source Eos software (that we all helped pay for) to create an entirely new network that better represents the true purpose of Eos.
+答：Block.one在他们的令牌销售中售卖了EOS令牌。 他们接受了令牌的钱并做出了某些陈述。 他们无法轻易改变销售结果 - 特别是通过减少其最大贡献者的令牌，而这实际上是修复统的关键变革。 Telos是一个全新的系统，从不从任何人那里拿钱或做出承诺。 我们打算使用开源Eos软件（我们都帮助支付）建立一个网络，以创建一个更好地代表Eos真正目的的全新网络。
 
-**Q: Can I buy and sell TLOS tokens? What are they worth?**
+**问：我可以买卖TLOS令牌吗？ 它们有什么价值？**
 
-A: TLOS tokens will not gain value until the Telos mainnet launches and they are able to be traded. In practical terms, TLOS will gain real value when exchanges accept them to trade against other cryptocurrencies. We expect that this will happen because exchange customers will demand that they be given access to their tokens. The technical requirements for listing TLOS will be identical to EOS so we expect little resistance on that point. Once tokens are freely trading on exchanges they will find their value based on supply and demand. The TLOS token supply will be between one-fifth and one-third that of EOS, and the Telos network should be as good as or better than Eos. Telos will also not have any “whale” addresses which often are responsible for price manipulations in other coins.
+答：在Telos主网启动并且能够进行交易之前，TLOS令牌不会获得价值。 实际上，当交易所接受它们与其他加密货币交易时，TLOS将获得实际价值。 我们预计会发生这种情况，因为交易所客户会要求他们获得他们的令牌。 交易TLOS的技术要求与EOS相同，因此我们期望在这一点上几乎没有阻力。 一旦令牌在交易所自由交易，他们就会根据供需情况找到它们的价值。 TLOS令牌供应量将是EOS的五分之一到三分之一，Telos网络应该与Eos一样好或更好。 Telos也没有任何“巨鲸”地址，这些巨鲸通常造成其他令牌的价格操纵。
 
-**Q: Are you selling TLOS tokens?**
+**问：您是否在销售TLOS令牌？**
 
-A: We are not selling any TLOS tokens. We will use the Eos Snapshot with the following changes: 1) Capping all addresses at 40,000; 2) Creating a process for exchange addresses to petition the BPs to create TLOS tokens for their EOS snapshot owners by listing and distributing TLOS tokens (up to 40,000 per account holder); 3) Providing new public keys to EOS token holders who can prove that their tokens were stolen or misregistered; 4) Adding 6M new tokens to form a Telos Founders Reward Pool, 1M new tokens to form a Telos Community Rewards Pool, and 6M TLOS tokens to the Telos Foundation Ltd, to support network needs that cannot otherwise be funded. These tokens currently have no value and will only gain value if the Launch Group and Telos Foundation can create a valuable network. The Telos Foundation pledges to never vote its tokens.
+答：我们不销售任何TLOS令牌。 我们将使用Eos快照进行以下更改：1）将所有地址限制为40,000个; 2）创建交易所地址流程，请求BP通过交易和分发TLOS令牌为其EOS快照所有者创建TLOS令牌（每个账户持有者最多40,000）; 3）向能够证明其令牌被盗或注册错误的EOS令牌持有人提供新的公钥; 4）向6个ABPs中的每一个添加1M新令牌，作为对初始ABP（3年内授予）和6M TLOS令牌的授予给Telos基金会，以支持无法以其他方式获得资金的网络需求。 这些令牌目前没有任何价值，只有在ABPs和Telos基金会能够创建有价值的网络时才会获得价值。 Telos基金会承诺永远不会用它的令牌投票。
 
-**Q: Who are you and why are you launching Telos?**
+**问：你们是谁？为什么要启动Telos？**
 
-A: We are a group of Eos block producer candidates who have contributed to the system, run testnets, and taken part in the Eos Mainnet Launch Group that voted to unanimously launch the mainnet. We believe in the promise of Eos, but we have come to be concerned that the current system is deeply flawed due to the overwhelming power of Eos token holders with enormous holdings. We hope that Eos can overcome this problem, but in the meantime, we want to launch a new, more decentralized network using the Eos technology.
+答：我们是一群Eos Bp候选人，为系统做出了贡献，运行了测试网，并参加了一致启动主网的Eos Mainnet Launch Group的投票。 我们相信Eos的承诺，但我们担心当前的系统由于拥有巨额资产的Eos令牌持有者拥有压倒性的力量，因此存在缺陷。 我们希望Eos可以克服这个问题，但与此同时，我们希望使用Eos技术推出一个新的，更加去中心化的网络。
 
-**Q: Can Eos block producers also be Telos block producers?**
+**问：Eos Bp也可以成为Telos Bp吗？**
 
-A: Absolutely! We hope they will since they know how to run EOSIO nodes well. Anyone who meets the minimum requirements for a Telos block producer may submit themselves for voting.
+答：绝对是！ 我们希望他们知道如何很好地运行EOSIO节点。 任何符合TelosBP最低要求的人都可以提交（申请）接受投票。
 
-**Q: Can developers make their code proprietary?**
+**问：开发人员可以将其代码专有吗？**
 
-A: Yes. If the developer has not accepted payment as a block producer, code reviewer, or worker proposal recipient in the past six months, they can designate the original code in a DApp as proprietary. Any underlying open source code that the DApp is built upon will remain open source, of course. By contrast, all smart contracts running on the Eos network must be open source according to the Eos Constitution.
+答：可以。 如果开发人员在过去六个月内未作为BP、代码审核者或工人提案接收者而接收支付，他们可以将DApp中的原始代码指定为专有。 当然，任何基于DApp构建的底层开源代码都将保持开源。 相比之下，根据Eos宪法，在Eos网络上运行的所有智能合约都必须是开源的。
 
-**Q: What if Telos users don’t want to use proprietary software on the blockchain?**
+**问：如果Telos用户不想在区块链上使用专有软件怎么办？**
 
-A: Each smart contract will designate if portions of its code are proprietary. Telos members will be able to choose whether or not they wish to work with proprietary smart contracts or only open source contracts.
+答：每个智能合约都会指定其代码的某些部分是否为专有。 Telos成员将能够选择是否希望使用专有智能合约或仅使用开源合约。
 
-**Q: When will the Telos mainnet launch?**
+**问：Telos主网何时推出？**
 
-A: The Telos Launch Group will hold a series of “go/no-go” votes about launching the Telos mainnet starting on September 28, 2018. To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. Once a majority “go” vote is reached, the network will be launched by the ABPs until it receives both 15% of all outstanding Telos votes (Telos Foundation addresses), and at least 40 Telos block producer candidates who meet the minimum requirements. At this point the ABPs will resign any special powers and 24 hours later the Telos mainnet will activate for transactions. In other words, we will wait for a groundswell of support from both the original Eos token holders and a group of highly qualified technical block producer candidates. We believe that this will indicate a true mandate for the Telos network.
+A: The Telos Launch Group will hold a series of “go/no-go” votes about launching the Telos mainnet starting on September 28, 2018. To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. Once a majority “go” vote is reached, the network will be launched by the ABPs until it receives both 15% of all outstanding Telos votes (Telos Foundation addresses), and at least 40 Telos block producer candidates who meet the minimum requirements. At this point the ABPs will resign any special powers and 24 hours later the Telos mainnet will activate for transactions. In other words, we will wait for a groundswell of support from both the original Eos token holders and a group of highly qualified technical block producer candidates. 我们相信这将表明Telos网络的真正授权。
 
-**Q: How are Telos block producers paid?**
+**问：Telos Bp如何获得报酬？**
 
-A: Telos will have 21 active block producers and up to 30 standby block producers sharing the 1% TLOS inflation. Each block producer will be paid the same flat rate and each standby will be one half of that rate. All will receive pay deductions for missed blocks.
+Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀率。 每个BP将获得相同的统一费率，每个备用BP将得到该费率的一半。 All will receive pay deductions for missed blocks.
 
 **Q: Will the team launching Telos take a fee for its service?**
 
