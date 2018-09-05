@@ -143,46 +143,46 @@ Telos网络很可能更加稳定，因为区块生产者BP将通过广泛社区�
 
 ## Telos - 一个崭新的开始
 
-The Eos mainnet launch has revealed numerous important shortcomings of the system. We are fortunate to have learned from these. Many of these problems will be solved in time. Telos has the benefit of a clean slate to deal with these problems head on and solve the most pressing problems immediately on launch. The Telos network offers a fresh start to run the EOSIO software on a network that focuses on providing clear and immediate value to DApp developers and token holders. Ultimately, Telos may provide a testbed of innovative solutions that the EOS mainnet may adopt. For now, Telos aims to be a cost-effective, highly reliable network that users can join for free and developers can afford to deploy their DApps on.
+Eos主网的发布揭示了该系统的许多重要缺点。 我们很幸运从中学到了东西。 其中许多问题将及时得到解决。 Telos的优势是可以从新开始，可以直接处理这些问题，并在发布时立即解决最紧迫的问题。 Telos网络为在网络上运行EOSIO软件提供了新的开始，该网络专注于为DApp开发人员和令牌持有者提供明确而直接的价值。 最终，Telos可能会提供一个创新解决方案的测试平台，这个测试平台EOS主网可能会采用。 目前，Telos旨在成为一个有成本效益的，高度可靠的网络，用户可以免费加入，开发人员可以负担得起部署他们的DApps。
 
-# The Telos Advantage
+# Telos优势
 
 Telos is a new network based on Eos. It offers many advantages over the Eos Mainnet.
 
-For Developers
+对于开发人员
 
-    - Proprietary DApps allowed
-    - Lower cost DApp deployment
-    - Fewer network pauses
-    - Enhanced Security
-    - Public testnet operated by BPs
-    - Telos/Eos mainnet compatibility
+    允许专利的DApps
+    降低DApp部署成本
+    网络暂停较少
+    增强安全性
+    公共测试网由BP运营
+    Telos / Eos主网兼容性
     
 
-For Token Holders
+对于令牌持有人
 
-    - Meaningful voting for all
-    - Higher equity per token
-    - Developer focus builds value
-    - Lower inflation
-    - Pre-activation resolution of stolen tokens
+    所有人的投票都有意义
+    每个令牌的权益更高
+    开发人员关注建立价值
+    更低的通胀率
+    被盗令牌的预激活解决方案
     
 
-For Block Producers
+对于区块生产者
 
-    - Equitable payout model
-    - Equitable voting / Inverse Vote Weighting
-    - Smart contract enforced block producer requirements
-    - Scheduled windows for node maintenance
+    公平的支付模式
+    公平投票/反投票权重
+    智能合约强制执行区块生产者要求
+    节点维护的定期停机时间
     
 
 * * *
 
-## FOR DEVELOPERS
+## 对于开发者
 
-The Telos network exists to provide a reliable, affordable, well managed network for developers to release DApps. Telos offers the following advantages over the Eos mainnet:
+Telos网络旨在为开发人员提供可靠，经济，管理良好的网络，以释放DApp。 Telos与Eos主网络相比具有以下优势：
 
-### Proprietary DApps Allowed
+### 允许专利的DApps
 
 All DApp code running on the Eos mainnet must be open source. (Eos Constitution: Article VII) Telos will not force developers to open source their code.
 
