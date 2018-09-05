@@ -22,10 +22,10 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [较少的网络停顿](#fewer-network-pauses)
     - [增强的安全性](#enhanced-security)
     - [由区块生产者运作的公共测试网](#public-testnet-operated-by-block-producers)
-    - [TELOS/EOS主网兼容性](#teloseos-mainnet-compatibility)
+    - [TELOS/EOS主网相互兼容](#teloseos-mainnet-compatibility)
   - [面向通证持有者](#for-token-holders) 
-    - [所有的投票都有意义](#meaningful-voting-for-all)
-    - [每个通证具有更高平等性](#higher-equity-per-token)
+    - [所有人的投票都有意义](#meaningful-voting-for-all)
+    - [每个通证拥有更高的权益](#higher-equity-per-token)
     - [开发者专注于创造价值](#developer-focus-builds-value)
     - [较低的通胀率](#lower-inflation)
     - [被盗通证的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
@@ -87,12 +87,12 @@ Eos系统为新经济带来了了不起的承诺。 不幸的是，高度集中�
 
 Telos是基于相同EOSIO代码的一个替代网络，旨在解决Eos的关键问题。 Telos网络提供：
 
-1. 经济去中心化 - 没有巨鲸地址
+1. 经济分散 - 没有巨鲸地址
 2. BP和预备BP的公平薪酬结构
 3. DApp开发人员友好的专有DApps和较低成本部署
 4. 额外的通证持有者保护方案和被盗通证的预激活解决方案
 
-> “EOS的梦想，在修复它的中心化问题之前是不会实现的。” – Juan M. Villaverde, Weiss Ratings
+> “EOS的梦想，在解决它集权化的问题之前是不会实现的。” – Juan M. Villaverde, Weiss Ratings
 
 ## Telos区块链
 
@@ -101,7 +101,7 @@ Telos将EOSIO代码分配到新的区块链中并更新了以下元素：
 - 通过将创世快照中每个地址的通证数量限制为40,000 Telos（TLOS），来消除少数“巨鲸”的极端经济实力。
   
   - 消除了巨鲸对BP选举和通证持有者投票的控制。
-  - 交易在快照时将被给予一个请求进程，为其EOS所有人创建TLOS通证， 供他们同意列入TLOS并分发通证，每个账户持有者的持有上限为40,000个。 
+  - 交易在快照时将被给予一个请求进程，为其EOS所有人创建TLOS通证，供他们同意列入TLOS并分发通证，每个账户持有者的持有上限为40,000个。 
   
   <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
 
@@ -112,16 +112,16 @@ Telos将EOSIO代码分配到新的区块链中并更新了以下元素：
   - 预备BP将定期的（每3-7天）参与短时间的区块生产以验证其处于预备生产状态，以此获取酬劳。
   - 无法连续生成180个区块的活跃BP将暂时被预备BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
   - BP和备用BP因未生成/错过的区块而受到处罚。
-  - This model will reduce incidence of network pauses due to 6 or more BPs becoming inactive.
-  - **Active** BPs and standby BPs will have a clear minimum requirement in terms of information disclosure, practices, and hardware/connectivity – any that do not meet minimum will be prevented from serving regardless of voting.
-  - Statistics on BP/Stand-by performance will be published to empower voters towards electing more reliable BPs.
+  - 该模型将减少由于6个或更多BP变为不活跃而导致网络暂停的发生率。
+  - BP和预备BP在信息泄漏、演习和硬件/连接方面具有明确的最低要求 - 无论投票如何，任何服务若不符合最低要求的都将被阻止。 
+  - 公布BP /预备BP表现的统计数据，以使选民能够获得更可靠的BP。
 - Telos代码审查/测试 
   - 区块生产者或由他们选出的机构将审查代码的安全性和价值。 
   - 新的代码版本将在主网络激活之前，在一个专用的测试网络上进行实时测试，这个专用网络由所有BP和备用BP维护。
   - BP和备用BP将根据专用测试网络的结果协调更新。
 - Telos DApp开发人员可以将其DApp的原始代码部分指定为专有或开源。 （所有Eos DApps必须是开源的，这将限制许多潜在开发者的参与。）
 - Telos将年度通胀率降至2.5％，而不是5％。
-- Telos地址在不使用3年后不会被销毁。 Eos的这个功能是不公平和不必要的，不会在Telos中实施。 However, genesis Telos accounts created by the Eos genesis snapshot must be used at least once by their owners within one year to opt in to the system or they will be removed.
+- Telos地址在不使用3年后不会被销毁。 Eos的这个功能是不公平和不必要的，不会在Telos中实施。 然而，由Eos创世快照创建的创世Telos帐号它们的所有者必须在一年内使用一次，否则帐号将被移除。
 
 Telos将由参与Eos Mainnet Launch Group（EMLG）的Eos BP候选人联盟发起。 这个小组非常精通启动和运行主网的机制，因为它之前已经这样做了。
 
