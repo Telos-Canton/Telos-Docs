@@ -281,14 +281,14 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 - 删除86.5％的通证（865,000,000通证）的供应。
 - 在注册快照时减少仅0.67％的地址（1,098个地址）的持有的数量。
-- 循环供应从约996,691,000 EOS减少到178,473,249 TLOS令牌。
-- 假设另外78.6％（斐波那契水平）178,439,249将被重新加入货币供应量，因为为请求交易所创建的令牌，供应量将上升至约318,753,222。 
-  - 将为ABP和Telos基金会创建额外的12,000,000个令牌，创造大约330,753,222个TLOS令牌的总货币供应量 - 约为Eos货币供应量的三分之一。
-- 每个TLOS令牌将代表EOS令牌的网络权益的约3倍。
+- 这样的循环供应将约996,691,000 EOS通证减少到178,473,249 TLOS通证。
+- 假设由于请求交易所创建通证，将178,439,249 TLOS通证的78.6％（斐波那契水平）重新加入货币供应量，供应量将上升至约318,753,222。 
+  - 将为ABP和Telos基金会创建额外的12,000,000个通证，创造大约330,753,222个TLOS通证的总货币供应量，约为Eos货币供应量的三分之一。
+- 每个TLOS通证将代表EOS通证的网络权益的约3倍。
 
 ## 比较分布
 
-将每个地址令牌数量限制在40,000改变了不到0.67％的注册地址。 以更大的数量限制令牌数量不会显著改变受影响的地址数量。
+将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制令牌数量不会显著改变受影响的地址数量。
 
 <img align="center" src="./images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
@@ -766,7 +766,7 @@ Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀�
 
 答：Telos基金会绝对不会用它的通证投票。 ABPs令牌将在3年内均匀解锁，类似于Block. one的令牌背心。 如果没有许多TLOS令牌持有者的帮助，Abps将无法投票进入块生产者行列。 如果没有许多TLOS令牌持有者的帮助，ABPs将无法投票进入块生产者行列。
 
-**Q: Why are TLG members being compensated?**
+**问：为什么TLG成员会得到补偿？**
 
 A: Members of the Telos Launch Group are taking a central role in creating and launching the Telos network. They are bearing the costs and contributing the effort to bring the network to life. To compensate their work and defray cost they incur, they are being granted new genesis tokens on the Telos blockchain distributed from the Telos Founders Reserve Pool. These tokens are of zero value at the genesis and will only gain value if the TLG, Telos Foundation, and other participants can launch a valuable network. This approach is in line with bounty programs common in cryptocurrency launches. The total amount of compensation for the many founders/bounty recipients is ~1.8% of the expected Telos token supply, which is a low number for cryptocurrency projects where large amounts of work are required and no funding has been sought.
 
