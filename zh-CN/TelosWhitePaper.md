@@ -1,4 +1,4 @@
-# Telos（橡果）白皮书 v1.3
+# 橡果（Telos）白皮书 v1.3
 
 <img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
 
@@ -6,28 +6,28 @@
 
 TELOS - 事物的终极目的。 (FROM GREEK ΤΈΛΟΣ)
 
-> “The telos of an acorn is to become an oak tree.” – Aristotle.
+> “橡果的终极目的是成为一颗橡树。”——亚里士多德
 
-**DRAFT 1.2: AUGUST 15, 2018**
+**草案 1.2：2018年8月15日**
 
 <!-- MarkdownTOC autolink=true levels=1,2,3 bracket=round bullets="-,*,+" -->
 
-- [The Telos Project](#the-telos-project) 
-  - [The Telos Blockchain](#the-telos-blockchain)
-  - [A Fresh Start with Telos](#a-fresh-start-with-telos)
-- [The Telos Advantage](#the-telos-advantage) 
-  - [FOR DEVELOPERS](#for-developers) 
-    - [Proprietary DApps Allowed](#proprietary-dapps-allowed)
-    - [Lower Cost DApp Deployment](#lower-cost-dapp-deployment)
-    - [Fewer Network Pauses](#fewer-network-pauses)
-    - [Enhanced Security](#enhanced-security)
-    - [Public Testnet Operated by Block Producers](#public-testnet-operated-by-block-producers)
-    - [Telos/Eos Mainnet Compatibility](#teloseos-mainnet-compatibility)
-  - [FOR TOKEN HOLDERS](#for-token-holders) 
-    - [Meaningful Voting For All](#meaningful-voting-for-all)
-    - [Higher Equity Per Token](#higher-equity-per-token)
-    - [Developer Focus Builds Value](#developer-focus-builds-value)
-    - [Lower Inflation](#lower-inflation)
+- [橡果（Telos）项目](#the-telos-project) 
+  - [TELOS区块链](#the-telos-blockchain)
+  - [Telos给你一个崭新开始](#a-fresh-start-with-telos)
+- [Telos的优势](#the-telos-advantage) 
+  - [对开发者](#for-developers) 
+    - [允许拥有专利权的去中心化应用（DApps）](#proprietary-dapps-allowed)
+    - [较低的DApp开发成本](#lower-cost-dapp-deployment)
+    - [较少的网络停顿](#fewer-network-pauses)
+    - [增强的安全性](#enhanced-security)
+    - [由区块生产者运营的公共测试网](#public-testnet-operated-by-block-producers)
+    - [TELOS/EOS主网兼容性](#teloseos-mainnet-compatibility)
+  - [对于通证持有者](#for-token-holders) 
+    - [所有的投票都有意义](#meaningful-voting-for-all)
+    - [每个通证具有更高平等性](#higher-equity-per-token)
+    - [开发者专注于创造价值](#developer-focus-builds-value)
+    - [较低的通胀率](#lower-inflation)
     - [Pre-activation Resolution of Stolen Tokens](#pre-activation-resolution-of-stolen-tokens)
   - [FOR BLOCK PRODUCERS](#for-block-producers) 
     - [Equitable Payout Model](#equitable-payout-model)
