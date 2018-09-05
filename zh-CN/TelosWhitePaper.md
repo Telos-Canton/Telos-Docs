@@ -288,17 +288,17 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 ## 比较分布
 
-将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制令牌数量不会显著改变受影响的地址数量。
+将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制通证数量不会显著改变受影响的地址数。
 
 <img align="center" src="./images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
 <img align="center" src="./images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
-将令牌数量限制为40,000个会改变EOS令牌供应的约86％。 将令牌上限设置为更高的数字将使更少数量的令牌持有者获得更多权力。
+将通证数量限制为40,000个会改变约86％的EOS通证供应量。 将通证上限设置为更高的数字将使更少数量的令牌持有者获得更多权力。
 
 <img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
-# Eos问题，Telos解决方案
+# Eos的问题，Telos解决
 
 ## Eos的问题以及Telos如何解决这些问题
 
@@ -482,7 +482,7 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
 
-Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由令牌持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
+Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
 
 # Bp薪酬
 
@@ -668,7 +668,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **NOTE: THIS IS NOT LEGAL OR SECURITIES ADVICE. IT IS OUR INTERPRETATION OF PUBLISHED STATEMENTS BY THE UNITED STATES SECURITIES EXCHANGE COMMISSION AS THEY MIGHT APPLY TO TLOS TOKENS. SEEK COUNSEL FROM YOUR OWN PROFESSIONAL ADVISORS BASED ON YOUR NEEDS AND JURISDICTION.**
 
-# Telos FAQ
+# 常见问题
 
 **问：什么是Telos？**
 
@@ -752,7 +752,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：Telos主网何时推出？**
 
-A: The Telos Launch Group will hold a series of “go/no-go” votes about launching the Telos mainnet starting on September 28, 2018. To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. Once a majority “go” vote is reached, the network will be launched by the ABPs until it receives both 15% of all outstanding Telos votes (Telos Foundation addresses), and at least 40 Telos block producer candidates who meet the minimum requirements. At this point the ABPs will resign any special powers and 24 hours later the Telos mainnet will activate for transactions. In other words, we will wait for a groundswell of support from both the original Eos token holders and a group of highly qualified technical block producer candidates. 我们相信这将表明Telos网络的真正授权。
+答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. Once a majority “go” vote is reached, the network will be launched by the ABPs until it receives both 15% of all outstanding Telos votes (Telos Foundation addresses), and at least 40 Telos block producer candidates who meet the minimum requirements. At this point the ABPs will resign any special powers and 24 hours later the Telos mainnet will activate for transactions. In other words, we will wait for a groundswell of support from both the original Eos token holders and a group of highly qualified technical block producer candidates. 我们相信这将表明Telos网络的真正授权。
 
 **问：Telos Bp如何获得报酬？**
 
@@ -768,7 +768,7 @@ Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀�
 
 **问：为什么TLG成员会得到补偿？**
 
-答：Telos Launch Group（TLG）的成员在创建和启动Telos网络方面发挥着核心作用。 They are bearing the costs and contributing the effort to bring the network to life. 为了补偿他们的工作和承担的成本支出，他们将获得从Telos创始人储备池分发的创世通证作为补助。 这些通证在创世时都是零价值的，只有当TLG，Telos基金会和其他参与者能够启动一个有价值的网络时，才会获得价值。 这种方法跟加密货币发布时的赏金计划是一致的。 创始人和赏金得奖者的补偿总额占预期Telos通证发行量的1.8%，对于需要大量工作且没有寻求资金的加密货币项目来说这是一个很低的数字。
+答：Telos Launch Group（TLG）的成员在创建和启动Telos网络方面发挥着核心作用。 他们承担着成本并为将网络真正的启动而付出努力。 为了补偿他们的工作和承担的成本支出，他们将获得从Telos创始人储备池分发的创世通证作为补助。 这些通证在创世时都是零价值的，只有当TLG，Telos基金会和其他参与者能够启动一个有价值的网络时，才会获得价值。 这种方法跟加密货币发布时的赏金计划是一致的。 创始人和赏金得奖者的补偿总额占预期Telos通证发行量的1.8%，对于需要大量工作且没有寻求资金的加密货币项目来说这是一个很低的数字。
 
 **问：Telos基金会是什么？**
 
