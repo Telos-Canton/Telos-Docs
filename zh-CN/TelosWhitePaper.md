@@ -47,10 +47,10 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [问题：在启动时没有准备好裁决机构 ](#problem-adjudication-body-not-prepared-at-launch)
     - [Eos有高通胀](#problem-eos-has-high-inflation)
     - [Eos账户可能在3年后被没收](#problem-eos-accounts-can-be-forfeit-after-3-years)
-- [Telos的基金会](#the-telos-foundation)
+- [Telos基金会](#the-telos-foundation)
 - [启动一个完整的网络](#launching-a-complete-network) 
   - [投票钱包](#voting-wallets)
-  - [宪法](#governance)
+  - [治理](#governance)
   - [公投程序](#referendum-process)
   - [工人提案提交和投票程序](#worker-proposals-submission-and-voting-process)
   - [仲裁程序](#arbitration-process)
@@ -588,43 +588,43 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
     2. 2. Telos ABP和BP不承担任何责任，并且不会对交易所持有的令牌采取任何行动。
     
 
-The Telos ABPs intend to repatriate tokens that can be cryptographically proven to have been unregistered or stolen at the Ethereum registration or Eos voting stages under the rationale that this correction is possible and verifiable before the Telos network launches. We recognize that some losses were due to the ethereum registration process and the lack of approved consumer-grade voting wallets at Eos mainnet launch.
+Telos ABPs打算在Telos网络启动前根据以下理由进行密码验证，证明在以太坊注册或Eos投票阶段未注册或被盗，其理由是此修正是可能的并且可以验证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
 The Telos network will adopt base layer arbitration to protect token holders from theft. Not all forms of theft may be recoverable, but arbitrators will have the ability to call for block producers to freeze accused accounts for a limited amount of time upon presentation of evidence of theft. Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. The arbitration contract and Telos Arbitration Organization will be active from the time of the network launch.
 
-# Telos RAM Speculation Prevention
+# Telos RAM投机预防
 
-RAM speculation is a danger that has already emerged in Eos. Some speculation will always occur in healthy markets with scarce resources, however when speculation is out of control then it ties up valuable scarce resource and limits network availability. To maximize network utility and keep the Telos network a cost-effective place to deploy DApps, Telos will implement the following tactics meant to discourage rampant speculation.
+RAM投机是Eos中已经出现的危险。 一些投机总是会出现在资源稀缺的健康市场中，但是当投机失控时，它会占用宝贵的稀缺资源并限制网络可用性。 为了最大化网络效用并使Telos网络成为部署DApps的经济高效的地方，Telos将实施以下策略以阻止猖獗的投机。
 
-- Limit initial RAM allocation
-- Tie RAM increases to network utilization
-- Encourage Telos Foundation to help stabilize price swings
+- 限制初始RAM分配
+- 将RAM的增加和网络利用率绑定
+- 鼓励Telos基金会帮助稳定价格波动
 
-## Limit Initial RAM Allocation
+## 限制初始RAM分配
 
-The Eos launch allocated 64GB of RAM on mainnet launch. This number is far, far more than any DApp on the network requires. To speculators this is an enormous land grab opportunity of a scarce resource at a very cheap price. Eventually this RAM will be valuable. This “RAM-grab” will lead to high speculation and a boom-bust cycle that works against network stability and makes deploying DApps a challenge to budget. This is a strike against the Eos network for serious developers and may serve to keep small innovators priced out of Eos altogether.
+Eos在主网发布时分配了64GB的RAM。 这个数字远远超过网络上任何DApp所需的数量。 对于投机者而言，这是一个巨大的土地抢夺机会，以非常便宜的价格获得稀缺资源。 最终这个RAM将是有价值的。 这种“RAM抓取”将导致高度投机和繁荣 - 萧条周期，这对网络稳定性起反作用，并使部署DApps成为预算难题。 对于认真的开发人员而言，这是针对Eos网络的罢工，可能会让小型创新者完全放弃Eos。
 
-To encourage developers and avoid price swings, the Telos network will launch with 4GB of RAM. While this sounds low, it will be more than enough to support any real DApps or airdrops on the system. The low number serves as an incentive not to speculate on Telos RAM because new RAM can be released, reducing elevated values of existing speculation.
+为了鼓励开发人员并避免价格波动，Telos网络将推出4GB内存。 虽然这听起来很低，但它足以支持系统上任何真正的DApp或空投。 较低的数字可以激励人们不去投机Telos RAM，因为可以释放新的RAM，从而降低现有投机的升值。
 
-## Tie RAM Increases to Network Utilization
+## 将RAM的增加和网络利用率绑定
 
-The Eos mainnet is debating how and when to change the RAM supply. Increasing available RAM will temporarily lower the price but will ultimately worsen speculation because there will be less potential RAM to release in the future.
+Eos主网正在讨论如何以及何时更改RAM供应。 增加可用内存将暂时降低价格，但最终会加剧投机，因为将来可能会释放更少的潜在内存。
 
-The Telos network will tie new RAM releases to utilization figures. The initial proposed value is that when >50% of the network RAM is consistently in use over a set period of time, new RAM will be released. This will tie new RAM to network growth. The block producers will ultimately determine the network RAM supply via the ‘setram’ action.
+Telos网络将新的RAM版本与利用率数据联系起来。 最初提出的价值是当在一段时间内持续使用的RAM>50％，将释放新的RAM。 这将把新RAM与网络增长联系起来。 The block producers will ultimately determine the network RAM supply via the ‘setram’ action.
 
-## Encourage Telos Foundation to Help Stabilize Price Swings
+## 鼓励Telos基金会帮助稳定价格波动
 
-The Telos Foundation is a non-governing body with independent governance. Its goal is to promote network growth through grants. It has an endowment for these grants which can also serve as a method to help discourage RAM speculation.
+Telos基金会是一个独立治理的非管理机构，就像美联储一样。 其目标是通过拨款促进网络增长。 它拥有这些拨款，这也可以作为一种帮助阻止RAM投机的方法。
 
-The Telos Foundation will publish regular guidance on the price of Telos RAM that it sees as reasonable in the professional opinion of experts hired by the Foundation to set the Telos published guidance price for RAM. When the price is lower than this guidance price, the Telos Foundation may buy RAM. When the price is higher, it may sell. This is intended to help stabilize the price. This approach naturally has its limits, but it is expected to aid in discouraging price gouging. Further, the Telos Foundation may elect to sell or lease RAM to developers at its published guidance price (regardless of current price) to encourage some developers to build on the system. When publishing its guidance price, the Telos Foundation will include published advice to the Telos block producers about when to release more RAM into the system. This decision will remain with the block producers, however. Any professionals hired by the Telos Foundation to set RAM pricing will be prohibited from trading Telos RAM on their own accounts.
+Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价格低于此指导价时，Telos基金会可能会购买RAM。 当价格较高时，它可能会卖出。 这是为了帮助稳定价格。 这种方法自然有其局限性，但预计会有助于抑制哄抬价格。 此外，Telos基金会可以选择以其公布的指导价格（不论当前价格）向开发商出售或租赁RAM，以鼓励一些开发人员在系统上构建。 When publishing its guidance price, the Telos Foundation will include published advice to the Telos block producers about when to release more RAM into the system. This decision will remain with the block producers, however. Any professionals hired by the Telos Foundation to set RAM pricing will be prohibited from trading Telos RAM on their own accounts.
 
-To ensure that small innovators are not priced out of the network, the Telos Foundation will also issue some grants in the form of RAM to such developers. In such cases, it will favor open source DApps.
+为了确保小型创新者不会被高价格挤出网络，Telos基金会还将向这些开发人员发放一些RAM形式的赠款。 在这种情况下，它将支持开源DApps。
 
-# Telos Exchange Petition Process
+# Telos交易所请求程序
 
-The Telos Appointed Block Producers (ABPs) create the following process to allow exchanges that listed EOS at the time of the snapshot to petition to have their Telos addresses funded through the creation of new TLOS tokens sufficient to provide TLOS tokens to EOS owners at the time of the snapshot (1:1 up to 40,000 TLOS per customer). The Telos ABPs agree to create tokens for every exchange that completes the process.
+Telos指定的BP（ABPs）创建了以下流程，允许在快照时列出EOS的交易所请求通过创建新的TLOS令牌来为其Telos地址提供资金，这些令牌足以为当时的EOS所有者提供TLOS令牌快照（每个客户1：1到40,000 TLOS）。 Telos ABPs同意为完成该过程的每个交易所创建令牌。
 
-The intent of the Telos project is to provide TLOS to all EOS token owners at the time of the Eos snapshot (up to 40,000 per address or exchange customer). The Telos ABPs encourage future Telos block producers to honor this intent and to create tokens necessary for every exchange that follows the petition process. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs. Therefore, the ABPs launching the Telos network will only have the full control to process exchange petitions during the period between launch and activation. Upon activation, the decision of whether or not to create new tokens for any petitioning exchange will be up to a vote of 15 of the 21 elected block producers at the time.
+Telos项目的目的是在Eos快照时为所有EOS令牌所有者提供TLOS（每个地址或交易所客户最多40,000）。 The Telos ABPs encourage future Telos block producers to honor this intent and to create tokens necessary for every exchange that follows the petition process. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs. Therefore, the ABPs launching the Telos network will only have the full control to process exchange petitions during the period between launch and activation. Upon activation, the decision of whether or not to create new tokens for any petitioning exchange will be up to a vote of 15 of the 21 elected block producers at the time.
 
 The Telos ABPs have established an exchange outreach working group to contact all Eos exchanges and help guide them through the process during the launch period. It is important to stress that only during the Telos launch period is the creation of TLOS tokens for petitioning exchanged guaranteed by the ABPs.
 
