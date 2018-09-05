@@ -299,45 +299,45 @@ Eos系统中令牌的分配是所有主要加密货币中最集中的其中一�
 
 <img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
-# Eos Problems, Telos Solutions
+# Eos问题，Telos解决方案
 
-## Eos Problems and How Telos Will Solve Them
+## Eos的问题以及Telos如何解决这些问题
 
-We have been closely involved throughout the Eos mainnet launch process as voting and contribution members of the Eos Mainnet Launch Group (EMLG). This has been an awesome experience and experiment in decentralized decision-making, but it is marred by problems caused by Eos centralization and requirements of the Eos sale and process. By eliminating the extreme centralization inherent to Eos, Telos will solve many of these problems. Telos has more latitude to improve the tokenomics because it is not related to Block.one and did not raise any money through an ICO or presale. As a result, the Telos network may issue new TLOS tokens in any way it determines is best for the network.
+作为Eos Mainnet Launch Group（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它受到Eos中心化和Eos销售和流程要求引起的问题的影响。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos has more latitude to improve the tokenomics because it is not related to Block.one and did not raise any money through an ICO or presale. As a result, the Telos network may issue new TLOS tokens in any way it determines is best for the network.
 
-### Problem: User votes don’t matter – Whales run the network.
+### 问题：用户投票不重要 - 巨鲸控制网络。
 
-Because of the huge economic disparity within the Eos network, and because only 21 block producers are designated to run the network and receive the large reward for doing so, whale token holders control the Eos system. They can simply vote in up to 30 affiliated block producers who will follow their demands. Independent block producers can be removed by giant EOS token holders at any time.
+由于Eos网络内部存在巨大的经济差异，并且因为只有21个区块生产者被指定运营网络并因此获得巨额奖励，因此巨鲸令牌持有者控制着Eos系统。 他们可以轻而易举地投票选出最多30位将遵循他们要求的附属区块生产者。 可以随时通过巨鲸EOS令牌持有者删除独立区块生产者。
 
-The Eos network has already seen that some block producers affiliated with whales are failing to produce blocks, missing necessary technical planning sessions, and failing to provide important information disclosures to voters. There is a danger that these whales may simply suck a large share of the 5% annual inflation out of the Eos network while providing minimal service because their voting power makes them practically unopposable.
+Eos网络已经看到一些巨鲸的附属区块生产者未能生产区块，缺少必要的技术规划会议，并且没有向选民提供重要的信息披露。 这些巨鲸可能只是在Eos网络中吸收一大部分5％年度通胀，同时提供最低限度的服务，因为它们的投票能力使它们几乎无法被反对。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-There are no whales in Telos. Token holders will have a meaningful vote.
+Telos没有巨鲸。 令牌持有者将获得有意义的投票。
 
-### Problem: DApp developers are disincentivized from using network.
+### 问题：DApp开发人员失去激励去使用网络。
 
-The Eos Constitution specifies that all DApps and contracts on the Eos network must be open source. While this is appropriate for many contracts, it will limit the development of commercial DApps on the network. Developers must invest heavily in each new product they create; they rely on protection of their inventions to recoup these investments. If commercial DApps must be open source, developers will instead choose blockchains where their works can be protected. Additionally, the Eos mainnet is experiencing speculation on RAM reservations which will drive up the cost of deploying DApps on the network.
+Eos宪法规定Eos网络上的所有DApp和合同必须是开源的。 虽然这适用于许多合同，但它将限制网络上商业DApp的开发。 开发人员必须对他们创建的每个新产品进行大量投资;他们依靠保护他们的发明来收回这些投资。 如果商业DApp必须是开源的，开发人员将选择可以保护其作品的区块链。 此外，Eos主网正在经历对RAM预留的猜测，这将推高在网络上部署DApps的成本。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-The Telos network will allow some applications to be designated as proprietary. Those who have received funds from the network (block producers, adjudicators, code contributors, etc.) within the last 6 months must designate any DApps as open source. In order to discourage speculation and lower the cost of deploying DApps, the Telos network will release RAM in concert with its actual DApp usage.
+Telos网络将允许某些应用程序被指定为专有。 那些在过去6个月内从网络（区块生产者，审判员，代码贡献者等）获得资金的人必须将任何DApp指定为开源。 为了阻止投机并降低部署DApps的成本，Telos网络将根据其实际的DApp使用情况释放RAM。
 
-### Problem: Network pause risk.
+### 问题：网络暂停风险。
 
-The Eos network requires “2/3+1” consensus to operate. Without this number of block producers running, the network must be paused until 2/3+1 BPs are active. In practical terms, this means that if just 6 of the 21 active Eos BPs fail to produce blocks, then the network goes down. Standby BPs do not automatically replace missing BPs. In fact, BPs that have been voted in can’t be removed for nonperformance for at least 3 hours. Exacerbating this problem is the fact that Eos standby block producers are not regularly tested for their ability to step in and produce blocks. Further, there are no enforced minimum requirements for an Eos block producer. The only requirement is to receive votes. The danger is that if block producers go down, they cannot be replaced for three hours and the standbys who replace them may not be ready to fill in.
+Eos网络需要“2/3 + 1”共识才能运行。 如果没有这个数量的BP运行，则必须暂停网络，直到2/3 + 1 BP处于活动状态。 实际上，这意味着如果21个活动Eos BP中只有6个无法生成区块，那么网络就会崩溃。 备用BP不会自动替换缺失的BP。 事实上，选上的BP在至少3个小时内无法被删除。 更加严重的问题是Eos备用BP没有定期测试他们替补和生产区块的能力。 此外，Eos BP没有强制执行的最低要求。 唯一的要求是获得投票。 危险在于，如果区块生产商停工，他们在三小时内不能被替换，替换他们的BP可能并没有准备就绪。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-The Telos network regularly cycles in standby block producers to produce blocks (at least once every 3-7 days for each standby). This cycling system will also temporarily replace any active block producer who has not produced blocks in 30 minutes. This system has three distinct advantages for network resiliency: nonproductive block producers will be more rapidly replaced meaning it is far less likely 6 will be down at any given time, forcing a network pause; standbys will regularly prove their readiness; block producers will receive semi-scheduled downtime to maintain and update their equipment. Further, Telos uses a smart contract and ‘oracles’ to enforce block producer eligibility, ensuring that every BP meets minimum technical requirements.
+Telos网络定期在备用BP中循环生成块（每个备用BP至少每3-7天一次）。 该循环系统还将临时替换任何在30分钟内未生产区块的活跃BP。 该系统在网络弹性上具有三个明显的优势：非生产性BP将被更快地替换，这意味着在任何给定时间，6个BP停工导致网络暂停的可能性将会明显降低; 备用BP将定期证明其准备就绪; BP将获得半计划的停机时间来维护和更新他们的设备。 此外，Telos使用智能合约来强制执行BP的合格性，确保BP满足最低技术要求。
 
-### Problem: Standby BPs are not being properly paid and regularly tested.
+### 问题：备用BP没有得到适当的支付和定期测试。
 
-Eos standby block producers are paid far less than the top 21 block producers and are rarely called upon to prove their capacity. Maintaining a top-notch node infrastructure is costly and without the need to prove their ability, standby block producers are likely to skimp on expensive improvements and maintenance—particularly because there are no enforced minimum requirements to meet. There is no ongoing mechanism for testing the readiness of standby block producers and primary block producers have no opportunities for scheduled downtime, which increases the challenges of maintaining the network. There is no way to be certain that the Eos mainnet will function properly in times of crisis.
+Eos备用BP的薪酬远低于前21名区块生产商，并且很少被要求证明其能力。 保持顶级节点基础设施成本高昂且无需证明其能力，备用BP可能会吝啬昂贵的改进和维护 - 特别是因为没有强制要求的最低要求。 没有持续的机制来测试备用BP的准备情况，主要BP没有机会进行计划停机，这增加了维护网络的挑战。 无法确定Eos主网在危机时刻是否能够正常运行。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-Telos has a pool of up to 30 standby block producers selected and paid by voting rank. Standby block producers are paid half the rate of the top 21 block producers. To earn this pay, each standby will cycle into block production for a several hours every 3-7 days on a regular schedule to ensure that all paid standbys are able to step in to produce whenever needed. This scheduled rotation means that primary block producers have predictable maintenance windows to maintain their nodes, which lowers operational cost and increases reliability. Block producers and standbys that fail to produce blocks will be penalized. This system makes it difficult for groups to game the payment rewards system and actively discourages vote buying. Telos has minimum requirements (both technical and informational) enforced by smart contract that every block producer must meet, regardless of voting.
+Telos有一个由多达30个备用BP的池，通过投票等级进行选择和支付。 Standby block producers are paid half the rate of the top 21 block producers. To earn this pay, each standby will cycle into block production for a several hours every 3-7 days on a regular schedule to ensure that all paid standbys are able to step in to produce whenever needed. This scheduled rotation means that primary block producers have predictable maintenance windows to maintain their nodes, which lowers operational cost and increases reliability. Block producers and standbys that fail to produce blocks will be penalized. This system makes it difficult for groups to game the payment rewards system and actively discourages vote buying. Telos has minimum requirements (both technical and informational) enforced by smart contract that every block producer must meet, regardless of voting.
 
 ### Problem: Eos RAM prospecting drives up the cost of deploying DApps.
 
