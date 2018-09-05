@@ -444,40 +444,40 @@ Telos白皮书包括仲裁过程的概述，该过程由多方智能合约驱动
 
 Telos将修改regproducer智能合约中包含的Ricardian合同，成员必须执行这个合同以便注册为块生产者候选人。 现有合同要求BP候选人同意某些条款，但不建议如果违反这些条款应该采取什么措施。 因此，到目前为止还没有针对违规行为的执法措施。
 
-The revised Telos regproducer contract will clearly state proscribed actions along with penalties for violation—such as treating transactions preferentially, and will call on all other block producers to enforce. To facilitate this, there will be a smart contract that any block producer may execute documenting alleged violations on-chain and requiring all other block producers to vote to whether or not to enforce the required penalty. If a 2/3+1 majority votes to enforce, then the smart contract will carry out the enforcement immediately. No additional action will be required.
+修订后的Telos regproducer合同将明确规定被禁止的行为以及违规处罚 - 例如优先处理交易，并将要求所有其他BP执行。 为了促进这一点，将有一个任何BP都可以执行的智能合约，记录涉嫌违规的链条，并要求所有其他BP投票决定是否执行所需的处罚。 如果2/3 + 1多数票投票执行，则智能合约将立即执行。 无需其他操作。
 
-## Central Information Hub
+## 中央信息中心
 
-Telos will host a variety of best-in-class blockchain tools at the TelosFoundation.io web site, giving Telos members and other interested parties a convenient hub for information. The website will be apolitical and show no favor to any block producer candidate over any other.
+Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为Telos会员和其他感兴趣的团队提供便利的信息中心。 该网站将是非政治性的，并且对任何BP候选人都没有任何偏袒。
 
-(* Scatter and Greymass do not endorse the Telos project. They are working with Telos to ensure compatibility for users of their products.)
+（* Scatter和Greymass不为Telos项目背书。 他们正在与Telos合作以确保其产品的兼容性。）
 
-# Telos Block Producer Minimum Requirements
+# Telos Bp最低要求
 
-All Telos block producers must meet a set of minimum requirements in order to serve, regardless of the number of votes they may receive. These requirements are both informational and technical. Compliance will be enforced by smart contract or some similar process to minimize subjectivity.
+所有Telos Bp必须满足一系列最低要求才能提供服务，无论他们可能获得多少票。 这些要求既是信息性的，也是技术性的。 合规性将通过智能合约或类似流程强制执行，以最大限度地减少主观性。
 
-Each block producer candidate will provide at a minimum:
+每个BP候选人将至少提供：
 
-**Information:**
+**信息：**
 
-    - A telosbp.json file containing information regarding company formation, ownership, website, social media connections, key administrative contact, key technical contact.
-    - Server connection information for at least 300 peers.
+    telosbp.json文件，包含有关公司构成，所有权，网站，社交媒体连接，关键管理联系人，关键技术联系人的信息。
+    至少300个对等方的服务器连接信息。
     
 
 **Technical:**
 
-    - Two mainnet nodes (one designated as block producer): Dedicated servers running no other processes, Intel Xeon processors with 8 cores, 128GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection with latency of under 500ms to testing node.
-    - Two testnet nodes (public developer testnet and private BP testnet for new software): Intel i7 processors, 16GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection.
+    两个主网节点（一个指定为BP）：不运行其他进程的专用服务器，具有8个内核的Intel Xeon处理器，128GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接，测试节点的延迟小于500ms。
+    两个testnet节点（公共开发人员testnet和新软件的私有BP testnet）：Intel i7处理器，16GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接。
     
 
-Each block producer’s compliance with the minimum requirements will be monitored by smart contracts and disinterested groups to ensure compliance. If the smart contract detects that a block producer is not in compliance it will:
+每个BP对最低要求的遵守将由智能合同和无利害关系团体监控，以确保合规性。 如果智能合约检测到Bp不符合要求，它将：
 
-    - Issue a notice of noncompliance to the block producer
-    - After 24 hours, prevent the block producer from serving
-      * All block producer votes will remain intact
-      * As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
-    - If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
-    - Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call.
+    向BP发出不合规通知
+    24小时后，阻止BP服务
+    所有BP投票将保持不变
+    一旦该BP检测到BP再次符合要求达1小时，它将有资格服务并将返回其收到的投票所决定的等级。
+    如果BP超过15天为满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
+    通过起草每个BP候选人必须致电的生产者合同中包含的Ricardian合同，将确保遵守智能合同无法验证的一些要素。
       * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
