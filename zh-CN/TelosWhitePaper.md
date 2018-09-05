@@ -418,7 +418,7 @@ Telos受益于EOS主网启动的教训。 在那次发布会上做出的一些�
 
 在Telos网络启动时，将为用户提供经过批准的投票钱包。 Telos正在与钱包开发商Scatter和Greymass *合作，以确保他们的钱包能够与Telos区块链无缝协作。
 
-## Governance
+## 治理
 
 Telos will have a full-force Telos Network Operating Agreement (like the EOS constitution) and all supporting governance documents upon launch addressing all areas of governance.
 
@@ -768,7 +768,7 @@ Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀�
 
 **问：为什么TLG成员会得到补偿？**
 
-A: Members of the Telos Launch Group are taking a central role in creating and launching the Telos network. They are bearing the costs and contributing the effort to bring the network to life. 为了补偿他们的工作和承担的成本支出，他们将获得从Telos创始人储备池分发的创世通证作为补助。 这些通证在创世时都是零价值的，只有当TLG，Telos基金会和其他参与者能够启动一个有价值的网络时，才会获得价值。 This approach is in line with bounty programs common in cryptocurrency launches. The total amount of compensation for the many founders/bounty recipients is ~1.8% of the expected Telos token supply, which is a low number for cryptocurrency projects where large amounts of work are required and no funding has been sought.
+答：Telos Launch Group（TLG）的成员在创建和启动Telos网络方面发挥着核心作用。 They are bearing the costs and contributing the effort to bring the network to life. 为了补偿他们的工作和承担的成本支出，他们将获得从Telos创始人储备池分发的创世通证作为补助。 这些通证在创世时都是零价值的，只有当TLG，Telos基金会和其他参与者能够启动一个有价值的网络时，才会获得价值。 这种方法跟加密货币发布时的赏金计划是一致的。 创始人和赏金得奖者的补偿总额占预期Telos通证发行量的1.8%，对于需要大量工作且没有寻求资金的加密货币项目来说这是一个很低的数字。
 
 **问：Telos基金会是什么？**
 
