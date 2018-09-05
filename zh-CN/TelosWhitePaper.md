@@ -36,7 +36,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [节点维护的常规停机时间](#regular-downtime-for-node-maintenance)
 - [TELOS令牌分配](#telos-token-distribution) 
   - [比较分配](#comparative-distribution)
-- [ Eos 问题，Telos 解决](#eos-problems-telos-solutions) 
+- [Eos问题，Telos解决方案](#eos-problems-telos-solutions) 
   - [Eos的问题以及Telos将怎样解决它们](#eos-problems-and-how-telos-will-solve-them) 
     - [问题：用户投票无关紧要 - 巨鲸统治网络](#problem-user-votes-don%E2%80%99t-matter-%E2%80%93-whales-run-the-network)
     - [问题：DAPP开发人员失去激励去使用网络](#problem-dapp-developers-are-disincentivized-from-using-network)
@@ -544,50 +544,48 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
   - 当事人可以向另一方的陈述和其他证据提出反驳，以处理异议声明或证据。
   - 仲裁员可以询问他或她认为必要的任何问题以确定结果。
   - 仲裁员仅根据与Telos章程和规则有关的证据以及有关智能合约的条款作出判决。 如果它们不同，则Ricardian合同记录的意图将比源代码更具意义。 该决定作为oracle数据点传输给智能合约，或通过案例的DASC传递给BP作为仲裁员命令。
-5. The arbitrator actions shall be executed directly (where allowed by prior agreement) or else submitted to block producers for execution. Such submission will be in the form of a transaction ordered to be executed on the blockchain along with arbitrator’s private key approval.
-6. The block producers must execute the orders of the DASC within 12 hours.
+5. 仲裁员的行为应直接执行（在事先协议允许的情况下），或者提交给BP执行。 此类提交将采用订单在区块链上执行的交易以及仲裁员的私钥批准。
+6. BP必须在12小时内执行DASC的命令。
 
-- The intent for TAO arbitrators is NOT to attempt to refund funds lost through theft. Telos and EOSIO software have high level security protections. This is the best defense against theft. Thieves will move too quickly to defeat with arbitration. The process only risks further contagion to innocent parties who may acquire the stolen tokens. 
-  - All funds stolen before the Telos launch begins that can provide cryptographic proof of ownership will be repatriated to original owners via assignment of new owner provided keys.
+- TAO仲裁员的意图不是试图退还因盗窃而损失的资金。 Telos和EOSIO软件具有高级别的安全保护。 这是防盗的最佳方法。 盗贼的行动太快，无法通过仲裁来打败。 这一过程只会进一步蔓延到可能获得被盗令牌的无辜方。 
+  - 在Telos启动之前，所有可以提供所有权的加密证明的被盗资金，都将通过分配新的所有者提供的密钥返还给原始所有者。
 
-# Telos Stolen Fund Repatriation Process
+# Telos被盗基金返还程序
 
-In some cases during the Eos ICO and registration process, some addresses were incorrectly registered, left unregistered, or falsely registered in scams. The Telos ABPs intend to correct this situation to the extent possible before the network launch and provide TLOS tokens to those who should rightfully have them.
+在某些情况下，在Eos ICO和注册过程中，某些地址未正确注册，未注册或在诈骗中错误注册。 Telos ABP打算在网络发布之前尽可能纠正这种情况，并向应该合理拥有它们的人提供TLOS令牌。
 
-To accomplish this, the ABPs will seek to credit those who can prove, using cryptographic keys, that they are the true owners of lost or stolen tokens. This includes EOS tokens that were not originally registered prior to the snapshot. The following process is for repatriating funds to their rightful owners in advance of the Telos network launch.
+为了实现这一目标，ABP将寻求贷记那些能够使用加密密钥证明他们是丢失或被盗令牌的真正所有者的人。 这包括最初不是在快照之前注册的EOS令牌。 以下是在Telos网络启动之前将资金返还给合法所有者的流程。
 
-## Telos Stolen Fund Repatriation Process
+## Telos被盗资金返还程序
 
-### Registered addresses that have not been stolen:
+### 未被盗的注册地址：
 
-    1. No action required. Your TLOS tokens will be on the network
+    1. 无需采取任何行动。 您的TLOS令牌将在网络上
     
 
-### Registered addresses that have been stolen:
+### 已被盗的注册地址：
 
-    1. Address owner files claim, providing:
-      * Stolen address
-      * Cryptographic signature from Ethereum wallet as proof
-      * A new EOSIO public key as half of a key pair that will control the account
-    2. Address will be posted for contestation for 10 days (with no identifying information).
-      * Any other user will have the opportunity to provide cryptographic evidence proving ownership.
-    3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
+    1. 1. 地址所有者文件声明，提供：
+    被盗地址
+    来自以太坊钱包的密码签名作为证据
+    一个新的EOSIO公钥，作为控制帐户的一对密钥对的一半 2. 地址将在10天内发布争议（没有识别信息）。
+      任何其他用户都有机会提供证明所有权的加密证据。
+    3. 3. 提供合法所有权加密证明的无可争议地址将使用Telos创世文件中提供的新公钥替换旧公钥。
     
 
-### Unclaimed EOS tokens from token sale:
+### 令牌销售中无人认领的EOS令牌：
 
-    1. Unregistered token owner files a claim providing:
-      * Eos ICO purchase transaction hash
-      * Cryptographic signature from purchasing Ethereum wallet as proof
-      * A new EOSIO public key as half of a key pair that will control the account
-    2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
+    1. 1. 未注册的令牌所有者提交索赔，提供：
+    Eos ICO购买交易哈希
+    购买以太坊钱包的密码签名作为证据
+    一个新的EOSIO公钥，作为控制帐户的一对密钥对的一半 2. 提供合法所有权的加密证明的地址将在Telos创世文件中插入地址和新公钥。
     
 
-### EOS tokens on exchanges at Eos mainnet launch:
+### Eos主网上交易所的EOS令牌发布：
 
-    1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot.
-      * Exchanges must complete the process in order to receive new tokens to distribute to their customers.
-    2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
+    1. 1. Telos ABP为交换提供了交换TLOS令牌创建请求流程，以便与ABP一起为其在快照时持有EOS的客户创建令牌。
+      ＊交易所必须完成流程才能接收新令牌以分发给客户。
+    2. 2. Telos ABP和BP不承担任何责任，并且不会对交易所持有的令牌采取任何行动。
     
 
 The Telos ABPs intend to repatriate tokens that can be cryptographically proven to have been unregistered or stolen at the Ethereum registration or Eos voting stages under the rationale that this correction is possible and verifiable before the Telos network launches. We recognize that some losses were due to the ethereum registration process and the lack of approved consumer-grade voting wallets at Eos mainnet launch.
