@@ -112,10 +112,9 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
   - 备用BP将定期（每3-7天）轮流进行一小段时间生成区块以取得报酬，以及证明其已准备好生产。
   - 无法连续生成180个区块的活跃BP将暂时被备用BP替换（在30分钟后，而不是Eos规则下的3小时后）。 3 hours under Eos rules). 
   - BP和备用BP因未生成/错过的区块而受到处罚。
-  - 该模型将减少由于6个或更多BP变为不活跃而导致的网络暂停的发生率。
-  - BP和备用BP在信息披露，惯例和硬件/连接方面具有明确的最低要求 - 无论投票如何，任何不符合最低要求的都将被禁止服务。
-  - minimum will be prevented from serving regardless of voting.
-  - BP/备用BP表现的统计数据将被公布，以使选民能够指向更可靠的BP。
+  - This model will reduce incidence of network pauses due to 6 or more BPs becoming inactive.
+  - **Active** BPs and standby BPs will have a clear minimum requirement in terms of information disclosure, practices, and hardware/connectivity – any that do not meet minimum will be prevented from serving regardless of voting.
+  - Statistics on BP/Stand-by performance will be published to empower voters towards electing more reliable BPs.
 - Telos代码审查/测试 
   - 区块生产者或由他们选出的机构将审查代码的安全性和价值。 
   - 新的代码版本将在主网络激活之前，在一个专用的测试网络上进行实时测试，这个专用网络由所有BP和备用BP维护。
@@ -337,33 +336,33 @@ Eos备用BP的薪酬远低于前21名区块生产商，并且很少被要求证�
 
 **Telos解决方案：**
 
-Telos有一个由多达30个备用BP的池，通过投票等级进行选择和支付。 Standby block producers are paid half the rate of the top 21 block producers. To earn this pay, each standby will cycle into block production for a several hours every 3-7 days on a regular schedule to ensure that all paid standbys are able to step in to produce whenever needed. This scheduled rotation means that primary block producers have predictable maintenance windows to maintain their nodes, which lowers operational cost and increases reliability. Block producers and standbys that fail to produce blocks will be penalized. This system makes it difficult for groups to game the payment rewards system and actively discourages vote buying. Telos has minimum requirements (both technical and informational) enforced by smart contract that every block producer must meet, regardless of voting.
+Telos有一个由多达30个备用BP的池，通过投票等级进行选择和支付。 备用BP的薪酬是前21名BP的一半。 为了获得这笔工资，每个备用BP将定期每3天循环生产几个小时，以确保所有被支付的备用BP能够在需要时立即投入生产。 此计划轮换意味着主要BP具有可预测的停机时间来维护其节点，从而降低了运营成本和提高可靠性。 未能生产区块的BP和备用BP将受到处罚。 该系统使得群组难以钻支付奖励系统的空子，并且灵活地阻止购买投票的行为。 Telos具有智能合约强制执行的最低要求（技术和信息），无论投票如何，每个BP必须满足这些要求。
 
-### Problem: Eos RAM prospecting drives up the cost of deploying DApps.
+### 问题：Eos RAM采矿推高了部署DApps的成本。
 
-The Eos network launched with much more available RAM than the system required. Prospectors have taken to reserving this RAM early, likely without the intention to use it, but only to speculate on the rising price of RAM in the future. This speculation has led to a rapid increase in the price of RAM. When the DApps arrive that need this RAM, it is likely to be priced very high which makes deploying applications on Eos unnecessarily expensive.
+Eos网络发行的RAM比系统所需的多得多。 矿工已经开始尽早保留这个RAM，可能不打算使用它，但只是为了投机未来RAM的价格上涨。 这种投机导致RAM价格迅速上涨。 当DApps到达时需要这个RAM，它可能定价非常高，这使得在Eos上部署应用程序不必要地昂贵。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-Telos will launch with just 4GB of RAM. This will enable initial DApps and airdrops that people may wish to launch on the network but will not leave incentive for RAM speculation because RAM that prospectors reserve can easily be supplanted by new RAM entering the system. As a result, people are more likely to simply reserve the RAM that their expected DApps will require. Block producers will monitor DApp RAM usage and will add new RAM capacity when actual usage necessitates it. Additionally, the Telos Foundation will issue periodic guidance about what it believes is a reasonable RAM price and it may purchase RAM below that price and sell RAM above that price to limit the value of speculation. Further, any time the current price of RAM is more than 10% above the published guidance price, the Telos Foundation will sell RAM to developers at the published guidance price.
+Telos将推出仅4GB的RAM。 这将使人们希望在网络上启动的任何类型的初始DApp和空投成为能够启动，但不会激励RAM投机，因为矿工保留的RAM可以很容易地被进入系统的新RAM取代。 因此，人们更有可能仅仅保留他们预期的DApps所需的RAM。 BP将监视DApp RAM的使用情况，并在实际使用时根据需要添加新的RAM容量。 此外，Telos基金会将定期发布其认为合理的RAM价格的指导，并且可以购买低于该价格的RAM并以高于该价格的价格出售RAM以限制投机的意义。 Further, any time the current price of RAM is more than 10% above the published guidance price, the Telos Foundation will sell RAM to developers at the published guidance price.
 
-### Problem: The Eos Constitution is unratified.
+### 问题：Eos宪法没有得到批准。
 
-The Eos Interim Constitution is self-defined as incomplete and requires revision and ratification before Eos can move forward with many of its legal and governance responsibilities. This is an expression of the founder’s personal values and Block.one’s need to keep the blockchain at arm’s length so as not to be deemed to have created a security. Due to the voting imbalances in EOS token distribution, the ratified constitution will likely support the needs of the whales over the needs of common users.
+Eos临时宪法自我定义为不完整，需要修改和批准，然后Eos才能推进其许多法律和治理职责。 这表达了创始人的个人价值观和Block.one需要保持区块链的一致性，以免被视为创造了一个证券。 由于EOS令牌分配中的投票不平衡，被批准的宪法可能会支持巨鲸而不是普通用户的需求。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. There is no need to wait for a revised or ratified version. Every Telos user will agree to this via Ricardian contract the first time they choose to use their Telos account. Telos users certainly have the right to amend the constitution whenever they deem this necessary. Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. However, the network will not be deemed unratified if this does not happenimmediately.
+The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. There is no need to wait for a revised or ratified version. Every Telos user will agree to this via Ricardian contract the first time they choose to use their Telos account. Telos users certainly have the right to amend the constitution whenever they deem this necessary. Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
 
-### Problem: Adjudication body not prepared at launch.
+### 问题：审判机构没有在发布时准备好。
 
-Eos relies on an adjudication body to resolve all disputes. However, that body has not yet been fully formed or prepared. There are no funds provided to facilitate this. Therefore, problems such as repatriating stolen funds is a difficult one for block producers to solve.
+Eos依靠裁决部门来解决所有争议。 但是，该机构尚未完全形成或准备好。 没有提供资金来促进这一点。 因此，诸如归还被盗资金等问题对于BP来说是一个难以解决的问题。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-Telos will initially resolve many judicial challenges prior to its mainnet launch. The Telos Arbitration Organization (TAO) will be ready to begin immediately. The TAO will accept the Telos Network Operating Agreement as complete and not requiring further ratification. The TAO will also have a clear and limited mandate as to which cases it can address. The Telos Foundation will initially fund the TAO so that it can resolve disputes immediately and remain free of conflict when adjudicating cases that involve block producers. Ongoing TAO funding will be paid from arbitration fees.
+Telos最初将在其主网启动之前解决许多司法挑战。 Telos仲裁组织（TAO）将立即准备就绪。 TAO将接受Telos章程的完整，不需要进一步批准。 对于它可以解决的案件，TAO也将有明确而有限的授权。 Telos基金会最初将资助TAO，以便在裁定涉及BP的案件时立即解决纠纷并保持没有（利益）冲突。 持续的TAO支持资金将来自仲裁费用。
 
-### Problem: Eos has high inflation
+### 问题：Eos通胀率很高
 
 Eos inflation is 5% per year. This is too much and debases the currency. At 5% inflation the money supply doubles in just 14 years. Major world economies are currently aiming for 2% annual inflation. Eos inflation is distributed 1% to block producers and with the remainder divided based on block producer votes for worker proposals. Because whales can control voting, they have the ability to drive much of this inflation to their affiliates.
 
