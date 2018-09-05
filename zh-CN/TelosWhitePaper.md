@@ -364,29 +364,29 @@ Telos最初将在其主网启动之前解决许多司法挑战。 Telos仲裁组
 
 ### 问题：Eos通胀率很高
 
-Eos inflation is 5% per year. This is too much and debases the currency. At 5% inflation the money supply doubles in just 14 years. Major world economies are currently aiming for 2% annual inflation. Eos inflation is distributed 1% to block producers and with the remainder divided based on block producer votes for worker proposals. Because whales can control voting, they have the ability to drive much of this inflation to their affiliates.
+Eos通胀率为每年5％。 通胀率太高了，使货币贬值。 通货膨胀率为5％时，货币供应在短短14年内翻了一番。 世界主要经济体目前的目标是年通胀率为2％。 Eos通胀分配1％给BP，剩余部分根据BP对工作提案的投票进行划分。 因为巨鲸可以控制投票，所以他们有能力将这种通货膨胀推向其附属公司。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-Telos will keep inflationlower, aiming for 2.5% per year. 1% will still go to 51 block producers and standbys (though divided more equally among them). The remainder will go to support adjudicators, development, and other functions. Because some DApps can be proprietary on Telos, the network will not need to pay as many grants to software developers.
+Telos将保持较低通胀率，目标是每年2.5％。 仍有1％将被分给51个BP和备用BP（尽管它们之间的分配比较均等）。 其余的将用于支持裁决者，发展和其他职能。 由于某些DApp可以在Telos上专有，因此网络不需要向软件开发人员支付过多的资金。
 
-### Problem: Eos accounts can be forfeit after 3 years
+### 问题：3年后，Eos帐户可能会被没收
 
-Under the Eos Constitution, any account that has not performed a transaction in 3 years is forfeit and its EOS tokens will be redistributed. Many long-term savers will be caught by this and unfairly lose their tokens. There is no method to appeal or recover tokens once lost. This is designed to protect system resources and keep people engaged with the network but it is far too draconian and seeks to solve a problem that has not been shown to actually exist.
+根据Eos章程，任何未在3年内完成交易的账户将被没收，其EOS令牌将被重新分配。 许多长期储蓄者将措手不及并不公平地失去他们的令牌。 一旦丢失，没有方法可以上诉或恢复令牌。 这旨在保护系统资源并使人们与网络保持联系，但它过于严苛，并试图解决实际上尚未显示的问题。
 
-**The Telos solution:**
+**Telos解决方案：**
 
-Telos will not have any token forfeiture in its initial Telos Network Operating Agreement. If TLOS holders choose to amend the constitution to include one it will be their choice, not something imposed upon them. Telos members whose accounts are created by the genesis will be required to access their accounts at least once within the first year after activation of the Telos mainnet to signify their opting-in to the network and its operating agreement. Genesis accounts that do not use the network within one year will be deleted.
+Telos will not have any token forfeiture in its initial Telos Network Operating Agreement. 如果TLOS持有者选择修改宪法以包括这个条款，那将是他们的选择，而不是强加于他们的东西。 Telos members whose accounts are created by the genesis will be required to access their accounts at least once within the first year after activation of the Telos mainnet to signify their opting-in to the network and its operating agreement. Genesis accounts that do not use the network within one year will be deleted.
 
-# The Telos Foundation
+# Telos基金会
 
-The Telos Foundation exists as a promotional and funding body to advance the network and provide support to network functions that are not funded in other ways. The aim of the Telos Foundation is to provide grants to groups promoting necessary network functions that cannot or are not supported by worker proposals. Early in the life of the network, worker proposals may be difficult to fund because the process is nascent and because there is little value in the early worker proposal fund while many projects need resources. Additionally, some groups may need funds that do not come from block producers. For example, the Telos Arbitration Organization may have a conflict of interest accepting initial funding from block producers, despite the fact that this initial funding is crucially important. By having the Telos Foundation fund these processes, this conflict is averted.
+Telos基金会作为促进和资助机构存在，以推进网络并为其他没有得到资金的网络功能提供支持。 Telos基金会的目的是向提供必要网络功能的团体提供资助，这些团体不能或未受到工人提案的支持。 在网络生命的早期阶段，工人提案可能难以筹集资金，因为这个流程刚刚起步，而且早期工人提案筹集的钱款的价值很小，而许多项目需要资源。 此外，一些团体可能需要不是来自BP的资金。 例如，Telos仲裁组织不能接受BP的初始资金，因为可能与BP有利益冲突，尽管这一初始资金至关重要。 通过让Telos基金会为这些流程提供资金，避免了这种冲突。
 
-The Telos Foundation also aims to add a tool to fight RAM speculation and runaway RAM prices currently seen on Eos. The Telos Foundation will publish periodic price guidance on its view of reasonable RAM pricing. When the RAM price is below the guidance price it may use funds to buy RAM to raise the price and when the RAM price is above the guidance price it may sell previously purchased RAM to help lower the price. This will help to stabilize the price of RAM away from wide swings that encourage speculation. The Telos Foundation will also provide RAM grants to small independent developers in need of RAM to deploy DApps on the network, with a preference for open source DApps. This will help ensure that new innovators are not priced out of entering the system.
+Telos基金会还旨在增加一种工具，以对抗当前在Eos上看到的RAM投资和失控的RAM价格。 Telos基金会将根据其认为的合理的RAM定价发布定期价格指导。 当RAM价格低于指导价格时，它可能会使用资金购买RAM来提高价格，当RAM价格高于指导价格时，它可能会出售先前购买的RAM以帮助降低价格。 这将有助于调整RAM的价格，避免大幅波动导致鼓励投机行为。 Telos基金会还将向需要RAM的小型独立开发者提供RAM补助，以便其在网络上部署DApp，优先选择开源DApp。 这将有助于确保新的创新者不会因为高价RAM而不能进入系统。
 
-The intent of the Telos Foundation is to become a perpetual grant-funding organization with different voters than the block producers. The Telos Foundation will accomplish this through presenting worker proposals to the voters to reimburse grants that have been distributed. In this way, the community can decide whether to perpetuate the Telos Foundation or wind it down.
+Telos基金会的目的是成为一个永久性的拨款资助组织，其选民不同于区块生产者。 Telos基金会将通过向选民提交工人提案来偿还已经分发的补助金来实现这一目标。 通过这种方式，社区可以决定是继续保留Telos基金会还是将其关闭。
 
-The Telos Foundation is a decentralized autonomous organization that votes via smart contracts using the Telos Foundation Voting Token (TFVT) – a token of no value that confers voting rights to its holders. In this way, the Telos Foundation can vote to decide disbursement of funds and election of its own public representatives. Voting tokens will be distributed throughout the Telos community during launch to encourage a wide range of voices in voting, drawn from a community of developers, block producers, writers, and other prominent community members. Each will receive 1 to 3 TFVTs. New tokens will be administered quarterly to members who are making a contribution to the Telos community. Voting is performed by smart contract with a simple majority by number of tokens voted carrying.
+Telos基金会是一个去中心化的自治组织，使用Telos基金会投票令牌（TFVT）通过智能合约进行投票 - 这是一种无价值的令牌，赋予其持有者投票权。 通过这种方式，Telos基金会可以投票决定资金的支付和选举自己的公共代表。 投票令牌将在发行时将分配在整个Telos社区，以鼓励广泛来自开发者，BP，作家和其他知名社区成员的的投票声音。 每个人将获得1到3个TFVT。 新的令牌将按季度分配给正在为Telos社区做出贡献的成员。 投票由智能合约执行，简单地多数投票的令牌通过投票。
 
 The Telos Foundation voters are drawn from active contributors to the Telos community—as selected by the existing Telos Foundation voters. The initial group of Telos Foundation voters will be draw from contributors to the Telos Network creation and launch. All Telos Foundation Voter Token holders will be publicly announced and their voting token addresses will be associated with their identities so that each voter’s voting record will also be publicly recorded on the blockchain.
 
