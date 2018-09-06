@@ -753,15 +753,15 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：Telos主网何时推出？**
 
-答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. 一旦投票“启动”多数通过，网络将由ABPs启动，直到投票率到达15%，并且至少有40个Telos BP候选人达到最低要求。 此时，ABP将会退场，24小时后Telos主网将正式开启交易。 换句话说，我们在等待原本的Eos通证持有者和一群拥有高素质技术的BP候选人的支持。 我们相信这将表明Telos网络的真正授权。
+答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. 一旦投票“启动”多数通过，网络将由ABPs启动，直到投票率到达15%，并且至少有40个Telos BP候选人达到最低要求。 此时，ABP将会退场，24小时后Telos主网将正式开启交易。 换句话说，我们在等待原本的Eos通证持有者和一群拥有高素质技术的BP候选人的支持。 我们相信这是Telos网络真正的使命。
 
-**问：Telos Bp如何获得报酬？**
+**问：Telos BP如何获得报酬？**
 
 Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀率。 每个BP将获得相同的统一费率，每个备用BP将得到该费率的一半。 所有BP都将因错过生产的区块被扣除薪酬。
 
 **问：启动Telos的团队会收取服务费吗？**
 
-答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Telos启动组成员将会在TLOS创世文件上得到补偿。 A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
+答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Telos启动组成员将会在TLOS创世文件上得到补偿。 A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. TFRP分配的具体方法还未确定，但会在网络启动前正式确定。
 
 **问：你们说Telos不会有任何“巨鲸”，但ABPs和Telos基金会不是会成为巨鲸吗？**
 
