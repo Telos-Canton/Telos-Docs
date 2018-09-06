@@ -294,7 +294,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 <img align="center" src="./images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
-将通证数量限制为40,000个会改变约86％的EOS通证供应量。 将通证上限设置为更高的数字将使更少数量的令牌持有者获得更多权力。
+将通证数量限制为40,000个会改变约86％的EOS通证供应量。 将通证上限设置为更高的数字将使更少数量的通证持有者获得更多权力。
 
 <img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
