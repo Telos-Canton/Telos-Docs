@@ -70,7 +70,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [在EOS主网发布的交易所EOS TOKENS](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
 - [橡果（Telos）防止内存投机](#telos-ram-speculation-prevention) 
   - [限制初始内存分配](#limit-initial-ram-allocation)
-  - [将RAM的增加与使用率绑定](#tie-ram-increases-to-network-utilization)
+  - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
   - [鼓励TELOS基金会帮助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
 - [Telos交易所请愿程序](#telos-exchange-petition-process) 
   - [交换TLOS令牌创建请愿程序](#exchange-tlos-token-creation-petition-process)
