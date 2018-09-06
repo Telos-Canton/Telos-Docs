@@ -100,7 +100,7 @@ Telos分叉EOSIO代码建立新的公链，并更新以下元素：
 
 - 通过将创世快照中每个地址的Telos通证（TLOS）数量上限定为40,000个，来去除少数“巨鲸”的极端经济霸权。
   
-  - 消除了巨鲸对BP选举和通证持有者投票的控制。
+  - 消除了“巨鲸”对节点选举和通证持有者投票的控制。
   - 交易在快照时将被给予一个请求进程，为其EOS所有人创建TLOS通证，供他们同意列入TLOS并分发通证，每个账户持有者的持有上限为40,000个。 
   
   <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
@@ -478,7 +478,7 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
       * 一旦该BP检测到BP再次符合要求达1小时，它将有资格返回其当选等级（由收到的投票所决定），并继续服务。
     - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
     - 规则中的不能被智能合约验证的部分，将通过通知每个BP候选人起草包含regproducer合约的Ricardian合约来确定。
-      * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
+      *这份合约将明确的列出BP候选人禁止与处罚有明显地关联行为，所有的BP必须迅速实施，如若则同样被认定为违规。
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
 
