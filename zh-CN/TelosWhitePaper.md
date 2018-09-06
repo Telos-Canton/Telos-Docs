@@ -90,7 +90,7 @@ Telos是基于EOSIO相同代码的一个可选公链，旨在解决Eos的关键�
 1. 经济上的去中心化——没有“巨鲸”地址
 2. 出块节点和预备节点的公平报酬结构
 3. 对DApp开发者友好的允许专利DApps和较低成本部署
-4. 额外的通证持有者保护政策及被盗通证的预激活解决方案
+4. 为通证持有者提供更多的保护和被盗通证的预激活解决方案
 
 > “只要没有解决中心化问题，EOS的梦想就不会成真。” – Juan M. Villaverde, Weiss Ratings
 
@@ -428,7 +428,7 @@ Telos将有一个全力的Telos网络运营协议（如EOS宪法）以及所有�
 
 ## 工人提案的提交和表决程序
 
-工人提案是运行网络的重要部分。 在Telos主网络激活后，将为工人提案提供一份记录良好，基于智能合约的提交和投票流程。
+工人提案是运行网络的重要部分。 在Telos主网络激活后，基于智能合约的提交和投票的工人提案流程将被完好记录。
 
 ## 仲裁程序
 
@@ -440,13 +440,13 @@ Telos白皮书包括仲裁过程的概述，该过程由多方智能合约驱动
 
 ## Bp执行
 
-由于选举出来的BP有可能在DPoS区块链中拥有巨大的权力，因此BP必须迅速监督对方的违规行为，如果（这些违规行为）未经检查，可能威胁网络安全。 去中心化Telos选民基础是一个重要的步骤，但如果没有选举产生的BP的警惕，中心化可能会出现。
+由于选举出来的BP有可能在DPoS区块链中拥有巨大的权力，因此BP必须迅速监督对方的违规行为，如果（这些违规行为）未经检查，可能威胁网络安全。 Telos选民基础的去中心化是至关重要的一步，但如果没有对BP选举的警惕，中心化可能仍会出现。
 
-Telos将修改regproducer智能合约中包含的Ricardian合同，成员必须执行这个合同以便注册为块生产者候选人。 现有合同要求BP候选人同意某些条款，但不建议如果违反这些条款应该采取什么措施。 因此，到目前为止还没有针对违规行为的执法措施。
+成员为了注册成为BP候选人，其必须执行Telos将要修改的，包含Ricardian合约的regproducer智能合约。 现有合同要求BP候选人同意某些条款，但没有对如果违反这些条款应该采取什么措施的建议。 因此，到目前为止还没有针对违规行为的执法措施。
 
-修订后的Telos regproducer合同将明确规定被禁止的行为以及违规处罚 - 例如优先处理交易，并将要求所有其他BP执行。 为了促进这一点，将有一个任何BP都可以执行的智能合约，记录涉嫌违规的链条，并要求所有其他BP投票决定是否执行所需的处罚。 如果2/3 + 1多数票投票执行，则智能合约将立即执行。 无需其他操作。
+修订后的Telos regproducer合同将明确规定被禁止的行为以及违规处罚 - 例如优先处理交易，并将要求所有其他BP执行。 为了促进这一点，将有一个智能合约约定任何BP都可以执行记录涉嫌违规的链条，并要求所有其他区块生产者投票决定是否执行所需的罚款。 如果2/3 + 1多数票投票执行，则智能合约将立即执行。 无需其他操作。
 
-## 中央信息中心
+## 中央信息枢纽
 
 Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为Telos会员和其他感兴趣的团队提供便利的信息中心。 该网站将是非政治性的，并且对任何BP候选人都没有任何偏袒。
 
@@ -590,7 +590,7 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 Telos ABPs打算在Telos网络启动前根据以下理由进行密码验证，证明在以太坊注册或Eos投票阶段未注册或被盗，其理由是此修正是可能的并且可以验证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
-The Telos network will adopt base layer arbitration to protect token holders from theft. Not all forms of theft may be recoverable, but arbitrators will have the ability to call for block producers to freeze accused accounts for a limited amount of time upon presentation of evidence of theft. Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. The arbitration contract and Telos Arbitration Organization will be active from the time of the network launch.
+The Telos network will adopt base layer arbitration to protect token holders from theft. 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. The arbitration contract and Telos Arbitration Organization will be active from the time of the network launch.
 
 # Telos RAM投机预防
 
@@ -610,13 +610,13 @@ Eos在主网发布时分配了64GB的RAM。 这个数字远远超过网络上任
 
 Eos主网正在讨论如何以及何时更改RAM供应。 增加可用内存将暂时降低价格，但最终会加剧投机，因为将来可能会释放更少的潜在内存。
 
-Telos网络将新的RAM版本与利用率数据联系起来。 最初提出的价值是当在一段时间内持续使用的RAM>50％，将释放新的RAM。 这将把新RAM与网络增长联系起来。 The block producers will ultimately determine the network RAM supply via the ‘setram’ action.
+Telos网络将新的RAM版本与利用率数据联系起来。 最初提出的价值是当在一段时间内持续使用的RAM>50％，将释放新的RAM。 这将把新RAM与网络增长联系起来。 区块生产这将会通过 ‘setram’ 动作最终决定网络RAM的供应量
 
 ## 鼓励Telos基金会帮助稳定价格波动
 
 Telos基金会是一个独立治理的非管理机构，就像美联储一样。 其目标是通过拨款促进网络增长。 它拥有这些拨款，这也可以作为一种帮助阻止RAM投机的方法。
 
-Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价格低于此指导价时，Telos基金会可能会购买RAM。 当价格较高时，它可能会卖出。 这是为了帮助稳定价格。 这种方法自然有其局限性，但预计会有助于抑制哄抬价格。 此外，Telos基金会可以选择以其公布的指导价格（不论当前价格）向开发商出售或租赁RAM，以鼓励一些开发人员在系统上构建。 When publishing its guidance price, the Telos Foundation will include published advice to the Telos block producers about when to release more RAM into the system. This decision will remain with the block producers, however. Any professionals hired by the Telos Foundation to set RAM pricing will be prohibited from trading Telos RAM on their own accounts.
+Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价格低于此指导价时，Telos基金会可能会购买RAM。 当价格较高时，它可能会卖出。 这是为了帮助稳定价格。 这种方法自然有其局限性，但预计会有助于抑制哄抬价格。 此外，Telos基金会可以选择以其公布的指导价格（不论当前价格）向开发商出售或租赁RAM，以鼓励一些开发人员在系统上构建。 当发布指导价格是，Telos基金会将发布同时向区块生产者发布何时发放更多RAM的建议。 然而，最终决定权还是保留在区块生产者身上。 Any professionals hired by the Telos Foundation to set RAM pricing will be prohibited from trading Telos RAM on their own accounts.
 
 为了确保小型创新者不会被高价格挤出网络，Telos基金会还将向这些开发人员发放一些RAM形式的赠款。 在这种情况下，它将支持开源DApps。
 
