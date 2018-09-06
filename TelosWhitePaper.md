@@ -1,6 +1,6 @@
 # Telos White Paper v1.3
 
-<img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
 *A sustainably decentralized EOSIO network by Douglas Horn*
 
@@ -104,7 +104,7 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
   * Eliminates whales’ control of block producer selection and token holder voting.
   * Exchanges will be given a process for petitioning to have TLOS tokens created for their EOS owners at the time of the snapshot, provided that they agree to list TLOS and distribute tokens, capped at 40,000 per account holder.
 
-  <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/ownership_distribution.png" width="448px" height="392" />
 
 - Revise block producer (BP) and standby pay model to better secure the network.
   * A fixed 21 block producers plus 30 standbys based on voting.
@@ -152,27 +152,27 @@ Telos is a new network based on Eos. It offers many advantages over the Eos Main
 
 For Developers
 
-  - Proprietary DApps allowed
-  - Lower cost DApp deployment
-  - Fewer network pauses
-  - Enhanced Security
-  - Public testnet operated by BPs
-  - Telos/Eos mainnet compatibility
+- Proprietary DApps allowed
+- Lower cost DApp deployment
+- Fewer network pauses
+- Enhanced Security
+- Public testnet operated by BPs
+- Telos/Eos mainnet compatibility
 
 For Token Holders
 
-  - Meaningful voting for all
-  - Higher equity per token
-  - Developer focus builds value
-  - Lower inflation
-  - Pre-activation resolution of stolen tokens
+- Meaningful voting for all
+- Higher equity per token
+- Developer focus builds value
+- Lower inflation
+- Pre-activation resolution of stolen tokens
 
 For Block Producers
 
-  - Equitable payout model
-  - Equitable voting / Inverse Vote Weighting
-  - Smart contract enforced block producer requirements
-  - Scheduled windows for node maintenance
+- Equitable payout model
+- Equitable voting / Inverse Vote Weighting
+- Smart contract enforced block producer requirements
+- Scheduled windows for node maintenance
 
 ---
 
@@ -254,7 +254,7 @@ Additionally, Telos block producer voting is “inverse weighted” meaning that
 
 <img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
 
-<img align="center" src="./images/inverse_weighted_voting.png" width="422.5px" height="384px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
 ### Smart Contract Enforced Block Producer Requirements
 
@@ -272,7 +272,7 @@ The distribution of tokens in the Eos system is one of the most concentrated of 
 
 - 90% of EOS tokens are controlled by just 1.6% of addresses.
 
-  <img align="center" src="./images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
 
   A More Even Distribution
 
@@ -290,13 +290,13 @@ Initially capping the TLOS token amount of all Telos addresses at 40,000 radical
 Capping the number of tokens at 40,000 per address alters less than 0.67% of registered addresses. <br/>
 Capping the number of tokens at a larger amount does not significantly alter the number of addresses affected.
 
-<img align="center" src="./images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
-<img align="center" src="./images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
 Capping the token amount at 40,000 alters approximately 86% of the EOS token supply. Setting the token cap to a higher number would grant a smaller number of token holders more power.
 
-<img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
 # Eos Problems, Telos Solutions
 
@@ -408,7 +408,7 @@ Many of these cases may also be funded through worker proposals. The Telos Found
 A foundation funded with tokens and entrusted with promoting the network is a common enough entity in cryptocurrency. Many blockchain projects establish ongoing funding for their project’s version of the Telos Foundation. Telos has decided to leave these decisions in the hands of the block producers at any given time to best support the decentralized nature of the Telos network.
 
 
-<img align="center" src="./images/the_telos_foundation.png" width="495.5px" height="162.5px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/the_telos_foundation.png" width="495.5px" height="162.5px" />
 
 
 # Launching a Complete Network
@@ -461,24 +461,24 @@ Each block producer candidate will provide at a minimum:
 
 **Information:**
 
-  - A telosbp.json file containing information regarding company formation, ownership, website, social media connections, key administrative contact, key technical contact.
-  - Server connection information for at least 300 peers.
+- A telosbp.json file containing information regarding company formation, ownership, website, social media connections, key administrative contact, key technical contact.
+- Server connection information for at least 300 peers.
 
 **Technical:**
 
-  - Two mainnet nodes (one designated as block producer): Dedicated servers running no other processes, Intel Xeon processors with 8 cores, 128GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection with latency of under 500ms to testing node.
-  - Two testnet nodes (public developer testnet and private BP testnet for new software): Intel i7 processors, 16GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection.
+- Two mainnet nodes (one designated as block producer): Dedicated servers running no other processes, Intel Xeon processors with 8 cores, 128GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection with latency of under 500ms to testing node.
+- Two testnet nodes (public developer testnet and private BP testnet for new software): Intel i7 processors, 16GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection.
 
 Each block producer’s compliance with the minimum requirements will be monitored by smart contracts and disinterested groups to ensure compliance. If the smart contract detects that a block producer is not in compliance it will:
 
-  - Issue a notice of noncompliance to the block producer
-  - After 24 hours, prevent the block producer from serving
-    * All block producer votes will remain intact
-    * As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
-  - If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
-  - Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call.
-    * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
-    * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
+- Issue a notice of noncompliance to the block producer
+- After 24 hours, prevent the block producer from serving
+  * All block producer votes will remain intact
+  * As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
+- If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
+- Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call.
+  * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
+  * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
 
 It is the intent of the Telos ABPs that these minimums serve to keep block producers responsive. These minimum requirements are intended to be revised from time to time by a 2/3+1 vote of block producers. However, it is important to note that the Telos network is decentralized with no owners, managers, or fiduciaries and no system of governance outside the votes of block producers elected by the token holders. Future block producers are encouraged but by no means required to abide by any intent stated by the ABPs.
 
@@ -559,31 +559,31 @@ To accomplish this, the ABPs will seek to credit those who can prove, using cryp
 
 ### Registered addresses that have not been stolen: 
 
-  1. No action required. Your TLOS tokens will be on the network
+1. No action required. Your TLOS tokens will be on the network
 
 ### Registered addresses that have been stolen:
 
-  1. Address owner files claim, providing:
-    * Stolen address
-    * Cryptographic signature from Ethereum wallet as proof
-    * A new EOSIO public key as half of a key pair that will control the account
-  2. Address will be posted for contestation for 10 days (with no identifying information).
-    * Any other user will have the opportunity to provide cryptographic evidence proving ownership.
-  3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
+1. Address owner files claim, providing:
+  * Stolen address
+  * Cryptographic signature from Ethereum wallet as proof
+  * A new EOSIO public key as half of a key pair that will control the account.
+2. Address will be posted for contestation for 10 days (with no identifying information).
+  * Any other user will have the opportunity to provide cryptographic evidence proving ownership.
+3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
 
 ### Unclaimed EOS tokens from token sale: 
 
-  1. Unregistered token owner files a claim providing:
-    * Eos ICO purchase transaction hash
-    * Cryptographic signature from purchasing Ethereum wallet as proof
-    * A new EOSIO public key as half of a key pair that will control the account
-  2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
+1. Unregistered token owner files a claim providing:
+  * Eos ICO purchase transaction hash
+  * Cryptographic signature from purchasing Ethereum wallet as proof
+  * A new EOSIO public key as half of a key pair that will control the account.
+2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
 
 ### EOS tokens on exchanges at Eos mainnet launch: 
 
-  1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot.
-    * Exchanges must complete the process in order to receive new tokens to distribute to their customers.
-  2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
+1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot.
+  * Exchanges must complete the process in order to receive new tokens to distribute to their customers.
+2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
 
 The Telos ABPs intend to repatriate tokens that can be cryptographically proven to have been unregistered or stolen at the Ethereum registration or Eos voting stages under the rationale that this correction is possible and verifiable before the Telos network launches. We recognize that some losses were due to the ethereum registration process and the lack of approved consumer-grade voting wallets at Eos mainnet launch. 
 

@@ -1,5 +1,6 @@
 # Telos White Paper
 
-Telos白皮书
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/telos-docs/localized.svg)](https://crowdin.com/project/telos-docs)
 
-* [English](TelosWhitePaper.md) v1.3
+* [English](TelosWhitePaper.md)
+* [Chinese simplified](./zh-CN/TelosWhitePaper.md)
