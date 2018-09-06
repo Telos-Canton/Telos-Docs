@@ -483,11 +483,11 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
     
     
 
-Telos APBs的意图是用这些最低限度的服务用来保持BP的响应。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
+Telos APB的意图是用这些最低限度的服务用来保持BP的响应。 这些最低要求需要根据由BP的2/3 + 1的投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
 # 区块生产者报酬
 
-BP是任何EOSIO网络的重要组成部分 有21个BP随时验证网络。 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
+BP是任何EOSIO网络的重要组成部分。 有21个BP随时验证网络， 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
 
 顶部BP和底部备用BP之间的薪酬非常不平等。 2018年7月3日，顶级区块生产商'bitfinexeos1'获得1,017 EOS（8,960美元），而收入最低的备用BP'sheleaders21'仅获得118 EOS（1,040美元），比率几乎为9：1。
 
@@ -753,7 +753,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：Telos主网何时推出？**
 
-答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. Once a majority “go” vote is reached, the network will be launched by the ABPs until it receives both 15% of all outstanding Telos votes (Telos Foundation addresses), and at least 40 Telos block producer candidates who meet the minimum requirements. At this point the ABPs will resign any special powers and 24 hours later the Telos mainnet will activate for transactions. In other words, we will wait for a groundswell of support from both the original Eos token holders and a group of highly qualified technical block producer candidates. 我们相信这将表明Telos网络的真正授权。
+答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. 一旦投票“启动”多数通过，网络将由ABPs启动，直到投票率到达15%，并且至少有40个Telos BP候选人达到最低要求。 此时，ABP将会退场，24小时后Telos主网将正式开启交易。 换句话说，我们在等待原本的Eos通证持有者和一群拥有高素质技术的BP候选人的支持。 我们相信这将表明Telos网络的真正授权。
 
 **问：Telos Bp如何获得报酬？**
 
