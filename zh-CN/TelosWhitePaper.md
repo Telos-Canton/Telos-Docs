@@ -83,7 +83,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 
 一个可持续的去中心化 EOSIO 网络
 
-Eos系统为新经济模式许下了一个美好的承诺。 但不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却占有了90％的通证。 通证所有权，治理和超级节点（BP）选举都受到大量“巨鲸”地址的影响，这些地址可以将Eos推向他们想要的任何方向，而不考虑大多数通证持有者、开发者的意愿，甚至网络的整体健康状况。
+Eos系统为新经济模式许下了一个美好的承诺。 但不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却占有了90％的通证。 通证所有权，治理和节点选举都被大量“巨鲸”地址所危害，这些地址可以将Eos推向他们想要的任何方向，而枉顾大多数通证持有者、开发者的意愿和公链的整体生态健康。
 
 Telos是基于相同EOSIO代码的一个替代网络，旨在解决Eos的关键问题。 Telos网络提供：
 
@@ -364,19 +364,19 @@ Telos最初将在其主网启动之前解决许多司法挑战。 Telos仲裁组
 
 ### 问题：Eos通胀率很高
 
-Eos通胀率为每年5％。 通胀率太高了，使货币贬值。 通货膨胀率为5％时，货币供应在短短14年内翻了一番。 世界主要经济体目前的目标是年通胀率为2％。 Eos通胀分配1％给BP，剩余部分根据BP对工作提案的投票进行划分。 因为巨鲸可以控制投票，所以他们有能力将这种通货膨胀推向其附属公司。
+Eos通胀率为每年5％。 通胀率太高了，使货币贬值。 通货膨胀率为5％时，货币供应在短短14年内翻了一番。 而世界主要经济体当前的目标为年通胀率2％。 Eos通胀分配1％给BP，剩余部分根据BP对工作提案的投票进行划分。 因为巨鲸可以控制投票，所以他们有能力将这种通货膨胀推向其附属公司。
 
 **Telos解决方案：**
 
-Telos将保持较低通胀率，目标是每年2.5％。 仍有1％将被分给51个BP和备用BP（尽管它们之间的分配比较均等）。 其余的将用于支持裁决者，发展和其他职能。 由于某些DApp可以在Telos上专有，因此网络不需要向软件开发人员支付过多的资金。
+Telos将保持较低通胀率，目标是每年2.5％。 仍有1％将被分给51个BP和备用BP（尽管它们之间的分配比较均等）。 其余的将用于支持裁决者，开发和其他职责。 由于某些DApp可以在Telos上专有，因此网络不需要向软件开发人员支付过多的补助。
 
 ### 问题：3年后，Eos帐户可能会被没收
 
-根据Eos章程，任何未在3年内完成交易的账户将被没收，其EOS令牌将被重新分配。 许多长期储蓄者将措手不及并不公平地失去他们的令牌。 一旦丢失，没有方法可以上诉或恢复令牌。 这旨在保护系统资源并使人们与网络保持联系，但它过于严苛，并试图解决实际上尚未显示的问题。
+根据Eos宪法，任何在3年内未进行交易的账户将被没收，其EOS通证将被重新分配。 许多长期储蓄者将措手不及并不公平地失去他们的通证。 一旦丢失，没有方法可以上诉或恢复令牌。 这旨在保护系统资源并使人们与网络保持粘性，但它过于严苛，并试图解决实际上尚未显现的问题。
 
-**Telos解决方案：**
+**Telos的解决方案：**
 
-Telos will not have any token forfeiture in its initial Telos Network Operating Agreement. 如果TLOS持有者选择修改宪法以包括这个条款，那将是他们的选择，而不是强加于他们的东西。 Telos members whose accounts are created by the genesis will be required to access their accounts at least once within the first year after activation of the Telos mainnet to signify their opting-in to the network and its operating agreement. Genesis accounts that do not use the network within one year will be deleted.
+初期的Telos网络运营协议不会没收任何通证。 如果TLOS持有者选择修改宪法以包括这个条款，那将是他们的选择，而不是强加于他们的东西。 Telos members whose accounts are created by the genesis will be required to access their accounts at least once within the first year after activation of the Telos mainnet to signify their opting-in to the network and its operating agreement. Genesis accounts that do not use the network within one year will be deleted.
 
 # Telos基金会
 
