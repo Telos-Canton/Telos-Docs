@@ -664,7 +664,7 @@ Telos网络最初将由6个指定的区块生产者（ABPs）发起，他们将�
 
 我们作为ABP的理解是，根据Hinman先生在美国证券交易委员会网站上发表的评论，TLOS令牌不是证券，我们在完全去中心化的网络中发行这些没有价值的所有权令牌，并不是证券要约。
 
-ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 Based on this definition, it seems difficult to deem TLOS a security under the US SEC definition.
+ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 根据这一定义，似乎很难将TLOS视为美国证券交易委员会定义下的证券。
 
 **NOTE: THIS IS NOT LEGAL OR SECURITIES ADVICE. IT IS OUR INTERPRETATION OF PUBLISHED STATEMENTS BY THE UNITED STATES SECURITIES EXCHANGE COMMISSION AS THEY MIGHT APPLY TO TLOS TOKENS. SEEK COUNSEL FROM YOUR OWN PROFESSIONAL ADVISORS BASED ON YOUR NEEDS AND JURISDICTION.**
 
