@@ -1,6 +1,6 @@
 # 橡果（Telos）中文白皮书
 
-<img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
+<img align="center" src="注：“橡果”是Telos的中文昵称" width="147px" height="159px" />
 
 *一个可持续的去中心化 EOSIO 网络 作者：道格拉斯·泓恩（Douglas Horn）*
 
@@ -71,7 +71,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 - [Telos防止内存投机](#telos-ram-speculation-prevention) 
   - [限制初始内存分配](#limit-initial-ram-allocation)
   - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
-  - [鼓励TELOS基金会帮助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
+  - [促进Telos基金会协作稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
 - [Telos交易所请愿程序](#telos-exchange-petition-process) 
   - [交换TLOS令牌创建请愿程序](#exchange-tlos-token-creation-petition-process)
 - [橡果（Telos）是证券吗？](#is-telos-a-security)
@@ -336,13 +336,13 @@ Eos预备BP的薪酬远低于前21名BP，并且很少被要求证明其能力�
 
 **Telos的解决方案：**
 
-Telos有一个由多达30个预备BP组成的池，通过投票等级进行选择和支付。 备用BP的薪酬是前21名BP的一半。 为了获得这笔工资，每个备用BP将定期每3天循环生产几个小时，以确保所有被支付的备用BP能够在需要时立即投入生产。 此计划轮换意味着主要BP具有可预测的停机时间来维护其节点，从而降低了运营成本和提高可靠性。 未能生产区块的BP和备用BP将受到处罚。 该系统使得群组难以钻支付奖励系统的空子，并且灵活地阻止购买投票的行为。 Telos具有智能合约强制执行的最低要求（技术和信息），无论投票如何，每个BP必须满足这些要求。
+Telos有一个由多达30个预备BP组成的池，通过投票等级进行选择和支付。 备用BP的薪酬是前21名BP的一半。 为了获得这笔工资，每个备用BP将定期每3天循环生产几个小时，以确保所有被支付的预备BP能够在需要时立即投入生产。 此计划轮换意味着主要BP具有可预测的停机时间来维护其节点，从而降低了运营成本和提高可靠性。 未能生产区块的BP和预备BP将受到处罚。 该系统使得群组难以钻支付奖励系统的空子，并且灵活地阻止购买投票的行为。 Telos具有智能合约强制执行的最低要求（技术和信息），无论投票如何，每个BP必须满足这些要求。
 
-### 问题：Eos RAM采矿推高了部署DApps的成本。
+### 问题：Eos RAM淘金热推高了部署DApps的成本。
 
-Eos网络发行的RAM比系统所需的多得多。 矿工已经开始尽早保留这个RAM，可能不打算使用它，但只是为了投机未来RAM的价格上涨。 这种投机导致RAM价格迅速上涨。 当DApps到达时需要这个RAM，它可能定价非常高，这使得在Eos上部署应用程序不必要地昂贵。
+Eos网络发行的RAM比系统所需的多得多。 淘金者已经开始尽早预留RAM，但可能不打算使用它，只是为了投机未来RAM的价格上涨。 这种投机导致RAM价格迅速上涨。 当DApps到达需要RAM时，它可能已经定价非常高，这使得在Eos上部署应用程序变得不必要地昂贵。
 
-**Telos解决方案：**
+**Telos的解决方案：**
 
 Telos将推出仅4GB的RAM。 这将使人们希望在网络上启动的任何类型的初始DApp和空投成为能够启动，但不会激励RAM投机，因为矿工保留的RAM可以很容易地被进入系统的新RAM取代。 因此，人们更有可能仅仅保留他们预期的DApps所需的RAM。 BP将监视DApp RAM的使用情况，并在实际使用时根据需要添加新的RAM容量。 此外，Telos基金会将定期发布其认为合理的RAM价格的指导，并且可以购买低于该价格的RAM并以高于该价格的价格出售RAM以限制投机的意义。 Further, any time the current price of RAM is more than 10% above the published guidance price, the Telos Foundation will sell RAM to developers at the published guidance price.
 
