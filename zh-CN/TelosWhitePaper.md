@@ -25,7 +25,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [Telos/Eos主网相互兼容](#teloseos-mainnet-compatibility)
   - [面向通证持有者](#for-token-holders) 
     - [所有人的投票都有意义](#meaningful-voting-for-all)
-    - [每个通证拥有更高的权益](#higher-equity-per-token)
+    - [每个通证（Token）拥有更高的权益](#higher-equity-per-token)
     - [开发者专注于创造价值](#developer-focus-builds-value)
     - [较低的通胀率](#lower-inflation)
     - [被盗通证的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
@@ -59,16 +59,16 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [中央信息港](#central-information-hub)
 - [Telos区块生产者最低要求](#telos-block-producer-minimum-requirements)
 - [区块生产者报酬](#block-producer-pay) 
-  - [预计的Telos区块生产者报酬和美元价值](#projected-telos-block-producer-pay-and-usd-value)
+  - [预计的Telos区块生产者报酬和对应的美元价值](#projected-telos-block-producer-pay-and-usd-value)
 - [Telos网络中的仲裁](#arbitration-in-the-telos-network) 
   - [Telos仲裁程序](#telos-arbitration-process)
 - [Telos被盗资金追回程序](#telos-stolen-fund-repatriation-process) 
   - [Telos被盗资金追回程序](#telos-stolen-fund-repatriation-process-1) 
     - [登记未被盗的地址](#registered-addresses-that-have-not-been-stolen)
     - [登记被盗的地址](#registered-addresses-that-have-been-stolen)
-    - [来自销售的未认领的EOS令牌](#unclaimed-eos-tokens-from-token-sale)
-    - [在EOS主网发布的交易所EOS TOKENS](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
-- [橡果（Telos）防止内存投机](#telos-ram-speculation-prevention) 
+    - [在Eos众筹中未被认领的通证（Token）](#unclaimed-eos-tokens-from-token-sale)
+    - [在Eos主网上线时存放在交易所的通证（Token）](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
+- [Telos防止内存投机](#telos-ram-speculation-prevention) 
   - [限制初始内存分配](#limit-initial-ram-allocation)
   - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
   - [鼓励TELOS基金会帮助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
@@ -332,11 +332,11 @@ Telos网络定期在预备BP中循环生成区块（每个预备BP至少每3-7�
 
 ### 问题：预备BP没有获得合理的报酬和接受定期检测。
 
-Eos预备BP的薪酬远低于前21名BP，并且很少被要求证明其能力。 保持顶级节点基础设施成本高昂且无需证明其能力，备用BP可能会吝啬昂贵的改进和维护 - 特别是因为没有强制要求的最低要求。 没有持续的机制来测试备用BP的准备情况，主要BP没有机会进行计划停机，这增加了维护网络的挑战。 无法确定Eos主网在危机时刻是否能够正常运行。
+Eos预备BP的薪酬远低于前21名BP，并且很少被要求证明其能力。 维护顶级节点基础架构成本高昂，且无需证明其能力，预备BP可能会在昂贵的改进和维护上节省开支 - 尤其是当他们没有强制执行的最低要求需满足时。 没有持续的机制来测试预备BP的准备情况，主要BP没有机会进行计划停机，这增加了维护网络的挑战。 无法确定Eos主网在危机时刻是否能够正常运行。
 
-**Telos解决方案：**
+**Telos的解决方案：**
 
-Telos有一个由多达30个备用BP的池，通过投票等级进行选择和支付。 备用BP的薪酬是前21名BP的一半。 为了获得这笔工资，每个备用BP将定期每3天循环生产几个小时，以确保所有被支付的备用BP能够在需要时立即投入生产。 此计划轮换意味着主要BP具有可预测的停机时间来维护其节点，从而降低了运营成本和提高可靠性。 未能生产区块的BP和备用BP将受到处罚。 该系统使得群组难以钻支付奖励系统的空子，并且灵活地阻止购买投票的行为。 Telos具有智能合约强制执行的最低要求（技术和信息），无论投票如何，每个BP必须满足这些要求。
+Telos有一个由多达30个预备BP组成的池，通过投票等级进行选择和支付。 备用BP的薪酬是前21名BP的一半。 为了获得这笔工资，每个备用BP将定期每3天循环生产几个小时，以确保所有被支付的备用BP能够在需要时立即投入生产。 此计划轮换意味着主要BP具有可预测的停机时间来维护其节点，从而降低了运营成本和提高可靠性。 未能生产区块的BP和备用BP将受到处罚。 该系统使得群组难以钻支付奖励系统的空子，并且灵活地阻止购买投票的行为。 Telos具有智能合约强制执行的最低要求（技术和信息），无论投票如何，每个BP必须满足这些要求。
 
 ### 问题：Eos RAM采矿推高了部署DApps的成本。
 
