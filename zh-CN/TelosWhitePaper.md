@@ -1,4 +1,4 @@
-# Telos White Paper
+# 橡果（Telos）中文白皮书
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
@@ -121,7 +121,7 @@ Telos分叉EOSIO代码建立新的公链，并更新以下元素：
   - 区块生产节点和预备节点将根据专用测试网的结果协调更新。
 - Telos DApp开发者可以将其DApps的部分源代码指定为闭源或开源。 （所有Eos DApps必须是开源的，这将限制许多潜在开发者的参与。）
 - Telos将年度通胀率降至2.5％，而不是5％。
-- 一旦激活，Telos地址就算在3年内不使用也不会被销毁。 Eos的这个销毁设定是不公平和不必要的，它不会在Telos中实施。 然而，由Eos创世快照创建的创世Telos帐号它们的所有者必须在一年内使用一次，否则帐号将被移除。
+- 一旦激活，Telos地址就算在3年内不使用也不会被销毁。 Eos的这个销毁设定是不公平和不必要的，它不会在Telos中实施。 然而，由Eos创世快照创建的创世Telos帐号在一年内必须被其所有者起码使用一次，否则帐号将被移除。
 
 Telos将由参与Eos Mainnet Launch Group（EMLG）的Eos BP候选人联盟发起。 这个小组非常精通启动和运行主网的机制，因为它之前已经这样做了。
 
