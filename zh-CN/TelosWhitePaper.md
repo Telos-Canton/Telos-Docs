@@ -92,13 +92,13 @@ Telos是基于EOSIO相同代码的一个可选公链，旨在解决Eos的关键�
 3. 对DApp开发者友好的允许专利DApps和较低成本部署
 4. 为通证持有者提供更多的保护和被盗通证的预激活解决方案
 
-> “只要没有解决中心化问题，EOS的梦想就不会成真。” – Juan M. Villaverde, Weiss Ratings
+> “EOS的梦想，在解决它的中心化问题之前是不会实现的。” ——胡安 M. 维拉维尔德（Juan M. Villaverde），韦士评级（Weiss Ratings）
 
-## Telos区块链
+## Telos公链
 
-Telos把EOSIO代码划分到新的区块链中，并更新以下元素：
+Telos分叉EOSIO代码建立新的公链，并更新以下元素：
 
-- 通过将创世快照中每个地址的通证数量限制为40,000 Telos（TLOS），来消除少数“巨鲸”的极端经济强权。
+- 通过将创世快照中每个地址的Telos通证（TLOS）数量上限定为40,000个，来去除少数“巨鲸”的极端经济霸权。
   
   - 消除了巨鲸对BP选举和通证持有者投票的控制。
   - 交易在快照时将被给予一个请求进程，为其EOS所有人创建TLOS通证，供他们同意列入TLOS并分发通证，每个账户持有者的持有上限为40,000个。 
@@ -448,20 +448,20 @@ Telos白皮书包括仲裁过程的概述，该过程由多方智能合约驱动
 
 ## 中央信息枢纽
 
-Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为Telos会员和其他感兴趣的团队提供便利的信息中心。 该网站将是非政治性的，并且对任何BP候选人都没有任何偏袒。
+Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为Telos会员和其他感兴趣的团队提供便利的信息中心。 该网站将是非政治性的，并且不会偏袒任何BP候选人。
 
 （* Scatter和Greymass不为Telos项目背书。 他们正在与Telos合作以确保其产品的兼容性。）
 
-# Telos Bp最低要求
+# Telos Bp的最低要求
 
-所有Telos Bp必须满足一系列最低要求才能提供服务，无论他们可能获得多少票。 这些要求既是信息性的，也是技术性的。 合规性将通过智能合约或类似流程强制执行，以最大限度地减少主观性。
+无论Telos BP可能获得多少投票，所均需符合一系列最低要求才能提供服务。 这些要求既是信息性的，也是技术性的。 规则将通过智能合约或类似流程强制执行，以最大限度地减少主观性。
 
 每个BP候选人将至少提供：
 
 **信息：**
 
-    telosbp.json文件，包含有关公司构成，所有权，网站，社交媒体连接，关键管理联系人，关键技术联系人的信息。
-    至少300个对等方的服务器连接信息。
+    telosbp.json文件，包含有关公司构成、所有权、网站、社交媒体连接、关键管理联系人以及关键技术联系人的信息。
+    服务器至少满足300个对等连接的要求。
     
 
 **Technical:**
@@ -470,14 +470,14 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
     两个testnet节点（公共开发人员testnet和新软件的私有BP testnet）：Intel i7处理器，16GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接。
     
 
-每个BP对最低要求的遵守将由智能合同和无利害关系团体监控，以确保合规性。 如果智能合约检测到Bp不符合要求，它将：
+智能合约和无利益关联的团体将监控每个BP对最低要求的遵守情况，以确保合规性。 如果智能合约检测到Bp不符合要求，它将：
 
     - 向BP发出不合规通知
     - 24小时后，阻止BP服务
       * 所有BP投票将保持不变
-      * 一旦该BP检测到BP再次符合要求达1小时，它将有资格服务并将返回其收到的投票所决定的等级。
+      * 一旦该BP检测到BP再次符合要求达1小时，它将有资格返回其当选等级（由收到的投票所决定），并继续服务。
     - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
-    - 通过起草每个BP候选人必须致电的生产者合同中包含的Ricardian合同，将确保遵守智能合同无法验证的一些要素。
+    - 规则中的不能被智能合约验证的部分，将通过通知每个BP候选人起草包含regproducer合约的Ricardian合约来确定。
       * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
@@ -590,7 +590,7 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 Telos ABPs打算在Telos网络启动前根据以下理由进行密码验证，证明在以太坊注册或Eos投票阶段未注册或被盗，其理由是此修正是可能的并且可以验证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
-The Telos network will adopt base layer arbitration to protect token holders from theft. 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. The arbitration contract and Telos Arbitration Organization will be active from the time of the network launch.
+The Telos network will adopt base layer arbitration to protect token holders from theft. 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. 仲裁合同和Telos仲裁组织将从网络启动那天起生效。
 
 # Telos RAM投机预防
 
@@ -616,7 +616,7 @@ Telos网络将新的RAM版本与利用率数据联系起来。 最初提出的�
 
 Telos基金会是一个独立治理的非管理机构，就像美联储一样。 其目标是通过拨款促进网络增长。 它拥有这些拨款，这也可以作为一种帮助阻止RAM投机的方法。
 
-Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价格低于此指导价时，Telos基金会可能会购买RAM。 当价格较高时，它可能会卖出。 这是为了帮助稳定价格。 这种方法自然有其局限性，但预计会有助于抑制哄抬价格。 此外，Telos基金会可以选择以其公布的指导价格（不论当前价格）向开发商出售或租赁RAM，以鼓励一些开发人员在系统上构建。 当发布指导价格是，Telos基金会将发布同时向区块生产者发布何时发放更多RAM的建议。 然而，最终决定权还是保留在区块生产者身上。 Any professionals hired by the Telos Foundation to set RAM pricing will be prohibited from trading Telos RAM on their own accounts.
+Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价格低于此指导价时，Telos基金会可能会购买RAM。 当价格较高时，它可能会卖出。 这是为了帮助稳定价格。 这种方法自然有其局限性，但预计会有助于抑制哄抬价格。 此外，Telos基金会可以选择以其公布的指导价格（不论当前价格）向开发商出售或租赁RAM，以鼓励一些开发人员在系统上构建。 当发布指导价格是，Telos基金会将发布同时向区块生产者发布何时发放更多RAM的建议。 然而，最终决定权还是保留在区块生产者身上。 任何被Telos基金会聘请去设定RAM价格的专家，将会被禁止在他们自己的帐号上进行RAM交易。
 
 为了确保小型创新者不会被高价格挤出网络，Telos基金会还将向这些开发人员发放一些RAM形式的赠款。 在这种情况下，它将支持开源DApps。
 
@@ -684,7 +684,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：你是否拿走了人们的EOS令牌？**
 
-答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分叉。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 This means that there will be no whales created from the Telos genesis, although the total token ownership of any account is unlimited once the network launches.
+答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分叉。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 这意味着没有从Telos创世创立的巨鲸，即使一旦网络启动了，所有帐号的令牌都是无限的。
 
 **问：Telos是空投吗？**
 
@@ -760,7 +760,7 @@ Telos将拥有21个活跃的BP和多达30个备用BP，共享1％的TLOS通胀�
 
 **问：启动Telos的团队会收取服务费吗？**
 
-答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Members of the Telos Launch Group will be compensated in the TLOS genesis file. A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
+答：启动Telos网络是一项昂贵且耗时的工作。 推出Telos的人员包括BP，开发人员，社交媒体营销商，仲裁员以及其他以去中心化的方式合作的人。 Telos启动组成员将会在TLOS创世文件上得到补偿。 A Telos Founders Reward Pool (TFRP) will be created in the Telos genesis file containing 6M TLOS (about 1.8% of the expected money supply). This fund will be distributed among members of the Telos Launch Group – an open-membership group established to create and launch the Telos network – based on tasks performed by members. The exact method of TFRP distribution is yet to be determined but will be formalized prior to network launch.
 
 **问：你们说Telos不会有任何“巨鲸”，但ABPs和Telos基金会不是会成为巨鲸吗？**
 
