@@ -348,9 +348,9 @@ Telos将推出仅4GB的RAM。 这将使人们希望在网络上启动的任何�
 
 ### 问题: Eos 宪法是未经批准的。
 
-Eos临时宪法自我定义为不完整，需要修改和批准，然后Eos才能推进其许多法律和治理职责。 这表达了创始人的个人价值观和Block.one需要保持区块链的一致性，以免被视为创造了一个证券。 由于EOS令牌分配中的投票不平衡，被批准的宪法可能会支持巨鲸而不是普通用户的需求。
+Eos 临时宪法自定义为不完整, 需要修订和批准的, 然后 eos 才能向前推进其许多法律和治理职责。 这表达了创始人的个人价值观，Block.one需要保持与区块链的一致性，以免被视为创造了一个证券。 由于Eos通证分配中的投票不平衡，被批准的宪法可能会支持巨鲸而不是普通用户的需求。
 
-**Telos解决方案：**
+**Telos的解决方案：**
 
 The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. There is no need to wait for a revised or ratified version. Every Telos user will agree to this via Ricardian contract the first time they choose to use their Telos account. Telos users certainly have the right to amend the constitution whenever they deem this necessary. Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
 
