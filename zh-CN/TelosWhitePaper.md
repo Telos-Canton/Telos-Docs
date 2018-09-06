@@ -479,10 +479,11 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
     - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
     - 规则中的不能被智能合约验证的部分，将通过通知每个BP候选人起草包含regproducer合约的Ricardian合约来确定。
       *这份合约将明确的列出BP候选人禁止与处罚有明显地关联行为，所有的BP必须迅速实施，如若则同样被认定为违规。
-      * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
+      当前在EOS主网治理中的不足的地方，在 regproducer合约中强烈的关联违规行为于对应的结果，允许由其他BP迅速的且果断的采取行动。
+    
     
 
-Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
+Telos APBs的意图是用这些最低限度的服务用来保持BP的响应。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
 # 区块生产者报酬
 
