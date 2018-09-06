@@ -352,7 +352,7 @@ Eos 临时宪法自定义为不完整, 需要修订和批准的, 然后 eos 才�
 
 **Telos的解决方案：**
 
-The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. 不需要等待修订或审批版本。 每个Telos用户在第一次选择使用他们的Telos帐户时都会同意通过Ricardian合约。 Telos用户在认为必要时, 有权修改宪法。 Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
+Telos ' 宪法 ' 被称为Telos网络运营协议 (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) 随着网络启动，将生效并如约强制执行。 不需要等待修订或审批版本。 每个Telos用户在第一次选择使用他们的Telos帐户时都会同意通过Ricardian合约。 Telos用户在认为必要时, 有权修改宪法。 第32段 (修订) 授权 TLOS 通证持有者使用 "ratifyamend" 合约在网络启动后批准或修订宪法, 当这种情况发生时, 更有可能表达共同Telos用户的愿望和目标。 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
 
 ### 问题：审判机构没有在发布时准备好。
 
