@@ -89,10 +89,10 @@ Telos是基于EOSIO相同代码的一个可选公链，旨在解决Eos的关键�
 
 1. 经济上的去中心化——没有“巨鲸”地址
 2. 出块节点和预备节点的公平报酬结构
-3. DApp开发人员友好型的专有DApps，且较低成本部署
+3. 对DApp开发者友好的允许专利DApps和较低成本部署
 4. 额外的通证持有者保护政策及被盗通证的预激活解决方案
 
-> “EOS的梦想，在解决它集权化的问题之前是不会实现的。” – Juan M. Villaverde, Weiss Ratings
+> “只要没有解决中心化问题，EOS的梦想就不会成真。” – Juan M. Villaverde, Weiss Ratings
 
 ## Telos区块链
 
@@ -420,7 +420,7 @@ Telos受益于EOS主网启动的教训。 在那次发布会上做出的一些�
 
 ## 治理
 
-Telos will have a full-force Telos Network Operating Agreement (like the EOS constitution) and all supporting governance documents upon launch addressing all areas of governance.
+Telos将有一个全力的Telos网络运营协议（如EOS宪法）以及所有在启动时被支持的解决所有治理领域的治理文件。 
 
 ## 公投程序
 
@@ -484,7 +484,7 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
-# BP薪酬
+# 区块生产者报酬
 
 BP是任何EOSIO网络的重要组成部分 有21个BP随时验证网络。 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
 
