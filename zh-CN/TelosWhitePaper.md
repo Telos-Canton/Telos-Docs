@@ -1,6 +1,6 @@
-# 橡果（Telos）中文白皮书
+# Telos White Paper
 
-<img align="center" src="./images/telos_logo.png" width="147px" height="159px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
 *一个可持续的去中心化 EOSIO 网络 作者：道格拉斯·泓恩（Douglas Horn）*
 
@@ -103,7 +103,7 @@ Telos分叉EOSIO代码建立新的公链，并更新以下元素：
   - 消除了“巨鲸”对节点选举和通证持有者投票的控制。
   - 交易所可以按流程申请创建并获取TLOS通证来分发给其在创世快照时拥有EOS的用户，前提是交易所同意上线和分发TLOS通证，并接受每个用户40,000个的上限。
   
-  <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/ownership_distribution.png" width="448px" height="392" />
 
 - 修改区块生产节点和预备节点的报酬模型以更好地保证公链安全。
   
@@ -150,30 +150,27 @@ Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 对于开发者
 
-    - 允许专有的DApps
-    - 降低DApp部署成本
-    - 减少网络停顿
-    - 增强安全性
-    - 公共测试网由BP运营
-    - Telos/Eos主网兼容性
-    
+- Proprietary DApps allowed
+- Lower cost DApp deployment
+- Fewer network pauses
+- Enhanced Security
+- Public testnet operated by BPs
+- Telos/Eos mainnet compatibility
 
 对于通证持有者
 
-    - 所有人的投票都有意义
-    - 每个通证的权益更高
-    - 开发者专注创造价值
-    - 更低的通胀率
-    - 被盗通证的预激活解决方案
-    
+- Meaningful voting for all
+- Higher equity per token
+- Developer focus builds value
+- Lower inflation
+- Pre-activation resolution of stolen tokens
 
 对于BP
 
-    - 公平的薪酬模式
-    - 公平的投票 / 不投票权重
-    - 智能合约保证BP的质量
-    - 节点维护的时间表
-    
+- Equitable payout model
+- Equitable voting / Inverse Vote Weighting
+- Smart contract enforced block producer requirements
+- Scheduled windows for node maintenance
 
 * * *
 
@@ -255,7 +252,7 @@ Telos的BP系统由21个BP和30个预备BP组成，根据用户投票排名组�
 
 <img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
 
-<img align="center" src="./images/inverse_weighted_voting.png" width="422.5px" height="384px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
 ### 智能合约强制执行对BP的要求
 
@@ -271,32 +268,32 @@ Telos维持BP的最低标准，使其成为合格的候选人。 这些标准基
 
 Eos系统中通证的分布是所有主要加密货币中最集中的其中一种。 而Telos的分布是所有加密货币中最不集中的一种。
 
-- 90％的EOS通证被仅1.6％的地址控制。
+- 90% of EOS tokens are controlled by just 1.6% of addresses.
   
-  <img align="center" src="./images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
-  更均匀的分布
+  A More Even Distribution
 
 将所有Telos地址的初始TLOS通证数限制为40,000，从根本上改变通证分布。方法如下：
 
-- 删除86.5％的通证（865,000,000通证）的供应。
-- 在注册快照时减少仅0.67％的地址（1,098个地址）的持有的数量。
-- 这样的循环供应将约996,691,000 EOS通证减少到178,473,249 TLOS通证。
-- 假设由于请求交易所创建通证，将178,439,249 TLOS通证的78.6％（斐波那契水平）重新加入货币供应量，供应量将上升至约318,753,222。 
-  - 将为ABP和Telos创始人创建额外的12,000,000个通证，创造大约330,753,222个TLOS通证的总货币供应量，约为Eos货币供应量的三分之一。
-- 每个TLOS通证将代表EOS通证的网络权益的约3倍。
+- Removes 86.5 % of token supply, or 865,000,000 tokens
+- Reduces the holding of just 0.67% addresses, or 1,098 individual addresses, registered at time of snapshot.
+- The circulating supply is reduced from ~996,691,000 EOS to 178,473,249 TLOS tokens.
+- Assuming another 78.6% (Fibonacci level) of 178,439,249 will be added back into the money supply due to tokens created for petitioning exchanges, the supply will rise to approximately 318,753,222. 
+  - An additional 13,000,000 tokens will be created for the Telos Founders Reward Pool, Telos Community Rewards Pool, and Telos Foundation creating a total money supply of approximately 331,753,222 TLOS tokens – about one-third of the Eos money supply.
+- Each TLOS token will represent ~3X the network equity of an EOS token.
 
 ## 比较分布
 
 将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制通证数量不会显著改变受影响的地址数。
 
-<img align="center" src="./images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
-<img align="center" src="./images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
 将通证数量限制为40,000个会改变约86％的EOS通证供应量。 将通证上限设置为更高的数字将使更少数量的通证持有者获得更多权力。
 
-<img align="center" src="./images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
 # Eos的问题，Telos解决
 
@@ -394,21 +391,20 @@ Telos基金会选民来自Telos社区活跃的贡献者，由当前Telos基金�
 
 Telos基金会可能授予通证的领域包括：
 
-    对那些为Telos发布成功做出贡献的人的报酬
-    为使用在Telos网络上的有价值的工具开发者提供补偿
-    为Telos仲裁组织提供的启动资金
-    在必要时选择性补偿交易所用于发行TLOS的成本
-    资助新工具的创建
-    为平台提供广告和营销资金
-    为那些因投机者抬高价格而不能部署的开发者提供RAM补助
-    促进或保护Telos网络的任何其他功能
-    
+- Compensation for those who contributed to the Telos launch success
+- Compensation for developers of valuable tools used on the Telos network
+- Initiating funding for the Telos Arbitration Organization
+- Reimbursing select exchanges for the cost of listing TLOS where necessary
+- Funding new tool creation
+- Funding advertising and marketing for the platform
+- Providing RAM grants to developers priced out of deploying by speculators
+- Any other function that promotes or secures the Telos network
 
 其中许多案件也可能通过工人提案获得资助。 Telos基金会将资助那些投票成员认为没有通过投票建议获得充足资金的提案。
 
 由通证资助并受委托推广网络的基金会是加密货币中常见的实体。 许多区块链项目为其项目的Telos基金会版本建立了持续的资金。 Telos决定在任何给定时间将这些决定权交给BP，以最好地支持Telos网络的去中心化。
 
-<img align="center" src="./images/the_telos_foundation.png" width="495.5px" height="162.5px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/the_telos_foundation.png" width="495.5px" height="162.5px" />
 
 # 启动完整的网络
 
@@ -460,28 +456,24 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 **信息：**
 
-    telosbp.json文件，包含有关公司构成、所有权、网站、社交媒体连接、关键管理联系人以及关键技术联系人的信息。
-    服务器至少满足300个对等连接的要求。
-    
+- A telosbp.json file containing information regarding company formation, ownership, website, social media connections, key administrative contact, key technical contact.
+- Server connection information for at least 300 peers.
 
 **Technical:**
 
-    两个主网节点（一个指定为BP）：不运行其他进程的专用服务器，具有8个内核的Intel Xeon处理器，128GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接，测试节点的延迟小于500ms。
-    两个testnet节点（公共开发人员testnet和新软件的私有BP testnet）：Intel i7处理器，16GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接。
-    
+- Two mainnet nodes (one designated as block producer): Dedicated servers running no other processes, Intel Xeon processors with 8 cores, 128GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection with latency of under 500ms to testing node.
+- Two testnet nodes (public developer testnet and private BP testnet for new software): Intel i7 processors, 16GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection.
 
 智能合约和无利益关联的团体将监控每个BP对最低要求的遵守情况，以确保合规性。 如果智能合约检测到BP不符合要求，它将：
 
-    - 向BP发出不合规通知
-    - 24小时后，阻止BP服务
-      * 所有BP投票将保持不变
-      * 一旦该BP被检测到再次符合要求达1小时，它将有资格返回其当选等级（由收到的投票所决定），并继续服务。
-    - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
-    - 规则中的不能被智能合约验证的部分，将通过通知每个BP候选人起草包含regproducer合约的Ricardian合约来确定。
-      *这份合约将明确的列出BP候选人禁止与处罚有明显地关联行为，所有的BP必须迅速实施，如若则同样被认定为违规。
-      当前在EOS主网治理中的不足的地方，在 regproducer合约中强烈的关联违规行为于对应的结果，允许由其他BP迅速的且果断的采取行动。
-    
-    
+- Issue a notice of noncompliance to the block producer
+- After 24 hours, prevent the block producer from serving 
+  - All block producer votes will remain intact
+  - As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
+- If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
+- Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call. 
+  - This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
+  - Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
 
 Telos APB的意图是用这些最低限度的服务用来保持BP的响应。 这些最低要求需要根据由BP的2/3 + 1的投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
@@ -548,8 +540,8 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 5. 仲裁员的行为应直接执行（在事先协议允许的情况下），或者提交给BP执行。 此类提交将采用订单在区块链上执行的交易以及仲裁员的私钥批准。
 6. BP必须在12小时内执行DASC的命令。
 
-- TAO仲裁员的意图不是试图退还因盗窃而损失的资金。 Telos和EOSIO软件具有高级别的安全保护。 这是防盗的最佳方法。 盗贼的行动太快，无法通过仲裁来打败。 这一过程只会进一步蔓延到可能获得被盗令牌的无辜方。 
-  - 在Telos启动之前，所有可以提供所有权的加密证明的被盗资金，都将通过分配新的所有者提供的密钥返还给原始所有者。
+- The intent for TAO arbitrators is NOT to attempt to refund funds lost through theft. Telos and EOSIO software have high level security protections. This is the best defense against theft. Thieves will move too quickly to defeat with arbitration. The process only risks further contagion to innocent parties who may acquire the stolen tokens. 
+  - All funds stolen before the Telos launch begins that can provide cryptographic proof of ownership will be repatriated to original owners via assignment of new owner provided keys.
 
 # Telos被盗资金追回程序
 
@@ -561,33 +553,31 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 ### 未被盗的注册地址：
 
-    1. 无需采取任何行动。 您的TLOS令牌将在网络上
-    
+1. No action required. Your TLOS tokens will be on the network
 
 ### 已被盗的注册地址：
 
-    1. 1. 地址所有者文件声明，提供：
-    被盗地址
-    来自以太坊钱包的密码签名作为证据
-    一个新的EOSIO公钥，作为控制帐户的一对密钥对的一半 2. 地址将在10天内发布争议（没有识别信息）。
-      任何其他用户都有机会提供证明所有权的加密证据。
-    3. 3. 提供合法所有权加密证明的无可争议地址将使用Telos创世文件中提供的新公钥替换旧公钥。
-    
+1. Address owner files claim, providing: 
+  - Stolen address
+  - Cryptographic signature from Ethereum wallet as proof
+  - A new EOSIO public key as half of a key pair that will control the account.
+2. Address will be posted for contestation for 10 days (with no identifying information). 
+  - Any other user will have the opportunity to provide cryptographic evidence proving ownership.
+3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
 
 ### 令牌销售中无人认领的EOS令牌：
 
-    1. 1. 未注册的令牌所有者提交索赔，提供：
-    Eos ICO购买交易哈希
-    购买以太坊钱包的密码签名作为证据
-    一个新的EOSIO公钥，作为控制帐户的一对密钥对的一半 2. 提供合法所有权的加密证明的地址将在Telos创世文件中插入地址和新公钥。
-    
+1. Unregistered token owner files a claim providing: 
+  - Eos ICO purchase transaction hash
+  - Cryptographic signature from purchasing Ethereum wallet as proof
+  - A new EOSIO public key as half of a key pair that will control the account.
+2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
 
 ### Eos主网上交易所的EOS令牌发布：
 
-    1. Telos ABP为交换提供了交换TLOS令牌创建请求流程，以便与ABP一起为其在快照时持有EOS的客户创建令牌。
-      ＊交易所必须完成流程才能接收新令牌以分发给客户。
-    2. Telos ABP和BP不承担任何责任，并且不会对交易所持有的令牌采取任何行动。
-    
+1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot. 
+  - Exchanges must complete the process in order to receive new tokens to distribute to their customers.
+2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
 
 Telos ABPs打算在Telos网络启动前根据以下理由进行密码验证，证明在以太坊注册或Eos投票阶段未注册或被盗，其理由是此修正是可能的并且可以验证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
@@ -597,9 +587,9 @@ The Telos network will adopt base layer arbitration to protect token holders fro
 
 RAM投机是Eos中已经出现的危险。 一些投机总是会出现在资源稀缺的健康市场中，但是当投机失控时，它会占用宝贵的稀缺资源并限制网络可用性。 为了最大化网络效用并使Telos网络成为部署DApps的经济高效的地方，Telos将实施以下策略以阻止猖獗的投机。
 
-- 限制初始RAM分配
-- 将RAM的增加和网络利用率绑定
-- 鼓励Telos基金会帮助稳定价格波动
+- Limit initial RAM allocation
+- Tie RAM increases to network utilization
+- Encourage Telos Foundation to help stabilize price swings
 
 ## 限制初始RAM分配
 
@@ -631,17 +621,17 @@ Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，�
 
 ## 交易所TLOS令牌创建请求流程
 
-1. 交易所和Telos交流外联工作组（TEOWG）发起通信，双方都为此案件指定一名代表。 持有多个投资者的EOS令牌的投资基金也可以在此过程中申请。
-2. 交易所签署了一份意向书，交易TLOS通证，并在Eos快照时将其提供给他们的EOS通证持有者，每个账户的上限为40,000个TLOS通证。 这份意向书记录了新令牌印刷的条款，包括交易所将同意不作为BP和不投票令牌，因为它们不是令牌的受益所有人。 （即永远不要从他们的交易所持有地址投票。）交易所和/或Telos网络可以对这一发展进行宣传。
-3. 交易所提供快照上所有交易所拥有的地址的标识以及所有权的加密证明，以及一份关于其下没有控制其他地址的声明。
-4. TEOWG提供当前Telos节点和客户端软件的当前副本以及部署所需的任何其他支持。
-5. 交易所在Eos快照时将帐户金额的匿名列表提供为CSV文件或类似文件。
-6. TEOWG检查交易所提供的账户清单，并在40,000个TLOS通证上限制所有账户的持股。
-7. 交易所和TEOWG就将被创建的通证的总价值和将要发送的地址（来自已识别的交易所拥有的地址）达成一致。
-8. 交易所公布了即将上市的TLOS通证，并在发行日期分发给EOS所有者。 （这可能发生得比较早，但必须在此时发生。）
-9. TEOWG向Telos ABP提供交易所申请以及文件以供审查。 Telos ABP将协调TLOS令牌创建的安排与交易所发布的时间表。
-10. Telos ABPs投票决定创建通证。 此交易的李嘉图合同要求交易所必须接受不从这些地址投票的条款，并且不运营BP候选人。
-11. 交易所可以交易TLOS。
+1. The exchange and the Telos Exchange Outreach Working Group (TEOWG) initiate communications and each designate a representative for this case. Investment funds, online wallets, and similar institutions holding EOS tokens for multiple owners may also petition under this process.
+2. The exchange signs a letter of intent to list TLOS tokens and provide them to their EOS token holders as of the time of the Eos snapshot with a cap of 40,000 TLOS tokens per account. This letter documents terms of new token printing including that the exchange will agree not to act as a block producer and not to vote tokens for which they are not the beneficial owners. (i.e. never to vote from their exchange holding addresses.) The exchange and/or Telos network may issue publicity about this development.
+3. The exchange provides identification of all exchange-owned addresses on snapshot along with cryptographic proof of ownership and a statement that there are no other addresses under their control.
+4. TEOWG provides current copy of current Telos node and client software and any additional support necessary to deploy.
+5. Exchange provides anonymized list of account amounts at time of Eos snapshot as CSV file or similar.
+6. TEOWG examines the exchange-provided accounts list and caps holdings of all accounts at 40,000 TLOS tokens.
+7. The exchange and TEOWG agree on the total value of tokens to be created and the addresses (from the identified exchange-owned addresses) to which they will be sent.
+8. The exchange publicly announces its upcoming listing of TLOS tokens and distribution to EOS owners with a launch date. (This may have occurred earlier but must occur by this point.)
+9. TEOWG provides exchange’s petition along with documentation to Telos ABPs for review. The Telos ABPs will coordinate scheduling of TLOS token creation with the exchange’s release schedule.
+10. The Telos ABPs vote to create tokens. The Ricardian contract of this transaction requires that the exchange must accept terms of not voting from these addresses and not operating a block producer candidate, and distributing all TLOS tokens to their customers as represented in the agreement.
+11. The exchange enables trading of TLOS.
 
 # Telos是证券吗？
 
