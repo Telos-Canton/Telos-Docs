@@ -1,4 +1,4 @@
-# Telos White Paper v1.3
+# Telos White Paper
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
@@ -394,14 +394,14 @@ The Telos Foundation voters are drawn from active contributors to the Telos comm
 
 Areas where the Telos Foundation may grant tokens include: 
 
-  - Compensation for those who contributed to the Telos launch success
-  - Compensation for developers of valuable tools used on the Telos network
-  - Initiating funding for the Telos Arbitration Organization
-  - Reimbursing select exchanges for the cost of listing TLOS where necessary
-  - Funding new tool creation
-  - Funding advertising and marketing for the platform
-  - Providing RAM grants to developers priced out of deploying by speculators
-  - Any other function that promotes or secures the Telos network
+- Compensation for those who contributed to the Telos launch success
+- Compensation for developers of valuable tools used on the Telos network
+- Initiating funding for the Telos Arbitration Organization
+- Reimbursing select exchanges for the cost of listing TLOS where necessary
+- Funding new tool creation
+- Funding advertising and marketing for the platform
+- Providing RAM grants to developers priced out of deploying by speculators
+- Any other function that promotes or secures the Telos network
 
 Many of these cases may also be funded through worker proposals. The Telos Foundation will fund proposals that its voting members feel are not adequately funded through voting proposals.
 
@@ -537,16 +537,16 @@ This is the intent of the Telos ABPs. However, it is important to note that the 
 1. The TAO follows a set of core rules for Telos arbitration. Other rule systems (e.g. American Arbitration Association) may be layered on top of these if both parties agree.
 2. The intent for TAO arbitrators is to act as a human “oracle” (data/information/decision source) for non-deterministic contract. Ideally, an arbitrator is appointed at the outset of a smart contract execution.
 3. A case is submitted for arbitration via Dispute Arbitration Smart Contract (DASC) that includes information about the nature of the dispute, whether it is a new dispute or an appeal, and the arbitration fee.
-  * If a case has wiped out a member’s account, they may request no-fee arbitration TAO members may elect to waive fees or use grants from Worker Proposals or the Telos Foundation to cover these.
+   * If a case has wiped out a member’s account, they may request no-fee arbitration TAO members may elect to waive fees or use grants from Worker Proposals or the Telos Foundation to cover these.
 4. The arbitrator will request statements and information from both parties. 
-  * The parties submit their statements and information to the arbitrator and each other.
-  * The parties may submit rebuttals to another party’s statements and additional evidence to address opposition statements or evidence.
-  * The arbitrator may ask any questions he or she deems necessary to determine an outcome.
-  * The arbitrator renders a judgement based solely upon the evidence presented as it relates to the Telos Constitution and Rules and the terms of the smart contract in question. Where they differ, the intent documented by the Ricardian contract will be given more significance than the source code. This decision is transmitted to either the smart contract as an oracle data point, or to the block producers as an arbitrator order via the case’s DASC.
+   * The parties submit their statements and information to the arbitrator and each other.
+   * The parties may submit rebuttals to another party’s statements and additional evidence to address opposition statements or evidence.
+   * The arbitrator may ask any questions he or she deems necessary to determine an outcome.
+   * The arbitrator renders a judgement based solely upon the evidence presented as it relates to the Telos Constitution and Rules and the terms of the smart contract in question. Where they differ, the intent documented by the Ricardian contract will be given more significance than the source code. This decision is transmitted to either the smart contract as an oracle data point, or to the block producers as an arbitrator order via the case’s DASC.
 5. The arbitrator actions shall be executed directly (where allowed by prior agreement) or else submitted to block producers for execution. Such submission will be in the form of a transaction ordered to be executed on the blockchain along with arbitrator’s private key approval.
 6. The block producers must execute the orders of the DASC within 12 hours.
 
-* The intent for TAO arbitrators is NOT to attempt to refund funds lost through theft. Telos and EOSIO software have high level security protections. This is the best defense against theft. Thieves will move too quickly to defeat with arbitration. The process only risks further contagion to innocent parties who may acquire the stolen tokens. 
+- The intent for TAO arbitrators is NOT to attempt to refund funds lost through theft. Telos and EOSIO software have high level security protections. This is the best defense against theft. Thieves will move too quickly to defeat with arbitration. The process only risks further contagion to innocent parties who may acquire the stolen tokens. 
   * All funds stolen before the Telos launch begins that can provide cryptographic proof of ownership will be repatriated to original owners via assignment of new owner provided keys.
 
 # Telos Stolen Fund Repatriation Process
@@ -564,25 +564,25 @@ To accomplish this, the ABPs will seek to credit those who can prove, using cryp
 ### Registered addresses that have been stolen:
 
 1. Address owner files claim, providing:
-  * Stolen address
-  * Cryptographic signature from Ethereum wallet as proof
-  * A new EOSIO public key as half of a key pair that will control the account.
+   * Stolen address
+   * Cryptographic signature from Ethereum wallet as proof
+   * A new EOSIO public key as half of a key pair that will control the account.
 2. Address will be posted for contestation for 10 days (with no identifying information).
-  * Any other user will have the opportunity to provide cryptographic evidence proving ownership.
+   * Any other user will have the opportunity to provide cryptographic evidence proving ownership.
 3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
 
 ### Unclaimed EOS tokens from token sale: 
 
 1. Unregistered token owner files a claim providing:
-  * Eos ICO purchase transaction hash
-  * Cryptographic signature from purchasing Ethereum wallet as proof
-  * A new EOSIO public key as half of a key pair that will control the account.
+   * Eos ICO purchase transaction hash
+   * Cryptographic signature from purchasing Ethereum wallet as proof
+   * A new EOSIO public key as half of a key pair that will control the account.
 2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
 
 ### EOS tokens on exchanges at Eos mainnet launch: 
 
 1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot.
-  * Exchanges must complete the process in order to receive new tokens to distribute to their customers.
+   * Exchanges must complete the process in order to receive new tokens to distribute to their customers.
 2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
 
 The Telos ABPs intend to repatriate tokens that can be cryptographically proven to have been unregistered or stolen at the Ethereum registration or Eos voting stages under the rationale that this correction is possible and verifiable before the Telos network launches. We recognize that some losses were due to the ethereum registration process and the lack of approved consumer-grade voting wallets at Eos mainnet launch. 
@@ -593,9 +593,9 @@ The Telos network will adopt base layer arbitration to protect token holders fro
 
 RAM speculation is a danger that has already emerged in Eos. Some speculation will always occur in healthy markets with scarce resources, however when speculation is out of control then it ties up valuable scarce resource and limits network availability. To maximize network utility and keep the Telos network a cost-effective place to deploy DApps, Telos will implement the following tactics meant to discourage rampant speculation.
 
-* Limit initial RAM allocation
-* Tie RAM increases to network utilization
-* Encourage Telos Foundation to help stabilize price swings
+- Limit initial RAM allocation
+- Tie RAM increases to network utilization
+- Encourage Telos Foundation to help stabilize price swings
 
 ## Limit Initial RAM Allocation 
 
