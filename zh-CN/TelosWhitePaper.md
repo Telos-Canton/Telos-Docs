@@ -23,7 +23,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [增强的安全性](#enhanced-security)
     - [由区块生产者运作的公共测试网](#public-testnet-operated-by-block-producers)
     - [Telos/Eos主网相互兼容](#teloseos-mainnet-compatibility)
-  - [面向通证持有者](#for-token-holders) 
+  - [面向通证（Token）持有者](#for-token-holders) 
     - [所有人的投票都有意义](#meaningful-voting-for-all)
     - [每个通证（Token）拥有更高的权益](#higher-equity-per-token)
     - [开发者专注于创造价值](#developer-focus-builds-value)
