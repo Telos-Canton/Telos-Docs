@@ -388,7 +388,7 @@ Telos基金会的目的是成为一个永久性的拨款资助组织，其选民
 
 Telos基金会是一个去中心化的自治组织，使用Telos基金会投票通证（TFVT）通过智能合约进行投票 - 这是一种无价值的通证，赋予其持有者投票权。 通过这种方式，Telos基金会可以投票决定资金的支付和选举自己的公共代表。 投票通证将在发行时被分配到整个Telos社区，以鼓励广泛来自社区的开发者，BP，作家和其他知名社区成员的的投票声音 （每个人将获得1到3个TFVT）。 新的通证将按季度分配给正在为Telos社区做出贡献的成员。 投票由智能合约执行，由简单地大多数投票通证携带。
 
-Telos基金会选民来自Telos社区活跃的贡献者，由当前Telos基金会选民进行选择。 初始的Telos基金会选民小组将来自Telos网络创建和启动的贡献者。 All Telos Foundation Voter Token holders will be publicly announced and their voting token addresses will be associated with their identities so that each voter’s voting record will also be publicly recorded on the blockchain.
+Telos基金会选民来自Telos社区活跃的贡献者，由当前Telos基金会选民进行选择。 初始的Telos基金会选民小组将来自Telos网络创建和启动的贡献者。 所以Telos基金会通证持有者选民将被公布，他们的投票通证地址将被关联至他们的身份证明，以此每一个选民的投票记录也将被公开登记到区块链上。
 
 **Telos基金会在网络治理方面没有任何作用。 它不会用其令牌投票或在投票事项或BP选择上发布立场。 它的唯一职能是为有益的Telos项目提供资金，否则这些项目可能无法获得资金，并有助于稳定网络上RAM的价格。**
 
