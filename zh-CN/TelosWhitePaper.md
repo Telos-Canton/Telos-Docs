@@ -83,7 +83,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 
 一个可持续的去中心化 EOSIO 网络
 
-Eos系统为新经济带来了了不起的承诺。 不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却拥有着90％的通证。 通证所有权，治理和超级节点（BP）选举都受到大量“巨鲸”地址的影响，这些地址可以将Eos推向他们想要的任何方向，而不考虑大多数通证持有者、开发者的意愿，甚至网络的整体健康状况。
+Eos系统为新经济模式许下了一个美好的承诺。 但不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却占有了90％的通证。 通证所有权，治理和超级节点（BP）选举都受到大量“巨鲸”地址的影响，这些地址可以将Eos推向他们想要的任何方向，而不考虑大多数通证持有者、开发者的意愿，甚至网络的整体健康状况。
 
 Telos是基于相同EOSIO代码的一个替代网络，旨在解决Eos的关键问题。 Telos网络提供：
 
@@ -654,9 +654,9 @@ Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，�
 
 我们认为，根据Hinman先生和美国证券交易委员会的决定，TLOS令牌不应被视为证券，原因有两个：
 
-首先，TLOS从未被以任何形式的ICO销售。 TLOS是一个全新的令牌，将在Telos主网络发布时创建。 Telos网络正在重新创建Eos令牌销售的修改版的所有权快照，以奖励那些付费使用Block. one创建的开源EOSIO软件的人。 要明确的是，所有投向这个ICO的资金都用于Block. one，没有用于Telos网络。 EOSIO软件是开源的，可以自由复制。 Telos ABPs决定通过授予与Eos购买匹配的令牌来奖励Eos的支持者，每个地址最高为上限金额，但与Eos或Block. one没有任何关系。 Telos没有出售任何东西，因此很难得出它曾是证券的结论。 TLOS is an entirely new token that will be created upon the Telos mainnet launch. The Telos network is recreating a modified ownership snapshot of the Eos token sale as a way to reward those who paid to have the open source EOSIO software created by Block.one. To be clear, all of the monies contributed to this ICO went to Block.one, none to the Telos network. The EOSIO software is open source and free to copy. The Telos ABPs have decided to reward the backers of Eos by granting tokens matching their Eos purchases, up to a capped amount per address, but there is no affiliation with Eos or Block.one. Telos did not sell anything so it is difficult to conclude that it ever offered a security.
+首先，TLOS从未被以任何形式的ICO销售。 TLOS是一个全新的通证，将在Telos主网络发布时创建。 Telos网络正在重新创建Eos通证销售的修改版的所有权快照，以奖励那些付费使用Block. one创建的开源EOSIO软件的人。 要明确的是，所有投向这个ICO的资金都用于Block. one，没有用于Telos网络。 EOSIO软件是开源的，可以自由复制。 Telos ABPs决定通过授予与Eos购买匹配的通证来奖励Eos的支持者，每个地址最高为上限金额，但与Eos或Block. one没有任何关系。 Telos没有出售任何东西，因此很难得出它曾是证券的结论。
 
-其次，如果要推断TLOS令牌本来是一种证券，尽管从未被出售或出售，Telos网络完全去中心化的性质使得这一点变得没有实际意义。 Telos没有所有者，管理者或受托人。 该网络由验证节点运算符的独立网络（称之为BP）来管理。这些BP通过TLOS令牌持有者的智能合约投票连任。 TLOS令牌所有权很明显是所有加密货币中分布最均匀和最分散的。 甚至没有证据表明任何单一实体控制着Telos网络的1.5％。 Telos has no owners, managers, or fiduciaries. The network is administered by independent network of validating node operators called block producers who are continuously elected through the smart contract voting of TLOS token holders. The TLOS token ownership is notably one of the most evenly distributed and decentralized of all cryptocurrencies. There is no evidence that any single entity will control even 0.5% of the Telos network.
+其次，如果要推断TLOS令牌本来是一种证券，尽管从未被出售或出售，Telos网络完全去中心化的性质使得这一点变得没有实际意义。 Telos没有所有者，管理者或受托人。 该网络由验证节点运算符的独立网络（称之为BP）来管理。这些BP通过TLOS通证持有者的智能合约投票连任。 TLOS令牌所有权很明显是所有加密货币中分布最均匀和最分散的。 甚至没有证据表明任何单一实体控制着Telos网络的0.5％。
 
 Telos网络最初将由6个指定的区块生产者（ABPs）发起，他们将启动网络发布，并将获得TLOS令牌。 被称为Telos基金会的实体将获得TLOS令牌，作为向必需的网络功能提供资金补助的一种方式。 当这些TLOS令牌被授予这些实体和所有TLOS令牌持有者时，令牌将没有面值，因为它们从交换价格中获得它们的价值（在它们未被列入世界上任何交易所的时候）或网络价值（在网络既没有启动也不能进行交易的时候）。
 
@@ -664,7 +664,7 @@ Telos网络最初将由6个指定的区块生产者（ABPs）发起，他们将�
 
 我们作为ABP的理解是，根据Hinman先生在美国证券交易委员会网站上发表的评论，TLOS令牌不是证券，我们在完全去中心化的网络中发行这些没有价值的所有权令牌，并不是证券要约。
 
-ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 根据这一定义，似乎很难将TLOS视为美国证券交易委员会定义下的证券。 Based on this definition, it seems difficult to deem TLOS a security under the US SEC definition.
+ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 Based on this definition, it seems difficult to deem TLOS a security under the US SEC definition.
 
 **NOTE: THIS IS NOT LEGAL OR SECURITIES ADVICE. IT IS OUR INTERPRETATION OF PUBLISHED STATEMENTS BY THE UNITED STATES SECURITIES EXCHANGE COMMISSION AS THEY MIGHT APPLY TO TLOS TOKENS. SEEK COUNSEL FROM YOUR OWN PROFESSIONAL ADVISORS BASED ON YOUR NEEDS AND JURISDICTION.**
 
