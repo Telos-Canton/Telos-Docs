@@ -13,7 +13,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 <!-- MarkdownTOC autolink=true levels=1,2,3 bracket=round bullets="-,*,+" -->
 
 - [橡果（Telos）项目](#the-telos-project) 
-  - [分叉链橡果（Telos）](#the-telos-blockchain)
+  - [橡果（Telos）公链](#the-telos-blockchain)
   - [与橡果（Telos）来一个全新的开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
   - [面向开发者](#for-developers) 
@@ -50,7 +50,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 - [Telos基金会](#the-telos-foundation)
 - [启动一个完整的网络](#launching-a-complete-network) 
   - [投票钱包](#voting-wallets)
-  - [宪法](#governance)
+  - [治理](#governance)
   - [公投程序](#referendum-process)
   - [工人提案和投票程序](#worker-proposals-submission-and-voting-process)
   - [仲裁程序](#arbitration-process)
@@ -263,7 +263,7 @@ Telos维持BP的最低标准，使其成为合格的候选人。 这些标准基
 
 ### 节点维护的定期停机时间
 
-预备BP将通过半定期计划，即每3天轮流生产几个小时来证明其区块节点的可靠性。 这将使主要BP经常有机会关闭节点以进行维护和升级。 这显著降低了操作成本。 该系统还确保所有预备BP随时准备履行其职责。
+预备BP将通过半定期计划，即每3~7天轮流生产几个小时来证明其区块节点的可靠性。 这将使主要BP经常有机会关闭节点以进行维护和升级。 这显著降低了操作成本。 该系统还确保所有预备BP随时准备履行其职责。
 
 # Telos通证分配
 
@@ -352,7 +352,7 @@ Eos 临时宪法自定义为不完整, 需要修订和批准的, 然后 eos 才�
 
 **Telos的解决方案：**
 
-The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. There is no need to wait for a revised or ratified version. Every Telos user will agree to this via Ricardian contract the first time they choose to use their Telos account. Telos users certainly have the right to amend the constitution whenever they deem this necessary. Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
+The Telos ‘constitution’ is known as the Telos Network Operating Agreement (https://github.com/TelosFoundation/tips/blob/master/TelosOperatingAgreement.md) will be valid and enforceable as written as of network launch. 不需要等待修订或审批版本。 每个Telos用户在第一次选择使用他们的Telos帐户时都会同意通过Ricardian合约。 Telos用户在认为必要时, 有权修改宪法。 Paragraph 32 (Amending) empowers TLOS token holders to ratify or amend the constitution using the ‘ratifyamend’ contract that will be available upon network launch, and when this happens it is more likely to express the desires and aims of common Telos users. 但是，如果不立即发生这种情况，网络将不会被视为未经批准。
 
 ### 问题：审判机构没有在发布时准备好。
 
@@ -622,7 +622,7 @@ Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价�
 
 # Telos交易所请求程序
 
-Telos委任BP（ABPs）创建以下流程，允许在创世快照时有交易EOS的交易所申请创建新的TLOS通证到其Telos地址，这些新增的TLOS通证足够为创世快照时持有EOS的交易所用户提供TLOS通证（每个用户EOS:TLOS为1:1，获取TLOS上限为40,000个）。 Telos ABPs同意为完成该过程的每个交易所创建令牌。
+Telos委任节点（ABPs）创建以下流程，允许在创世快照时有交易EOS的交易所申请创建新的TLOS通证到其Telos地址，这些新增的TLOS通证足够为创世快照时持有EOS的交易所用户提供TLOS通证（每个用户EOS:TLOS为1:1，获取TLOS上限为40,000个）。 Telos ABPs同意为完成该过程的每个交易所创建令牌。
 
 Telos项目的目的是在Eos快照时为所有EOS令牌所有者提供TLOS（每个地址或交易所客户最多40,000）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并为请求过程之后的每个交易所创建所需的令牌。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由代币持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将只能在启动和激活之间的时间段内对处理交易所请求有完全控制权。 激活后，是否决定为任何请求交易所创建新令牌，将由当时21个选举的BP中的15个投票决定。
 
