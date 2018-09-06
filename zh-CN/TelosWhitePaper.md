@@ -72,8 +72,8 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [限制初始内存分配](#limit-initial-ram-allocation)
   - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
   - [促进Telos基金会协作稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
-- [Telos交易所请愿程序](#telos-exchange-petition-process) 
-  - [交换TLOS令牌创建请愿程序](#exchange-tlos-token-creation-petition-process)
+- [Telos交易所申请流程](#telos-exchange-petition-process) 
+  - [交易所申请创建TLOS通证流程](#exchange-tlos-token-creation-petition-process)
 - [橡果（Telos）是证券吗？](#is-telos-a-security)
 - [橡果（Telos）常见问题](#telos-faq)
 
@@ -472,19 +472,19 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 每个BP对最低要求的遵守将由智能合同和无利害关系团体监控，以确保合规性。 如果智能合约检测到Bp不符合要求，它将：
 
-    向BP发出不合规通知
-    24小时后，阻止BP服务
-    所有BP投票将保持不变
-    一旦该BP检测到BP再次符合要求达1小时，它将有资格服务并将返回其收到的投票所决定的等级。
-    如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
-    通过起草每个BP候选人必须致电的生产者合同中包含的Ricardian合同，将确保遵守智能合同无法验证的一些要素。
+    - 向BP发出不合规通知
+    - 24小时后，阻止BP服务
+      * 所有BP投票将保持不变
+      * 一旦该BP检测到BP再次符合要求达1小时，它将有资格服务并将返回其收到的投票所决定的等级。
+    - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
+    - 通过起草每个BP候选人必须致电的生产者合同中包含的Ricardian合同，将确保遵守智能合同无法验证的一些要素。
       * This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
       * Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
     
 
 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 Telos ABP的目的是使这些最小值能够使BP积极响应。 这些最低要求需要根据由BP的2/3 + 1投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
-# Bp薪酬
+# BP薪酬
 
 BP是任何EOSIO网络的重要组成部分 有21个BP随时验证网络。 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
 
@@ -523,7 +523,7 @@ Telos薪酬结构通过在全职的选举出来的BP和备用BP之间保持2：1
 | **BP Annual Pay(@ 21 BPs)**    | 92,153.67   | TLOS | $230,384     | $460,768       | $921,537       | $1,382,305     | $1,843,073     |
 | **SBP Annual Pay(@ 30 SBPs)**  | 46,076.84   | TLOS | $115,192     | $230,384       | $460,768       | $691,153       | $921,537       |
 
-(USD values are for reference only.)
+（美元价值仅供参考）
 
 # Telos网络的仲裁
 
@@ -624,7 +624,7 @@ Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价�
 
 Telos委任节点（ABPs）创建以下流程，允许在创世快照时有交易EOS的交易所申请创建新的TLOS通证到其Telos地址，这些新增的TLOS通证足够为创世快照时持有EOS的交易所用户提供TLOS通证（每个用户EOS:TLOS为1:1，获取TLOS上限为40,000个）。 Telos委任节点同意为每个完成该流程的交易所创建通证。
 
-Telos项目的目的是在Eos快照时为所有EOS令牌所有者提供TLOS（每个地址或交易所客户最多40,000）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并为请求过程之后的每个交易所创建所需的令牌。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由代币持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将只能在启动和激活之间的时间段内对处理交易所请求有完全控制权。 激活后，是否决定为任何请求交易所创建新令牌，将由当时21个选举的BP中的15个投票决定。
+Telos项目旨在向所有创世快照时刻的EOS通证持有者提供TLOS（每个地址或每个交易所用户最多40,000个）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并为请求过程之后的每个交易所创建所需的令牌。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有由代币持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将只能在启动和激活之间的时间段内对处理交易所请求有完全控制权。 激活后，是否决定为任何请求交易所创建新令牌，将由当时21个选举的BP中的15个投票决定。
 
 Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，并在启动期间帮助指导他们完成整个过程。 重要的是要强调，只有在Telos启动期间才会创建用于请求交换的TLOS令牌，并由ABP保证。
 
