@@ -105,7 +105,7 @@ Telos分叉EOSIO代码建立新的公链，并更新以下元素：
   
   <img align="center" src="./images/ownership_distribution.png" width="448px" height="392" />
 
-- 修改区块生产者（BP）和备用BP的支付模型以更好地保护网络。
+- 修改区块生产节点和预备节点的报酬模型以更好地保证公链安全。
   
   - 基于投票固定产生21个BP以及30个预备节点。
   - BP与预备BP之间薪酬的平衡。 所有BP将被支付相同的薪酬，所有预备BP将被支付50％的BP费率。
