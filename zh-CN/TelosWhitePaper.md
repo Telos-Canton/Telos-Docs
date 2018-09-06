@@ -386,7 +386,7 @@ Telos基金会还旨在增加一种工具，以对抗当前在Eos上看到的RAM
 
 Telos基金会的目的是成为一个永久性的拨款资助组织，其选民不同于区块生产者。 Telos基金会将通过向选民提交工人提案来偿还已经分发的补助金来实现这一目标。 通过这种方式，社区可以决定是继续保留Telos基金会还是将其关闭。
 
-Telos基金会是一个去中心化的自治组织，使用Telos基金会投票通证（TFVT）通过智能合约进行投票 - 这是一种无价值的通证，赋予其持有者投票权。 通过这种方式，Telos基金会可以投票决定资金的支付和选举自己的公共代表。 投票令牌将在发行时将分配在整个Telos社区，以鼓励广泛来自开发者，BP，作家和其他知名社区成员的的投票声音。 每个人将获得1到3个TFVT。 新的令牌将按季度分配给正在为Telos社区做出贡献的成员。 投票由智能合约执行，简单地多数投票的令牌通过投票。
+Telos基金会是一个去中心化的自治组织，使用Telos基金会投票通证（TFVT）通过智能合约进行投票 - 这是一种无价值的通证，赋予其持有者投票权。 通过这种方式，Telos基金会可以投票决定资金的支付和选举自己的公共代表。 投票通证将在发行时被分配到整个Telos社区，以鼓励广泛来自社区的开发者，BP，作家和其他知名社区成员的的投票声音 每个人将获得1到3个TFVT。 新的令牌将按季度分配给正在为Telos社区做出贡献的成员。 投票由智能合约执行，简单地多数投票的令牌通过投票。
 
 The Telos Foundation voters are drawn from active contributors to the Telos community—as selected by the existing Telos Foundation voters. The initial group of Telos Foundation voters will be draw from contributors to the Telos Network creation and launch. All Telos Foundation Voter Token holders will be publicly announced and their voting token addresses will be associated with their identities so that each voter’s voting record will also be publicly recorded on the blockchain.
 
