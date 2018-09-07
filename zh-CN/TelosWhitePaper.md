@@ -1,4 +1,4 @@
-# 橡果（Telos）中文白皮书
+# Telos中文白皮书
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
@@ -12,7 +12,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 
 <!-- MarkdownTOC autolink=true levels=1,2,3 bracket=round bullets="-,*,+" -->
 
-- [橡果（Telos）项目](#the-telos-project) 
+- [Telos项目](#the-telos-project) 
   - [橡果（Telos）公链](#the-telos-blockchain)
   - [与橡果（Telos）来一个全新的开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
