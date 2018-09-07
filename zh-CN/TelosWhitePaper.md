@@ -679,15 +679,15 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：Telos是空投吗？**
 
-答：Telos是一个全新的网络，使用与Eos主网相同的EOSIO操作软件，只需进行一些小的修改。 它不是空投。 然而，TLOS令牌的分布类似于空投，因为任何拥有Eos令牌的人都将根据我们的创世令牌分配算法在其地址接收新的TLOS令牌。
+答：Telos是一个全新的网络，使用与Eos主网相同的EOSIO操作软件，只是进行了一些小的修改。 它不是空投。 然而，TLOS令牌的分布类似于空投，因为任何拥有Eos令牌的人都将根据我们的创世令牌分配算法在其地址接收新的TLOS令牌。
 
 **问：Telos创世纪令牌分配算法究竟是什么？**
 
-答：简单来说，就是所有Telos创世地址都将获得与创世快照中相应的Eos地址相同数量的令牌，最多可达40,000个令牌。 Except for a few special cases: Addresses proven to have been stolen, phished, or misregistered, thereby depriving their rightful owners of them will be restored to new addresses controlled by their rightful owners; and new genesis tokens will be created to compensate the Telos Launch Group contributors and community members promoting the network, and to establish the Telos Foundation.
+答：简单来说，就是所有Telos创世地址都将获得与创世快照中相应的Eos地址相同数量的令牌，最多可达40,000个。 除少数特殊情况外：地址证明被盗的，网络钓鱼的或注册不当的地址，因为以上原因被从合法所有者手中剥夺的通证将被恢复到其合法所有者控制的新地址; 创建新的创世通证来补偿Telos启动小组和社区成员促进网络已经建立Telos基金会。
 
 **问：如果您对所有账户设置上限，EOS持有人如何从交易所获得TLOS？**
 
-答：TLOS BP能够通过2/3 + 1的投票创建新的令牌。 6个ABP同意为任何可以在快照上显示EOS持有量的交易所创建新的令牌，这些交易所必须同意：交易TLOS; 不投票交易所账户; 并且要求和分发刚好足够的硬币，使快照时所有EOS持有者收到的硬币上限为每个账户40,000。 ABPs将有一个请求交易所创建TLOS令牌的流程，并请求它们承诺尊重所有有效的请愿书。 （需要对6个区块生产商中的5个进行投票才能实现这一目标。）一旦Telos网络激活并且选出的BP验证网络，将对21个区块生产商中的15个进行投票，以便为交易所创建新的代币。
+答：TLOS BP能够通过2/3 + 1的投票创建新的令牌。 6个ABPs同意为任何可以在快照上显示EOS持有量的交易所创建新的通证，这些交易所必须同意：交易TLOS; 不投票交易所账户; 并且要求和分发刚好足够的硬币，使快照时所有EOS持有者收到的硬币上限为每个账户40,000。 ABPs将有一个请求交易所创建TLOS令牌的流程，并请求它们承诺尊重所有有效的请愿书。 （需要对6个区块生产商中的5个进行投票才能实现这一目标。）一旦Telos网络激活并且选出的BP验证网络，将对21个区块生产商中的15个进行投票，以便为交易所创建新的代币。
 
 **问：为什么限制创世地址的TLOS为40,000个？**
 
