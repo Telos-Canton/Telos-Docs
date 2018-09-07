@@ -150,12 +150,12 @@ Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 对于开发者
 
-- Proprietary DApps allowed
-- Lower cost DApp deployment
-- Fewer network pauses
-- Enhanced Security
-- Public testnet operated by BPs
-- Telos/Eos mainnet compatibility
+- 允许拥有专利权的去中心化应用（DApps）
+- 较低的DApp部署成本
+- 较少的网络停顿
+- 增强的安全性
+- 公共测试网由BP运营
+- Telos/Eos主网相互兼容
 
 对于通证持有者
 
@@ -394,11 +394,11 @@ Telos基金会可能授予通证的领域包括：
 - 对那些为Telos发布成功做出贡献的人提供报酬
 - 为使用在Telos网络上的有价值工具的开发者提供补偿
 - 为Telos仲裁组织提供启动资金
-- Reimbursing select exchanges for the cost of listing TLOS where necessary
-- Funding new tool creation
-- Funding advertising and marketing for the platform
-- Providing RAM grants to developers priced out of deploying by speculators
-- Any other function that promotes or secures the Telos network
+- 在必要时选择性偿还交易所用于发行TLOS的成本
+- 资助新工具的创建
+- 为平台提供广告和营销资金
+- 为那些因RAM投机者被高价格挤出而不能部署开发者提供RAM补助
+- 促进或保护Telos网络的任何其他功能
 
 其中许多案件也可能通过工人提案获得资助。 Telos基金会将资助那些投票成员认为没有通过投票建议获得充足资金的提案。
 
