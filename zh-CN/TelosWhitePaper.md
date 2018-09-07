@@ -565,13 +565,13 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
   - 任何其他用户都有机会提供证明所有权的加密证据。
 3. 提供合法所有权加密证明的无争议地址，将使用Telos创世文件中提供的新公钥替换旧公钥。
 
-### 令牌销售中无人认领的EOS令牌：
+### 在Eos众筹中未被认领的通证（Token）：
 
-1. Unregistered token owner files a claim providing: 
-  - Eos ICO purchase transaction hash
-  - Cryptographic signature from purchasing Ethereum wallet as proof
-  - A new EOSIO public key as half of a key pair that will control the account.
-2. Addresses providing cryptographic proof of rightful ownership will have address and new public key inserted into the Telos genesis file.
+1. 未注册的通证所有者提交索赔，需提供： 
+  - Eos ICO购买交易哈希
+  - 来自以太坊钱包的密码签名作为证据
+  - 一个新的EOSIO公钥，作为密钥对的其中一半，将用来控制账户
+2. 提供合法所有权的加密证明的地址，将在Telos创世文件中插入其地址和新公钥。
 
 ### Eos主网上交易所的EOS令牌发布：
 
