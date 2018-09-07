@@ -456,19 +456,19 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 **信息：**
 
-- A telosbp.json file containing information regarding company formation, ownership, website, social media connections, key administrative contact, key technical contact.
-- Server connection information for at least 300 peers.
+- telosbp.json文件，包含有关公司构成、所有权、网站、社交媒体连接、关键管理联系人以及关键技术联系人的信息。
+- 服务器至少满足300个对等连接的要求。
 
-**Technical:**
+**技术：**
 
-- Two mainnet nodes (one designated as block producer): Dedicated servers running no other processes, Intel Xeon processors with 8 cores, 128GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection with latency of under 500ms to testing node.
-- Two testnet nodes (public developer testnet and private BP testnet for new software): Intel i7 processors, 16GB DDR3 ECC RAM, DDOS protection, 100Mbps internet connection.
+- 两个主网节点（一个指定为BP）：不运行其他进程的专用服务器，具有8个内核的Intel Xeon处理器，128GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接，测试节点的延迟小于500ms。
+- 两个testnet节点（公共开发人员testnet和新软件的私有BP testnet）：Intel i7处理器，16GB DDR3 ECC RAM，DDOS保护，100Mbps互联网连接。
 
 智能合约和无利益关联的团体将监控每个BP对最低要求的遵守情况，以确保合规性。 如果智能合约检测到BP不符合要求，它将：
 
-- Issue a notice of noncompliance to the block producer
-- After 24 hours, prevent the block producer from serving 
-  - All block producer votes will remain intact
+- 向BP发出不合规通知
+- 24小时后，阻止BP服务 
+  - 所有BP投票将保持不变
   - As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
 - If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
 - Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call. 
