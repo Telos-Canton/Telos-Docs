@@ -615,18 +615,18 @@ Telos基金会将定期发布其认为合理的Telos RAM价格指南。 当价�
 
 Telos委任节点（ABPs）创建以下流程，允许在创世快照时有交易EOS的交易所申请创建新的TLOS通证到其Telos地址，这些新增的TLOS通证足够为创世快照时持有EOS的交易所用户提供TLOS通证（每个用户EOS:TLOS为1:1，获取TLOS上限为40,000个）。 Telos委任节点同意为每个完成该流程的交易所创建通证。
 
-Telos项目旨在向所有创世快照时刻的EOS通证持有者提供TLOS（每个地址或每个交易所用户最多40,000个）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并创建请愿过程中每一次交易所需的通证。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有BP选举（由代币持有者投票选出）之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将只能在启动和激活之间的时间段内对处理交易所请求有完全控制权。 激活后，是否决定为任何请求交易所创建新令牌，将由当时21个选举的BP中的15个投票决定。
+Telos项目旨在向所有创世快照时刻的EOS通证持有者提供TLOS（每个地址或每个交易所用户最多40,000个）。 Telos ABPs鼓励未来的Telos BP遵守这一意图，并创建请愿过程中每一次交易所需的通证。 但是，值得注意的是，Telos网络是去中心化的，没有所有者，管理者或受托人，也没有BP选举（由代币持有者投票选出）之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。 因此，启动Telos网络的ABPs将仅在启动和激活之间的时间段内，对处理交易所请求有完全控制权。 激活后，是否决定为任何交易所的请求创建新令牌，将由当选的21个BP中的15个投票决定。
 
-Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，并在启动期间帮助指导他们完成整个过程。 重要的是要强调，只有在Telos启动期间才会创建用于请求交换的TLOS令牌，并由ABP保证。
+Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，并在启动期间帮助指导他们完成整个过程。 要重点强调的是，只有在Telos启动期间才可创建用于请求交易的TLOS通证，并由ABP作保担保。
 
 ## 交易所TLOS令牌创建请求流程
 
-1. The exchange and the Telos Exchange Outreach Working Group (TEOWG) initiate communications and each designate a representative for this case. Investment funds, online wallets, and similar institutions holding EOS tokens for multiple owners may also petition under this process.
-2. The exchange signs a letter of intent to list TLOS tokens and provide them to their EOS token holders as of the time of the Eos snapshot with a cap of 40,000 TLOS tokens per account. This letter documents terms of new token printing including that the exchange will agree not to act as a block producer and not to vote tokens for which they are not the beneficial owners. (i.e. never to vote from their exchange holding addresses.) The exchange and/or Telos network may issue publicity about this development.
-3. The exchange provides identification of all exchange-owned addresses on snapshot along with cryptographic proof of ownership and a statement that there are no other addresses under their control.
-4. TEOWG provides current copy of current Telos node and client software and any additional support necessary to deploy.
-5. Exchange provides anonymized list of account amounts at time of Eos snapshot as CSV file or similar.
-6. TEOWG examines the exchange-provided accounts list and caps holdings of all accounts at 40,000 TLOS tokens.
+1. 由交易所和Telos交易外联工作组（TEOWG）发起通信，双方都为此案件指定一名代表。 投资基金、在线钱包以及类似的为多个持有者保管EOS通证的机构，也可以根据此流程提出申请。
+2. 交易所签署了一份意向书用来交易TLOS通证，并在Eos快照时将其提供给他们的EOS通证持有者，每个账户的上限为40,000个TLOS。 这份意向书记录了新通证发布的条款，包括交易所同意不担任BP，并且不投通证，因为他们不是受益所有人。 （即永远不要从他们的交易所持有地址投票。）交易所和/或Telos网络可以对这一发展进行宣传。
+3. 交易所提供快照上所有持有交易的地址的身份证明，以及所有权的加密证明，以及一份在他们控制下没有其它地址的声明。
+4. TEOWG提供当前Telos节点和客户端软件的当前副本以及部署所需的任何其他支持。
+5. 交易所在Eos快照时，以CSV文件或类似文件格式提供帐户金额的匿名列表。
+6. TEOWG检查交易所提供的账户清单，保持所有账户的TLOS通证限制在40,000个以内。
 7. The exchange and TEOWG agree on the total value of tokens to be created and the addresses (from the identified exchange-owned addresses) to which they will be sent.
 8. The exchange publicly announces its upcoming listing of TLOS tokens and distribution to EOS owners with a launch date. (This may have occurred earlier but must occur by this point.)
 9. TEOWG provides exchange’s petition along with documentation to Telos ABPs for review. The Telos ABPs will coordinate scheduling of TLOS token creation with the exchange’s release schedule.
