@@ -562,8 +562,8 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
   - 来自以太坊钱包的密码签名作为证据
   - 一个新的EOSIO公钥，作为密钥对的其中一半，将用来控制账户
 2. 地址将在10天内发布争议（没有识别信息） 
-  - Any other user will have the opportunity to provide cryptographic evidence proving ownership.
-3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
+  - 任何其他用户都有机会提供证明所有权的加密证据。
+3. 提供合法所有权加密证明的无争议地址，将使用Telos创世文件中提供的新公钥替换旧公钥。
 
 ### 令牌销售中无人认领的EOS令牌：
 
