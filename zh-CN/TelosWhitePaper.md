@@ -581,7 +581,7 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 Telos ABP打算返还那些可以被加密证明的、仍未注册的、在以太坊注册被盗的或在Telos网络发布前Eos处于可修正和可验证投票阶段下的通证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
-The Telos network will adopt base layer arbitration to protect token holders from theft. 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. 仲裁合同和Telos仲裁组织将从网络启动那天起生效。
+Telos网络将采用基层仲裁来保护令牌持有人免遭盗窃。 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. 仲裁合同和Telos仲裁组织将从网络启动那天起生效。
 
 # Telos RAM投机预防
 
