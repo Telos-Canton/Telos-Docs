@@ -469,11 +469,11 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 - 向BP发出不合规通知
 - 24小时后，阻止BP服务 
   - 所有BP投票将保持不变
-  - As soon as the smart contract detects that the block producer is compliant again for 1 hour, it will become eligible to serve and will return to the rank dictated by the votes it has received.
-- If a block producer has remained out of compliance with the minimum requirements for more than 15 days, it will be unregistered as a block producer and will need to run regproducer again.
-- Compliance with some elements that cannot be verified by smart contract will be ensured through drafting of the Ricardian contract included in the regproducer contract that each block producer candidate must call. 
-  - This contract will clearly list actions that block producer candidates are prohibited from taking clearly linked to penalties that all other block producers must implement swiftly or be deemed in violation as well.
-  - Strongly linking infractions and commensurate outcomes within the regproducer contract will allow swift and decisive action by other block producers, which is currently lacking in EOS mainnet governance.
+  - 一旦该BP被检测到在持续1小时内再次符合要求，它将有资格返回其当选的等级（由收到的投票所决定），并开始继续服务。
+- - 如果BP超过15天未满足合规的最低要求，它将被取消注册，并需要再次运行regproducer。
+- 规则中的不能被智能合约验证的部分，将通过通知每个BP候选人起草包含regproducer合约的Ricardian合约来确定。 
+  - 这份合约将明确的列出BP候选人禁止与处罚有明显地关联行为，所有的BP必须迅速实施，如若则同样被认定为违规。
+  - 在 regproducer合约中强烈的关联违规行为于对应的结果，允许由其他BP迅速的且果断的采取行动，这也是当前在EOS主网治理中的不足的地方。 
 
 Telos APB的意图是用这些最低限度的服务用来保持BP的响应。 这些最低要求需要根据由BP的2/3 + 1的投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
@@ -540,8 +540,8 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 5. 仲裁员的行为应直接执行（在事先协议允许的情况下），或者提交给BP执行。 此类提交将采用订单在区块链上执行的交易以及仲裁员的私钥批准。
 6. BP必须在12小时内执行DASC的命令。
 
-- The intent for TAO arbitrators is NOT to attempt to refund funds lost through theft. Telos and EOSIO software have high level security protections. This is the best defense against theft. Thieves will move too quickly to defeat with arbitration. The process only risks further contagion to innocent parties who may acquire the stolen tokens. 
-  - All funds stolen before the Telos launch begins that can provide cryptographic proof of ownership will be repatriated to original owners via assignment of new owner provided keys.
+- TAO仲裁员的意图不是试图退还因盗窃而损失的资金。 Telos和EOSIO软件具有高级别的安全保护。 这是防盗的最佳方法。 盗贼的行动太快，无法通过仲裁来击败。 这一过程只会进一步蔓延到可能获得被盗通证的无辜方。 
+  - 在Telos启动之前，所有可以提供所有权的加密证明的被盗资金，都将通过分配新的所有者提供的密钥返还给原始所有者。
 
 # Telos被盗资金追回程序
 
@@ -553,15 +553,15 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 ### 未被盗的注册地址：
 
-1. No action required. Your TLOS tokens will be on the network
+1. 无需采取任何行动。 您的TLOS令牌将在网络上
 
 ### 已被盗的注册地址：
 
-1. Address owner files claim, providing: 
-  - Stolen address
-  - Cryptographic signature from Ethereum wallet as proof
-  - A new EOSIO public key as half of a key pair that will control the account.
-2. Address will be posted for contestation for 10 days (with no identifying information). 
+1. 提供地址所有者文件声明，内容如下： 
+  - 被盗地址
+  - 来自以太坊钱包的密码签名作为证据
+  - 一个新的EOSIO公钥，作为密钥对的其中一半，将用来控制账户
+2. 地址将在10天内发布争议（没有识别信息） 
   - Any other user will have the opportunity to provide cryptographic evidence proving ownership.
 3. Uncontested addresses providing cryptographic proof of rightful ownership will have old public key replaced with provided new public key in the Telos genesis file.
 
