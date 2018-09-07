@@ -17,7 +17,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [与Telos来一个全新的开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
   - [面向开发者](#for-developers) 
-    - [允许拥有专利权的去中心化应用（DApps）](#proprietary-dapps-allowed)
+    - [允许拥有闭源的去中心化应用（DApps）](#proprietary-dapps-allowed)
     - [较低的DApp部署成本](#lower-cost-dapp-deployment)
     - [较少的网络停顿](#fewer-network-pauses)
     - [增强的安全性](#enhanced-security)
@@ -176,11 +176,11 @@ Telos是基于Eos的新公链。 它具有许多优于Eos主网的优势。
 
 ## 面向开发者
 
-Telos网络旨在为开发者提供可靠，经济，管理良好的网络，以发布DApp。 Telos与Eos主网络相比具有以下优势：
+Telos公链旨在为开发者发布DApps提供可靠、经济、管理良好的网络。 Telos与Eos主网络相比具有以下优势：
 
-### 允许拥有专利权的去中心化应用（DApps）
+### 允许拥有闭源的去中心化应用（DApps）
 
-在Eos主网上运行的所有DApp代码都必须是开源的。 （Eos宪法：第VII条）Telos不会强迫开发者开源他们的代码。
+在Eos主网上运行的所有DApp都必须是开源的 （Eos宪法：第VII条）。Telos不会强迫开发者开源他们的代码。
 
 ### 较低的DApp部署成本
 
