@@ -392,8 +392,8 @@ Telos基金会选民来自Telos社区活跃的贡献者，由当前Telos基金�
 Telos基金会可能授予通证的领域包括：
 
 - 对那些为Telos发布成功做出贡献的人提供报酬
-- Compensation for developers of valuable tools used on the Telos network
-- Initiating funding for the Telos Arbitration Organization
+- 为使用在Telos网络上的有价值工具的开发者提供补偿
+- 为Telos仲裁组织提供启动资金
 - Reimbursing select exchanges for the cost of listing TLOS where necessary
 - Funding new tool creation
 - Funding advertising and marketing for the platform
