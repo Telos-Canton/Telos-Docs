@@ -268,20 +268,20 @@ Telos维持BP的最低标准，使其成为合格的候选人。 这些标准基
 
 Eos系统中通证的分布是所有主要加密货币中最集中的其中一种。 而Telos的分布是所有加密货币中最不集中的一种。
 
-- 90% of EOS tokens are controlled by just 1.6% of addresses.
+- 90％的EOS通证被仅1.6％的地址控制。
   
   <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
-  A More Even Distribution
+  更均匀的分布
 
 将所有Telos地址的初始TLOS通证数限制为40,000，从根本上改变通证分布。方法如下：
 
-- Removes 86.5 % of token supply, or 865,000,000 tokens
-- Reduces the holding of just 0.67% addresses, or 1,098 individual addresses, registered at time of snapshot.
-- The circulating supply is reduced from ~996,691,000 EOS to 178,473,249 TLOS tokens.
-- Assuming another 78.6% (Fibonacci level) of 178,439,249 will be added back into the money supply due to tokens created for petitioning exchanges, the supply will rise to approximately 318,753,222. 
-  - An additional 13,000,000 tokens will be created for the Telos Founders Reward Pool, Telos Community Rewards Pool, and Telos Foundation creating a total money supply of approximately 331,753,222 TLOS tokens – about one-third of the Eos money supply.
-- Each TLOS token will represent ~3X the network equity of an EOS token.
+- 删除86.5％的通证（865,000,000通证）的供应。
+- 在注册快照时减少仅0.67％的地址（1,098个地址）的持有的数量。
+- 这样的循环供应将约996,691,000 EOS通证减少到178,473,249 TLOS通证。
+- 假设由于请求交易所创建通证，将178,439,249 TLOS通证的78.6％（斐波那契水平）重新加入货币供应量，供应量将上升至约318,753,222。 
+  - 将为ABP和Telos创始人创建额外的12,000,000个通证，创造大约330,753,222个TLOS通证的总货币供应量，约为Eos货币供应量的三分之一。
+- 每个TLOS通证将代表EOS通证的网络权益的约3倍。
 
 ## 比较分布
 
