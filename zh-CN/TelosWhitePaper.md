@@ -575,11 +575,11 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 ### Eos主网上交易所的EOS令牌发布：
 
-1. Telos ABPs have provided an exchange TLOS token creation petition process for exchanges to work with the ABPs to create tokens for their customers who held EOS at the time of the snapshot. 
-  - Exchanges must complete the process in order to receive new tokens to distribute to their customers.
-2. The Telos ABPs and block producers take no responsibility and will take no action for tokens held on exchanges.
+1. Telos ABP为交易所提供了兑换TLOS通证创建请求流程，以便与ABP一起为那些在快照时持有EOS的客户创建通证。 
+  - 交易所必须完成流程才能获得新通证以分发给客户。
+2. Telos ABP和BP不承担任何责任，并且不会对交易所持有的通证采取任何行动。
 
-Telos ABPs打算在Telos网络启动前根据以下理由进行密码验证，证明在以太坊注册或Eos投票阶段未注册或被盗，其理由是此修正是可能的并且可以验证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
+Telos ABP打算返还那些可以被加密证明的、仍未注册的、在以太坊注册被盗的或在Telos网络发布前Eos处于可修正和可验证投票阶段下的通证。 我们认识到一些损失是由于以太坊注册过程以及在Eos主网发布时缺乏批准的消费级投票钱包。
 
 The Telos network will adopt base layer arbitration to protect token holders from theft. 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos block producers will have authority for specific actions to demand restitution in accordance with a duly processed arbitration contract. 仲裁合同和Telos仲裁组织将从网络启动那天起生效。
 
