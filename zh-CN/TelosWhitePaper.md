@@ -723,11 +723,11 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：您是否在销售TLOS令牌？**
 
-答：我们不销售任何TLOS令牌。 我们将使用Eos快照进行以下更改：1）将所有地址限制为40,000个; 2）创建交易所地址流程，请求BP通过交易和分发TLOS令牌为其EOS快照所有者创建TLOS令牌（每个账户持有者最多40,000）; 3）向能够证明其令牌被盗或注册错误的EOS令牌持有人提供新的公钥; 4）向6个ABPs中的每一个添加1M新令牌，作为对初始ABP（3年内授予）和6M TLOS令牌的授予给Telos基金会，以支持无法以其他方式获得资金的网络需求。 这些令牌目前没有任何价值，只有在ABPs和Telos基金会能够创建有价值的网络时才会获得价值。 Telos基金会承诺永远不会用它的令牌投票。
+答：我们不销售任何TLOS令牌。 我们将使用Eos快照进行以下更改：1）将所有地址限制为40,000个; 2）创建交易所地址流程，请求BP通过交易和分发TLOS令牌为其EOS快照所有者创建TLOS令牌（每个账户持有者最多40,000）; 3）向能够证明其令牌被盗或注册错误的EOS令牌持有人提供新的公钥; 4）增加6M新通证给Telos基金会奖励池，1M新通证给Telos社区奖励池，以及6MTLOS通证给Telos基金会，以支持无法以其他方式获得资金的网络需求。 这些令牌目前没有任何价值，只有在ABPs和Telos基金会能够创建有价值的网络时才会获得价值。 Telos基金会承诺永远不会用它的令牌投票。
 
 **问：你们是谁？为什么要启动Telos？**
 
-答：我们是一群Eos Bp候选人，为系统做出了贡献，运行了测试网，并参加了一致启动主网的Eos Mainnet Launch Group的投票。 我们相信Eos的承诺，但我们担心当前的系统由于拥有巨额资产的Eos令牌持有者拥有压倒性的力量，因此存在缺陷。 我们希望Eos可以克服这个问题，但与此同时，我们希望使用Eos技术推出一个新的，更加去中心化的网络。
+答：我们是一群Eos Bp候选人，为系统做出了贡献，运行了测试网，并参加了一致启动主网的Eos主网启动小组的投票。 我们相信Eos的承诺，但我们担心当前的系统由于拥有巨额资产的Eos令牌持有者拥有压倒性的力量，因此存在缺陷。 我们希望Eos可以克服这个问题，但与此同时，我们希望使用Eos技术推出一个新的，更加去中心化的网络。
 
 **问：Eos Bp也可以成为Telos Bp吗？**
 
@@ -735,7 +735,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：开发人员可以将其代码专有吗？**
 
-答：可以。 如果开发人员在过去六个月内未作为BP、代码审核者或工人提案接收者而接收支付，他们可以将DApp中的原始代码指定为专有。 当然，任何基于DApp构建的底层开源代码都将保持开源。 相比之下，根据Eos宪法，在Eos网络上运行的所有智能合约都必须是开源的。
+答：可以。 如果开发人员在过去六个月内未作为BP、代码审核者或工人提案接收者而接收补助，他们可以将DApp中的原始代码指定为专有。 当然，任何基于DApp构建的底层开源代码都将保持开源。 相比之下，根据Eos宪法，在Eos网络上运行的所有智能合约都必须是开源的。
 
 **问：如果Telos用户不想在区块链上使用专有软件怎么办？**
 
@@ -743,7 +743,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：Telos主网何时推出？**
 
-答：Telos Launch Group（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. 一旦投票“启动”多数通过，网络将由ABPs启动，直到投票率到达15%，并且至少有40个Telos BP候选人达到最低要求。 此时，ABP将会退场，24小时后Telos主网将正式开启交易。 换句话说，我们在等待原本的Eos通证持有者和一群拥有高素质技术的BP候选人的支持。 我们相信这是Telos网络真正的使命。
+答：Telos启动小组（TLG）将于2018年9月28日举行一系列关于推出Telos主网的“启动/不启动”的投票。 To vote “go” each Contributor will need to agree that a series of promised elements (e.g. arbitration, governance, ratification, plus all technical requirements) have been delivered sufficient to launch a complete and successful network. 一旦投票“启动”多数通过，网络将由ABPs启动，直到投票率到达15%，并且至少有40个Telos BP候选人达到最低要求。 此时，ABP将会退场，24小时后Telos主网将正式开启交易。 换句话说，我们在等待原本的Eos通证持有者和一群拥有高素质技术的BP候选人的支持。 我们相信这是Telos网络真正的使命。
 
 **问：Telos BP如何获得报酬？**
 
