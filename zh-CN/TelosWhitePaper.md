@@ -28,7 +28,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [每个通证（Token）拥有更高的权益](#higher-equity-per-token)
     - [开发者专注于创造价值](#developer-focus-builds-value)
     - [较低的通胀率](#lower-inflation)
-    - [被盗通证的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
+    - [被盗通证（Token）的预激活解决方案](#pre-activation-resolution-of-stolen-tokens)
   - [面向区块生产者](#for-block-producers) 
     - [公平的报酬模式](#equitable-payout-model)
     - [公平的投票/反向投票加权](#equitable-voting--inverse-vote-weighting)
@@ -163,14 +163,14 @@ Telos是基于Eos的新公链。 它具有许多优于Eos主网的优势。
 - 每个通证（Token）拥有更高的权益
 - 开发者专注于创造价值
 - 较低的通胀率
-- 被盗通证的预激活解决方案
+- 被盗通证（Token）的预激活解决方案
 
-对于区块生产者
+面向区块生产者
 
 - 公平的报酬模式
-- 公平的投票/反投票权重
+- 公平的投票/反向投票加权
 - 智能合约强制执行对区块生产者的要求
-- 节点维护的定期停机时间
+- 为节点提供定期停机维护时间
 
 * * *
 
