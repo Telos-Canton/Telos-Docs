@@ -13,8 +13,8 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 <!-- MarkdownTOC autolink=true levels=1,2,3 bracket=round bullets="-,*,+" -->
 
 - [Telos项目](#the-telos-project) 
-  - [橡果（Telos）公链](#the-telos-blockchain)
-  - [与橡果（Telos）来一个全新的开始](#a-fresh-start-with-telos)
+  - [Telos公链](#the-telos-blockchain)
+  - [与Telos来一个全新的开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
   - [面向开发者](#for-developers) 
     - [允许拥有专利权的去中心化应用（DApps）](#proprietary-dapps-allowed)
@@ -178,11 +178,11 @@ Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 Telos网络旨在为开发者提供可靠，经济，管理良好的网络，以发布DApp。 Telos与Eos主网络相比具有以下优势：
 
-### 允许专有的DApps
+### 允许拥有专利权的去中心化应用（DApps）
 
 在Eos主网上运行的所有DApp代码都必须是开源的。 （Eos宪法：第VII条）Telos不会强迫开发者开源他们的代码。
 
-### 更低的DApp部署成本
+### 较低的DApp部署成本
 
 Telos网络将依实际使用比例来管理RAM需求。 这将限制早期RAM囤积并保持部署DApps的成本更加经济实惠。
 
@@ -190,7 +190,7 @@ Telos网络将依实际使用比例来管理RAM需求。 这将限制早期RAM�
 
 Telos网络使用BP系统，该系统每天替换所有预备BP进行区块生产，以证明所有预备BP都能够在每次调用时生成区块。 该系统还允许任何不可运行的BP在错过30分钟（180个连续块）之后暂时换出，而不是在Eos主网上的3个小时。 这降低了由于6个BP在任何给定时间变为非活动状态而导致强制网络停顿的风险。
 
-### 增强安全性
+### 增强的安全性
 
 Telos通过为BP添加强制性的最低技术和公开信息的要求，加强了Eos网络的安全性。
 
@@ -198,11 +198,11 @@ Telos通过为BP添加强制性的最低技术和公开信息的要求，加强�
 
 （*已知漏洞的紧急安全补丁除外。）
 
-### 公共测试网由BP运营
+### 由区块生产者运作的公共测试网
 
 所有Telos的BP和预备BP都需要将一个节点贡献给与Telos主网相同的完整且开放的测试网络。 这有助于应用程序开发和测试。
 
-### Telos / Eos主网兼容性
+### Telos/Eos主网相互兼容
 
 Telos网络运行与Eos主网相同的EOSIO软件，因此为Eos编写的DApp可以在Telos上运行。 Telos网络上唯一的代码改动，与BP如何被支付、选举和因不合规暂时被从服务中暂时移除有关。 所有其他差异都来自于创世快照的修改，宪法变更和组织原则。
 
