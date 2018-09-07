@@ -627,11 +627,11 @@ Telos ABPs建立了一个交流外联工作组，与所有Eos交易所联系，�
 4. TEOWG提供当前Telos节点和客户端软件的当前副本以及部署所需的任何其他支持。
 5. 交易所在Eos快照时，以CSV文件或类似文件格式提供帐户金额的匿名列表。
 6. TEOWG检查交易所提供的账户清单，保持所有账户的TLOS通证限制在40,000个以内。
-7. The exchange and TEOWG agree on the total value of tokens to be created and the addresses (from the identified exchange-owned addresses) to which they will be sent.
-8. The exchange publicly announces its upcoming listing of TLOS tokens and distribution to EOS owners with a launch date. (This may have occurred earlier but must occur by this point.)
-9. TEOWG provides exchange’s petition along with documentation to Telos ABPs for review. The Telos ABPs will coordinate scheduling of TLOS token creation with the exchange’s release schedule.
-10. The Telos ABPs vote to create tokens. The Ricardian contract of this transaction requires that the exchange must accept terms of not voting from these addresses and not operating a block producer candidate, and distributing all TLOS tokens to their customers as represented in the agreement.
-11. The exchange enables trading of TLOS.
+7. 交易所和TEOWG就要创建的通证的总价值和将要发送的地址（来自于持有交易的身份证明）达成一致。
+8. 该易所公开宣布即将发布TLOS通证，并在发布日期分发给EOS所有者。 （这可能发生得比较早，但必须在此时发生。）
+9. TEOWG向Telos 委任节点提供交易所申请以及文件以供审查。 Telos ABPs将协调TLOS通证创建的安排与交易所发布的时间表。
+10. Telos ABPs投票决定创建通证。 此交易的Ricardian合约要求交易所必须接受这些地址中未投票的条款，而不是操作BP候选人，并将所有TLOS通证分发给协议中所示的客户。
+11. 交易所可以交易TLOS。
 
 # Telos是证券吗？
 
@@ -657,9 +657,9 @@ Telos网络最初将由6个指定的区块生产者（ABPs）发起，他们将�
 
 ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在很大程度上是未解决的法律。 然而，Hinman的陈述是明确的，并已在美国证券交易委员会网站上公布，表明他们已被正式批准。 根据这一定义，似乎很难将TLOS视为美国证券交易委员会定义下的证券。
 
-**NOTE: THIS IS NOT LEGAL OR SECURITIES ADVICE. IT IS OUR INTERPRETATION OF PUBLISHED STATEMENTS BY THE UNITED STATES SECURITIES EXCHANGE COMMISSION AS THEY MIGHT APPLY TO TLOS TOKENS. SEEK COUNSEL FROM YOUR OWN PROFESSIONAL ADVISORS BASED ON YOUR NEEDS AND JURISDICTION.**
+**备注：这不是法律或安全性建议。 这是我们对美国证券交易委员会发布的声明的解释，因为它们可能适用于TLOS通证。 根据您的需要和司法管辖区，从您自己的专业顾问那里寻求咨询。**
 
-# 常见问题
+# Telos常见问题
 
 **问：什么是Telos？**
 
@@ -675,7 +675,7 @@ ABP不是律师，所以这不应被视为法律建议。 坦率地说，这在�
 
 **问：你是否拿走了人们的EOS令牌？**
 
-答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分叉。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 这意味着没有从Telos创世创立的巨鲸，即使一旦网络启动了，所有帐号的令牌都是无限的。
+答：没有。 EOS持有人将拥有与Eos网络完全相同数量的EOS令牌。 这就是他们从Block.one购买的东西。 Telos是一个基于Eos网络的新项目。 Eos源代码是开源的，可免费提供给分链。 我们决定在创世纪快照上为每个EOS令牌持有者提供相同数量的TLOS令牌，但是每个创世地址的最大值为40,000 TLOS。 这意味着没有从Telos创世创立的巨鲸，虽然一旦网络启动了，所有帐号的令牌都是无限的。
 
 **问：Telos是空投吗？**
 
