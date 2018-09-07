@@ -159,18 +159,18 @@ Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 对于通证持有者
 
-- Meaningful voting for all
-- Higher equity per token
-- Developer focus builds value
-- Lower inflation
-- Pre-activation resolution of stolen tokens
+- 所有人的投票都有意义
+- 每个通证拥有更高的权益
+- 开发者专注于创造价值
+- 较低的通胀率
+- 被盗通证的预激活解决方案
 
-对于BP
+对于区块生产者
 
-- Equitable payout model
-- Equitable voting / Inverse Vote Weighting
-- Smart contract enforced block producer requirements
-- Scheduled windows for node maintenance
+- 公平的报酬模式
+- 公平的投票/反投票权重
+- 智能合约强制执行对区块生产者的要求
+- 节点维护的定期停机时间
 
 * * *
 
