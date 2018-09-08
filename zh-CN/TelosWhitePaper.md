@@ -1,4 +1,4 @@
-# Telos中文白皮书
+# 橡果（Telos）中文白皮书
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
