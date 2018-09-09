@@ -266,13 +266,13 @@ Telos维持区块生产者的最低标准，保证其成为合格的候选人。
 
 *计算和分析来自艾娃·马苏西（Ava Masucci）*
 
-Eos系统中通证的分布是所有主要加密货币中最集中的其中一种。 而Telos的分布是所有加密货币中最不集中的一种。
+Eos系统中通证的分布是所有主要加密货币中最集中的其中一种。 而在另一方面，Telos的分布是所有加密货币中最不集中的一种。
 
 - 90％的EOS通证被仅1.6％的地址控制。
   
   <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
-  更均匀的分布
+  一个更均衡的分布
 
 将所有Telos地址的初始TLOS通证数限制为40,000，从根本上改变通证分布。方法如下：
 
