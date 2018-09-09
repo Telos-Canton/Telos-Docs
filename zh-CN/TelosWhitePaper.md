@@ -34,8 +34,8 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [公平的投票/反向投票加权](#equitable-voting--inverse-vote-weighting)
     - [智能合约强制执行对区块生产者的要求](#smart-contract-enforced-block-producer-requirements)
     - [为节点提供定期停机维护时间](#regular-downtime-for-node-maintenance)
-- [Telos通证分配方式](#telos-token-distribution) 
-  - [分配方式比较](#comparative-distribution)
+- [Telos通证分布](#telos-token-distribution) 
+  - [分布比较](#comparative-distribution)
 - [ Eos 问题，Telos 解决](#eos-problems-telos-solutions) 
   - [Eos的问题以及Telos将怎样解决它们](#eos-problems-and-how-telos-will-solve-them) 
     - [问题：用户投票无关重要 - “巨鲸”统治网络](#problem-user-votes-don%E2%80%99t-matter-%E2%80%93-whales-run-the-network)
@@ -262,7 +262,7 @@ Telos维持区块生产者的最低标准，保证其成为合格的候选人。
 
 预备节点将按不定期计划每3-7天轮流进行数小时区块生产以证明其可靠性。 这可以让主要区块生产节点经常有机会关闭服务器以进行维护和升级。 这显著降低了运作成本。 该系统还确保所有预备节点能时刻准备履行其职责。
 
-# Telos通证分配方式
+# Telos分布
 
 *计算和分析来自艾娃·马苏西（Ava Masucci）*
 
@@ -283,7 +283,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
   - 将为ABP和Telos创始人创建额外的12,000,000个通证，创造大约330,753,222个TLOS通证的总货币供应量，约为Eos货币供应量的三分之一。
 - 每个TLOS通证将代表EOS通证的网络权益的约3倍。
 
-## 比较分布
+## 分布比较
 
 将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制通证数量不会显著改变受影响的地址数。
 
