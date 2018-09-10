@@ -285,7 +285,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 ## 分布比较
 
-将每个地址通证数量限制在40,000个，会改变不到0.67％的注册地址。 以更大的数量限制通证数量不会显著改变受影响的地址数。
+将每个地址和通证数量上限定为40,000个，只会改变不到0.67％注册地址的持有量。 以更大的数量限制通证数量不会显著改变受影响的地址数。
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
