@@ -295,7 +295,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
-# Eos的问题，Telos解决
+# Eos的问题，Telos去解决
 
 ## Eos的问题以及Telos如何解决这些问题
 
