@@ -52,13 +52,13 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [投票钱包](#voting-wallets)
   - [治理](#governance)
   - [公投程序](#referendum-process)
-  - [工人提案和投票程序](#worker-proposals-submission-and-voting-process)
+  - [工作者提案和表决程序](#worker-proposals-submission-and-voting-process)
   - [仲裁程序](#arbitration-process)
   - [仲裁机构](#arbitration-body)
   - [对区块生产者强制执行](#block-producer-enforcement)
-  - [中央信息港](#central-information-hub)
-- [Telos区块生产者最低要求](#telos-block-producer-minimum-requirements)
-- [区块生产者报酬](#block-producer-pay) 
+  - [中央信息枢纽](#central-information-hub)
+- [Telos区块生产者的最低要求](#telos-block-producer-minimum-requirements)
+- [区块生产者的报酬](#block-producer-pay) 
   - [预计的Telos区块生产者报酬和对应的美元价值](#projected-telos-block-producer-pay-and-usd-value)
 - [Telos网络中的仲裁](#arbitration-in-the-telos-network) 
   - [Telos仲裁程序](#telos-arbitration-process)
@@ -71,7 +71,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
 - [Telos防止内存投机](#telos-ram-speculation-prevention) 
   - [限制初始内存分配](#limit-initial-ram-allocation)
   - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
-  - [促进Telos基金会协作稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
+  - [促进Telos基金会协助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
 - [Telos交易所申请流程](#telos-exchange-petition-process) 
   - [交易所申请创建TLOS通证流程](#exchange-tlos-token-creation-petition-process)
 - [橡果（Telos）是证券吗？](#is-telos-a-security)
@@ -422,7 +422,7 @@ Telos将有一个全力的Telos网络运营协议（如EOS宪法）以及所有�
 
 除了全面的宪法之外，在启动时，Telos将有一个形式为公投投票合约的合法的公投流程。 将明确描述公民投票过程，任何Telos通证持有者都可以调用这个合约并提议进行公投投票。
 
-## 工人提案的提交和表决程序
+## 工作者提案和表决程序
 
 工人提案是运行网络的重要部分。 在Telos主网络激活后，基于智能合约的提交和投票的工人提案流程将被完好记录。
 
@@ -434,7 +434,7 @@ Telos白皮书包括仲裁过程的概述，该过程由多方智能合约驱动
 
 当Telos主网激活时，Telos仲裁组织（TAO）将处于活跃状态。 Telos ABP和其他人正在积极寻找合格且感兴趣的人员来领导该组织。 为了消除利益冲突，TAO最初将由Telos基金会提供资金，之后由仲裁费和/或工人提案资助。
 
-## Bp执行
+## 对区块生产者强制执行
 
 由于选举出来的BP有可能在DPoS区块链中拥有巨大的权力，因此BP必须迅速监督对方的违规行为，如果（这些违规行为）未经检查，可能威胁网络安全。 Telos选民基础的去中心化是至关重要的一步，但如果没有对BP选举的警惕，中心化可能仍会出现。
 
@@ -448,7 +448,7 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 （* Scatter和Greymass不为Telos项目背书。 他们正在与Telos合作以确保其产品的兼容性。）
 
-# Telos Bp的最低要求
+# Telos区块生产者的最低要求
 
 无论Telos BP可能获得多少投票，所都均需符合一系列最低要求才能提供服务。 这些要求既是信息性的，也是技术性的。 规则将通过智能合约或类似流程强制执行，以最大限度地减少主观性。
 
@@ -477,7 +477,7 @@ Telos将在TelosFoundation.io网站上托管各种一流的区块链工具，为
 
 Telos APB的意图是用这些最低限度的服务用来保持BP的响应。 这些最低要求需要根据由BP的2/3 + 1的投票时不时进行修订。 但是，值得注意的是，Telos网络是权利分散的，没有所有者，管理者或受托人，也没有通证持有者选出的BP投票之外的治理系统。 鼓励未来的BP，但绝不要求遵守ABP规定的任何意图。
 
-# 区块生产者报酬
+# 区块生产者的报酬
 
 BP是任何EOSIO网络的重要组成部分。 有21个BP随时验证网络， 还有一些备用BP的目标是，如果其他BP被网络淘汰，则能够随时介入以维护网络安全。
 
@@ -495,7 +495,7 @@ Telos薪酬结构通过在全职的选举出来的BP和备用BP之间保持2：1
 
 下表展示了在网络开始时BP和备用BP的薪酬
 
-## Telos区块生产者薪酬和美元价值预估
+## 预计的Telos区块生产者报酬和对应的美元价值
 
 | **USD-TLOS 价值**      |             |      | $2.50        | $5.00          | $10.00         | $15.00         | $20.00         |
 | -------------------- | ----------- | ---- | ------------ | -------------- | -------------- | -------------- | -------------- |
@@ -518,7 +518,7 @@ Telos薪酬结构通过在全职的选举出来的BP和备用BP之间保持2：1
 
 （美元价值仅供参考）
 
-# Telos网络的仲裁
+# Telos网络中的仲裁
 
 Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。 他们打算在Telos主网激活之前创建一个功能性的Telos仲裁组织（TAO）。
 
@@ -549,13 +549,13 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
 
 为了实现这一目标，ABP将寻求贷记那些能够使用加密密钥证明他们是丢失或被盗令牌的真正所有者的人。 这包括最初不是在快照之前注册的EOS令牌。 以下是在Telos网络启动之前将资金返还给合法所有者的流程。
 
-## Telos被盗资金返还程序
+## Telos被盗资金追回程序
 
-### 未被盗的注册地址：
+### 登记未被盗的地址：
 
 1. 无需采取任何行动。 您的TLOS令牌将在网络上
 
-### 已被盗的注册地址：
+### 登记被盗的地址：
 
 1. 提供地址所有者文件声明，内容如下： 
   - 被盗地址
@@ -573,7 +573,7 @@ Telos ABP打算澄清他们对Telos网络中仲裁的作用和过程的意图。
   - 一个新的EOSIO公钥，作为密钥对的其中一半，将用来控制账户
 2. 提供合法所有权的加密证明的地址，将在Telos创世文件中插入其地址和新公钥。
 
-### Eos主网上交易所的EOS令牌发布：
+### 在Eos主网上线时存放在交易所的通证（Token）：
 
 1. Telos ABP为交易所提供了兑换TLOS通证创建请求流程，以便与ABP一起为那些在快照时持有EOS的客户创建通证。 
   - 交易所必须完成流程才能获得新通证以分发给客户。
@@ -583,7 +583,7 @@ Telos ABP打算返还那些可以被加密证明的、仍未注册的、在以�
 
 Telos网络将采用基层仲裁来保护令牌持有人免遭盗窃。 并非所有的盗窃都能被追回，但是仲裁员有能力在提出盗窃证据时呼吁BP冻结被告账户一段时间。 Telos区块生产者将有权采取具体行动, 要求按照仲裁合约对应的流程进行归还。 仲裁合同和Telos仲裁组织将从网络启动那天起生效。
 
-# Telos RAM投机预防
+# Telos防止内存投机
 
 RAM投机是Eos中已经出现的危机。 一些投机总是会出现在资源稀缺的健康市场中，但是当投机失控时，它会占用宝贵的稀缺资源并限制网络可用性。 为了最大化网络效用并使Telos网络成为部署DApps的经济高效的地方，Telos将实施以下策略以阻止猖獗的投机。
 
@@ -597,7 +597,7 @@ Eos在主网发布时分配了64GB的RAM。 这个数字远远超过网络上任
 
 为了鼓励开发人员并避免价格波动，Telos网络将以4GB内存启动。 虽然这听起来很低，但它足以支持系统上任何真正的DApp或空投。 较低的Telos RAM数量可以促使人们不去投机，因为可以释放新的RAM，从而降低现有投机的升值。
 
-## 将RAM的增加和网络利用率绑定
+## 内存扩容与使用率绑定
 
 Eos主网正在讨论如何以及何时更改RAM供应。 增加可用内存将暂时降低价格，但最终会加剧投机，因为将来可能会释放更少的潜在内存。
 
