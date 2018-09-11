@@ -291,7 +291,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
-将通证数量上限设置为40,000个会改变约86％的EOS通证供应量。 将通证上限设置为更高的数字将使更少数量的通证持有者获得更多权力。
+将通证数量上限设置为40,000个会改变约86％的EOS通证供应量。 把通证上限设置为更大的数字将授予更少数的通证持有者更大的权力。
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
@@ -299,7 +299,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 ## Eos的问题以及Telos将如何解决这些问题
 
-作为Eos主网启动组（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它被由于Eos中心化和Eos销售及流程的要求而引起的问题所破坏。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos有很多纬度去提升tokenomics，因为这与Block.one无关，且不会通过ICO或预售筹集资金。 因此，Telos网络可以用确认对网络最好的方式发行新的TLOS通证。
+作为Eos主网启动组（EMLG）的投票和贡献成员，我们一直密切参与整个Eos主网启动过程。 这是去中心化决策的一个很棒的经验和实验，但它被由于Eos中心化和Eos销售及流程的要求而引起的问题所破坏。 通过消除Eos固有的极端中心化，Telos将解决许多这些问题。 Telos有更多的途径去改善其通证经济（tokenomics），因为这与Block.one无关，且不会通过ICO或预售筹集资金。 因此，Telos网络可以用确认对网络最好的方式发行新的TLOS通证。
 
 ### 问题： 在巨鲸控制的网络里，用户投票不重要。
 
