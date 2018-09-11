@@ -110,7 +110,7 @@ Telos forks EOSIO code into a new blockchain and updates the following elements:
   * A fixed 21 block producers plus 30 standbys based on voting.
   * Equalize pay among block producers and standbys. All BPs will be paid the same amount and all standbys will be paid 50% the BP rate.
   * Standbys will rotate into block production for a short time on a regular basis (every 3-7 days) to earn their pay and prove that they are ready to produce.
-  * Active BPs that fail to produce 180 blocks in a row will be temporarily replaced by a standby BP (after 30 minutes vs. 3 hours under Eos rules). 
+  * Active BPs that fail to produce 180 blocks in a row will be temporarily replaced by a standby BP (after 30 minutes vs 3 hours under Eos rules). 
   * Active BPs and standby BPs are penalized for missed blocks.
   * This model will reduce incidence of network pauses due to 6 or more BPs becoming inactive.
   * **Active** BPs and standby BPs will have a clear minimum requirement in terms of information disclosure, practices, and hardware/connectivity – any that do not meet minimum will be prevented from serving regardless of voting.
