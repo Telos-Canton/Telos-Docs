@@ -412,7 +412,7 @@ Telos得益于EOS主网启动的教训。 在那次主网上线做出的一些�
 
 ## 投票钱包
 
-在Telos网络启动时，将为用户提供经过认可的投票钱包。 Telos正在与钱包开发商Scatter和Greymass *合作，以确保他们的钱包能够与Telos区块链无缝协作。
+在Telos主网启动时，将为用户提供经过认可的投票钱包。 Telos正在与钱包兼工具开发商合作，包括Scatter、Greymass、SimplEOS和Telos Lynx*，以确保他们的钱包能够与Telos主链无缝对接。
 
 ## 治理
 
