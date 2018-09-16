@@ -402,7 +402,7 @@ Telos基金会可能授予通证的领域包括：
 
 其中许多案件也可能需要通过工作者提案获得资助。 Telos基金会将资助那些投票成员认为没有通过投票提案获得充足资金的提案。
 
-由通证资助并受委托推广网络的基金会是加密货币中常见的实体。 许多区块链项目为其项目的Telos基金会版本建立了持续的资金。 Telos决定在任何给定时间将这些决定权交给BP，以最好地支持Telos网络的去中心化。
+一个以通证募资并受托去推广网络的基金会是在加密数字货币中常见的实体。 许多区块链项目为其项目的Telos基金会版本建立了持续的资金。 Telos决定在任何给定时间将这些决定权交给BP，以最好地支持Telos网络的去中心化。
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/the_telos_foundation.png" width="495.5px" height="162.5px" />
 
