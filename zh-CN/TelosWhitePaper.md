@@ -17,7 +17,7 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
   - [与Telos来一个全新的开始](#a-fresh-start-with-telos)
 - [Telos的优势](#the-telos-advantage) 
   - [面向开发者](#for-developers) 
-    - [允许拥有闭源的去中心化应用（DApps）](#proprietary-dapps-allowed)
+    - [允许拥有闭源的去中心化应用（DApp）](#proprietary-dapps-allowed)
     - [较低的DApp部署成本](#lower-cost-dapp-deployment)
     - [较少的网络停顿](#fewer-network-pauses)
     - [增强的安全性](#enhanced-security)
@@ -751,7 +751,7 @@ Telos将拥有21个活跃区块生产节点和多达30个备用节点，共享1�
 
 **问：启动Telos的团队会收取服务费吗？**
 
-答：启动Telos网络是一项昂贵且耗时的工作。 启动Telos的人员包括区块生产者、开发者、社交媒体营销人、仲裁员和其他主要以去中心化方式一起协作的人们。 Telos启动组成员将会在TLOS创世文件上得到补偿。 Telos创始人奖励池 (TFRP)包含6M TLOS（约占预期货币供应量的1.8％），由Telos创世文件创建。 该基金将基于由成员执行的任务情况，在Telos启动小组的成员之间分发 ，该小组是一个开放的会员组织，建立创造并启动了Telos网络。 TFRP分配的具体方法还未确定，但会在网络启动前正式确定。
+答：启动Telos网络是一项昂贵且耗时的工作。 启动Telos的人员包括区块生产者、开发者、社交媒体营销人、仲裁员和其他主要以去中心化方式一起协作的人们。 Telos启动组成员将会在TLOS创世文件上得到补偿。 Telos创始人奖励池（TFRP）将被创造在Telos创世文件中，包含6百万TLOS（约占预期货币供应量的1.8％）。 该基金将基于由成员执行的任务情况，在Telos启动小组的成员之间分发 ，该小组是一个开放的会员组织，建立创造并启动了Telos网络。 TFRP分配的具体方法还未确定，但会在网络启动前正式确定。
 
 **问：你们说Telos不会有任何“巨鲸”，但Telos创始人奖励资金池（TFRP）和Telos基金会是不是会成为巨鲸？**
 
