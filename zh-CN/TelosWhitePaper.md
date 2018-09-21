@@ -103,7 +103,7 @@ Telos分叉EOSIO代码建立了一个新的公链，并更新以下元素：
   - 消除了“巨鲸”对区块生产者选举和通证持有者投票的控制。
   - 交易所可以按流程申请创建并获取TLOS通证来分发给其在创世快照时拥有EOS的用户，前提是交易所同意上线和分发TLOS通证，并接受每个用户40,000个的上限。
   
-  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/ownership_distribution.png" width="448px" height="392" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/ownership_distribution.png" width="448px" height="392" />
 
 - 修改生产节点和预备节点的报酬模型以更好地保证网络安全。
   
@@ -252,7 +252,7 @@ Telos的区块生产者系统由21个生产节点和30个预备节点组成，�
 
 <img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
 ### 智能合约强制执行对区块生产者的要求
 
@@ -270,7 +270,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 - 90％的EOS通证被仅1.6％的地址控制。
   
-  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
   一个更均衡的分布
 
@@ -287,13 +287,13 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 将每个地址的通证数量上限定为40,000个，只会改变不到0.67％注册地址的持有量。 设定更大的数量上限并不会显著改变受影响的地址数。
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
 将通证数量上限设置为40,000个会改变约86％的EOS通证供应量。 把通证上限设置为更大的数字将授予更少数的通证持有者更大的权力。
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
 # Eos的问题，Telos去解决
 
