@@ -1,6 +1,9 @@
-# Telos White Paper
+# Telos Documentation
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/telos-docs/localized.svg)](https://crowdin.com/project/telos-docs)
 
-* [English](TelosWhitePaper.md)
-* [Chinese simplified](./zh-CN/TelosWhitePaper.md)
+- TelosWhitePaper
+  * [English](TelosWhitePaper.md)
+  * [中文版](./zh-CN/TelosWhitePaper.md)
+- Telos Lost Key Recovery Portal
+  * [English](TelosLostKeyRecoveryPortal.md)
