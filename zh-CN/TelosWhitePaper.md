@@ -250,7 +250,7 @@ Telos的区块生产者系统由21个生产节点和30个预备节点组成，�
 
 此外，Telos区块生产者投票是“反向加权”，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。 这会鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
 
-<img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/inverse_weighted_voting_latex.png" />
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
