@@ -1,4 +1,4 @@
-# 橡果（Telos）中文白皮书
+# Telos中文白皮书
 
 <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_logo.png" width="147px" height="159px" />
 
@@ -67,23 +67,23 @@ TELOS - 事物的终极目的。 （来自希腊语ΤΈΛΟΣ）
     - [登记未被盗的地址](#registered-addresses-that-have-not-been-stolen)
     - [登记被盗的地址](#registered-addresses-that-have-been-stolen)
     - [在Eos众筹中未被认领的通证](#unclaimed-eos-tokens-from-token-sale)
-    - [在Eos主网上线时存放在交易所的通证（Token）](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
+    - [在Eos主网上线时存放在交易所的通证](#eos-tokens-on-exchanges-at-eos-mainnet-launch)
 - [Telos防止内存投机](#telos-ram-speculation-prevention) 
   - [限制初始内存分配](#limit-initial-ram-allocation)
   - [内存扩容与使用率绑定](#tie-ram-increases-to-network-utilization)
   - [促进Telos基金会协助稳定价格](#encourage-telos-foundation-to-help-stabilize-price-swings)
 - [Telos交易所申请流程](#telos-exchange-petition-process) 
   - [交易所申请创建TLOS通证流程](#exchange-tlos-token-creation-petition-process)
-- [橡果（Telos）是证券吗？](#is-telos-a-security)
-- [橡果（Telos）常见问题](#telos-faq)
+- [Telos是证券吗？](#is-telos-a-security)
+- [Telos常见问题](#telos-faq)
 
 <!-- /MarkdownTOC -->
 
-# 橡果（Telos）项目
+# Telos项目
 
 一个可持续的去中心化 EOSIO 网络
 
-Eos系统为新经济模式许下了一个美好的承诺。 但不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却占有了90％的通证。 通证所有权，治理和区块生产者选举都被大量“巨鲸”地址所危害，这些地址可以将Eos推向他们想要的任何方向，而枉顾大多数通证持有者、开发者的意愿和网络的整体生态健康。
+Eos系统为新经济模式许下了一个美好的承诺。 但不幸的是，高度集中化破坏了这一承诺。 仅1.6％的Eos持有者却占有了90％的通证。 通证所有权、治理和区块生产者选举都被大量“巨鲸”地址所危害，这些地址可以将Eos推向他们想要的任何方向，而枉顾大多数通证持有者、开发者的意愿和网络的整体生态健康。
 
 Telos是基于EOSIO相同代码的一个可选网络，旨在解决Eos的关键问题。 Telos网络提供：
 
@@ -94,16 +94,16 @@ Telos是基于EOSIO相同代码的一个可选网络，旨在解决Eos的关键�
 
 > “EOS的梦想，在解决它的中心化问题之前是不会实现的。” ——胡安 M. 维拉维尔德（Juan M. Villaverde），韦士评级（Weiss Ratings）
 
-## Telos区块链
+## Telos公链
 
-Telos分叉EOSIO代码建立新的公链，并更新以下元素：
+Telos分叉EOSIO代码建立了一个新的公链，并更新以下元素：
 
 - 通过将创世快照中每个地址的Telos通证（TLOS）数量上限定为40,000个，来去除少数“巨鲸”的极端经济霸权。
   
   - 消除了“巨鲸”对区块生产者选举和通证持有者投票的控制。
   - 交易所可以按流程申请创建并获取TLOS通证来分发给其在创世快照时拥有EOS的用户，前提是交易所同意上线和分发TLOS通证，并接受每个用户40,000个的上限。
   
-  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/ownership_distribution.png" width="448px" height="392" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/ownership_distribution.png" width="448px" height="392" />
 
 - 修改生产节点和预备节点的报酬模型以更好地保证网络安全。
   
@@ -178,7 +178,7 @@ Telos是基于Eos的新网络。 它具有许多优于Eos主网的优势。
 
 Telos网络旨在为开发者发布DApps提供可靠、经济、管理良好的网络。 Telos与Eos主网络相比具有以下优势：
 
-### 允许拥有闭源的去中心化应用（DApps）
+### 支持闭源DApp
 
 在Eos主网上运行的所有DApp都必须是开源的 （Eos宪法：第VII条）。Telos不会强迫开发者开源他们的代码。
 
@@ -216,7 +216,7 @@ Telos通证（TLOS）相比EOS通证的优势：
 
 Telos创世通证所有权限制了所有创世纪账户的TLOS通证数量上限为40,000个。 Telos基金会拥有的地址不能参与投票。 因此，Telos通证所有权是在所有加密货币网络中比例最均衡的一个。 与Eos成员相比，Telos成员在公链治理方面拥有更为平等的发言权。
 
-### 每个通证（Token）拥有更高的权益
+### 每个通证拥有更高的权益
 
 每个EOS通证代表Eos网络总价值的1 / 1,000,0000,000。 由于Telos通证数量较少，因此每个TLOS通证代表Telos网络总价值的大约1 / 330,000,000 *。 相同数量通证所代表的网络所有权百分比达3倍以上。
 
@@ -230,7 +230,7 @@ Telos创世通证所有权限制了所有创世纪账户的TLOS通证数量上�
 
 Eos通胀率为每年5％。 Telos的目标是每年通胀率为2.5％。 TLOS通证通胀率将比EOS低差不多50％。
 
-### 被盗通证（Token）的预激活解决方案
+### 被盗通证的预激活解决方案
 
 Telos基金会和委任节点将提供一份智能合约，允许任何被盗的EOS持有者在Telos主网启动之前证明其所有权。 这会将通证返还给它们的合法所有者，并防止其他成员在不知情的情况下购买可能因盗窃而被冻结的通证。
 
@@ -252,7 +252,7 @@ Telos的区块生产者系统由21个生产节点和30个预备节点组成，�
 
 <img align="center" src="https://latex.codecogs.com/gif.latex?Normal\%20Voting\cdot%20sin\left%20(%20\frac{\pi%20}{2}%20\cdot%20\frac{number\%20of\%20votes\%20cast}{maximum\%20number\%20of\%20votes\%20possible}%20\right%20)" />
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/inverse_weighted_voting.png" width="422.5px" height="384px" />
 
 ### 智能合约强制执行对区块生产者的要求
 
@@ -270,7 +270,7 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 - 90％的EOS通证被仅1.6％的地址控制。
   
-  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
+  <img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/telos_median_distribution_of_tokens.png" width="472px" height="428px" />
   
   一个更均衡的分布
 
@@ -287,13 +287,13 @@ Eos系统中通证的分布是所有主要加密货币中最集中的其中一�
 
 将每个地址的通证数量上限定为40,000个，只会改变不到0.67％注册地址的持有量。 设定更大的数量上限并不会显著改变受影响的地址数。
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/percentage_of_eos_address_altered_vs_token_amount_cap.png" width="476" height="416px" />
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/token_amount_capped_per_address_vs_percentage_of_tokens_altered.png" width="476px" height="412px" />
 
 将通证数量上限设置为40,000个会改变约86％的EOS通证供应量。 把通证上限设置为更大的数字将授予更少数的通证持有者更大的权力。
 
-<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
+<img align="center" src="https://github.com/Telos-Canton/telos-docs/raw/master/zh-CN/images/telos_and_eos_genesis_snapshot_token_distribution.png" width="700px" height="351px" />
 
 # Eos的问题，Telos去解决
 
@@ -335,7 +335,7 @@ Eos预备节点的报酬远低于排名前21的生产节点，并且很少被要
 
 Telos有一个由多达30个预备节点组成的节点池，根据得票排名来择选和支付报酬。 备用节点的报酬是前21名生产节点的一半。 为了获得这些报酬，每个备用节点将定期每隔3-7天循环出块几个小时，以确保所有获得报酬的预备节点能够在需要时立即投入生产。 此循环计划意味着主要生产节点具有可预计的停机时间来维护其节点，从而降低了运作成本和提高可靠性。 未能生产区块的生产节点和预备节点将受到处罚。 该系统使区块生产者难以通过结盟来钻报酬系统的空子，并且有效阻止买票行为。 无论投票情况如何，Telos会通过智能合约强制每个区块生产者必需符合最低要求（技术指标和信息披露）
 
-### 问题：Eos内存投机推高DApps的部署成本
+### 问题：Eos内存投机推高DApp的部署成本
 
 Eos网络放出的内存比系统所需的多得多。 投机者已经在早期囤积内存，但可能并不打算使用它，只是为了投机未来内存的价格上涨。 这种投机导致内存价格急速上涨。 当DApp发展到需要使用内存的阶段时，它的定价可能会非常高，这使得在Eos上部署应用程序变得不必要的昂贵。
 
@@ -633,7 +633,7 @@ Telos委任节点建立了一个交易外联工作组，与所有Eos交易所联
 10. Telos委任节点投票决定创建通证。 此通证创建操作的李嘉图合约要求交易所必须接受包含以下要求的条款：不使用归属于他们的地址去参与投票，不成为区块生产者候选人，将所有TLOS通证分配给他们在协议中列出的客户。
 11. 交易所开通交易TLOS。
 
-# 橡果（Telos）是证券吗？
+# Telos是证券吗？
 
 从根本上说，Telos的TLOS通证是否被视为证券并因此受到监管，将取决于各个国家执行证券法的机构。 然而，众所周知，美国证券交易委员会（SEC）在这方面已经开创了先例，SEC最近的声明在这个问题上发出了非常令人鼓舞的亮点。
 
@@ -659,11 +659,11 @@ Telos网络最初将由6个委任节点（ABP）启动，他们将发起主网�
 
 **备注：这不是法律或证券的建议。 这是我们对美国证券交易委员会发布的声明的解释，因为它们可能适用于TLOS通证。 应该根据您的需求和司法管辖区，从您专属的专业顾问那里寻求建议。**
 
-# 橡果（Telos）常见问题
+# Telos常见问题
 
-**问：什么是橡果（Telos）？**
+**问：什么是Telos？**
 
-答：Telos是一种基于EOSIO软件的新区块链网络。而“橡果”是Telos的中文昵称。
+答：Telos是一个基于EOSIO软件的新区块链网络（EOS的分叉链）。而“橡果”是Telos的中文昵称。
 
 **问：Eos和Telos有什么区别？**
 
