@@ -2,7 +2,7 @@
 
 你的密钥丢失或被盗了？ Telos希望确保正当的所有者在即将到来的Telos投放中能获得属于他们的TLOS通证。
 
-Telos will give TLOS tokens 1:1 based on the original EOS ERC-20 snapshot (up to 40,000 per account) using the same keys and account names as the EOS genesis. Unfortunately, this means that anyone whose keys were lost or compromised at that time or since that time will also need their keys replaced on the Telos chain. For this reason, we’re working to alert EOS genesis token holders that Telos will allow them to revise their keys where necessary.
+Telos会以EOS ERC-20快照为基准，1：1比例发放TLOS币(最高上限为40000)。Telos的私钥与账户名与EOS创世快照一致。 这意味着那些丢失掉EOS密钥的用户，需要将他们的密钥在Telos链上换掉。 因此，我们在尝试让社区知道，在EOS创世时拥有账户的用户，在需要的时候可以修改他们在Telos上的密钥。
 
 The key replacement process needs to occur BEFORE the Telos mainnet launches. Because Telos is using the original ERC-20 snapshot, we can verify ownership based on the Ethereum address that held those keys and can bypass any phishing or other key loss that may have happened to accounts after EOS launched. We have a special window of time in which to help anyone who lost their EOS accounts to maintain control of their new Telos accounts.
 
