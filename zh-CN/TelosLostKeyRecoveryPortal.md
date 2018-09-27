@@ -1,6 +1,6 @@
-# Telos遗失密钥恢复方法
+# Telos丢失密钥恢复方法
 
-Were your keys lost or compromised on EOS? Telos wants to make sure the proper owners receive their TLOS tokens in our upcoming Telos sharedrop!
+你的密钥丢失或被盗了？ Telos wants to make sure the proper owners receive their TLOS tokens in our upcoming Telos sharedrop!
 
 Telos will give TLOS tokens 1:1 based on the original EOS ERC-20 snapshot (up to 40,000 per account) using the same keys and account names as the EOS genesis. Unfortunately, this means that anyone whose keys were lost or compromised at that time or since that time will also need their keys replaced on the Telos chain. For this reason, we’re working to alert EOS genesis token holders that Telos will allow them to revise their keys where necessary.
 
