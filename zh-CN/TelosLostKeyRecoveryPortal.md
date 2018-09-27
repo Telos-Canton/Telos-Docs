@@ -1,4 +1,4 @@
-# Telos Lost Key Recovery Portal
+# Telos遗失密钥恢复方法
 
 Were your keys lost or compromised on EOS? Telos wants to make sure the proper owners receive their TLOS tokens in our upcoming Telos sharedrop!
 
