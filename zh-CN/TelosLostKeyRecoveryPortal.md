@@ -2,15 +2,15 @@
 
 你的密钥丢失或被盗了？ Telos希望确保正当的持币者在即将到来的Telos投放中能获得属于他们的TLOS代币。
 
-Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币(最高上限为40000个)。Telos的私钥与账户名与EOS创世快照一致。 不幸的是，这意味着那些在EOS创世之时或之后丢失或被盗密钥的用户，需要将他们原来的密钥转换成Telos链上的。 因此，我们在尝试让社区知道，在EOS创世时拥有账户的用户，在需要的时候可以修改他们在Telos上的密钥。
+Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限为40000个）。Telos的私钥与账户名与EOS创世快照一致。 不幸的是，这意味着那些在EOS创世之时或之后丢失或被盗密钥的用户，需要将他们原来的密钥转换成Telos链上的。 因此，我们正尝试让社区知道，在EOS创世时拥有账户的用户，在需要的时候可以修改他们在Telos上的密钥。
 
-关键的替换手续需要在主网启动前完成。 因为Telos使用原始的ERC-20快照，所以我们能基于持有这些密钥的以太坊地址验证所有权，并且可以绕开在EOS启动后可能在账户上出现的任何网络钓鱼或密钥丢失。 我们有一个特殊的时间窗口，以帮助任何失去EOS账户的人能保持对新Telos账户的控制。
+关键的修改替换手续需要在主网启动前完成。 因为Telos使用原始的ERC-20快照，所以我们能基于持有这些密钥的以太坊地址验证所有权，并且可以绕开在EOS启动后可能在账户上出现的任何网络钓鱼或密钥丢失。 我们有一个特殊的时间窗口，以帮助任何失去EOS账户的人能保持对新Telos账户的控制。
 
-必须澄清，Telos只能在Telos链上保护丢失或被盗账户的权益。 Unfortunately, we have no power to aid lost key issues on EOS accounts.
+必须澄清，Telos只能在Telos链上保护丢失或被盗账户的权益。 可惜我们并没有权力去帮助那些丢失密钥的EOS账户。
 
 ## 方式一：
 
-This is the process for any users who registered their EOS ERC-20 tokens but later lost their keys or had them compromised. This will apply to 98% of users so it is probably the right one for you.
+这个方式适用于任何为他们的EOS ERC-20代币做过映射，但后来私钥丢失或被盗的人。 This will apply to 98% of users so it is probably the right one for you.
 
 You will sign a message on the Ethereum blockchain from the same address that held your EOS tokens at the snapshot. This message will include a new public key that you can generate in any wallet you choose; we show examples here using the Sqrl, the native Telos wallet. Sqrl can create a public key that begins with either EOS or TLOS; the order doesn’t matter.
 
