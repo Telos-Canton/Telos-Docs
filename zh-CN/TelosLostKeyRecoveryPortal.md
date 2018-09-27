@@ -12,7 +12,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 这个方式适用于任何曾为他们的EOS ERC-20代币做过映射，但后来私钥丢失或被盗的人。 这会适用于98%的用户，所以它可能也适合你。
 
-You will sign a message on the Ethereum blockchain from the same address that held your EOS tokens at the snapshot. This message will include a new public key that you can generate in any wallet you choose; we show examples here using the Sqrl, the native Telos wallet. Sqrl can create a public key that begins with either EOS or TLOS; the order doesn’t matter.
+你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息签名。 This message will include a new public key that you can generate in any wallet you choose; we show examples here using the Sqrl, the native Telos wallet. Sqrl can create a public key that begins with either EOS or TLOS; the order doesn’t matter.
 
 Be sure to save the private key associated with your new public key. This is how you will access your account! Once you send the message, please send us the Ethereum address and EOS public key you recorded. We will verify the message and change the keys.
 
