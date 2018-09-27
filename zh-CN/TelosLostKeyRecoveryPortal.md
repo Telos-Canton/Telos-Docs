@@ -8,7 +8,7 @@ The key replacement process needs to occur BEFORE the Telos mainnet launches. Be
 
 To be clear, Telos can only protect lost or compromised genesis accounts on the Telos blockchain. Unfortunately, we have no power to aid lost key issues on EOS accounts.
 
-## ## PROCESS 1
+## 方式一：
 
 This is the process for any users who registered their EOS ERC-20 tokens but later lost their keys or had them compromised. This will apply to 98% of users so it is probably the right one for you.
 
@@ -37,8 +37,6 @@ Follow the instructions below:
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png" />
     </div>
-    Click "Create New Account"
-    
     <p align="center">
       Click "Create New Account"
     </p>
@@ -90,7 +88,7 @@ Follow the instructions below:
         </div>
     - Email us your information so we can research your claim.
 
-## ## PROCESS 2
+## 方式二：
 
 This process is for people who never registered their EOS ERC-20 tokens with Block One prior to the genesis snapshot. Because you will need to enter your private ethereum keys, we are directing you to EOS Authority. They are a respected block producer and have developed a verified process that will work on the Telos network exactly as it does on the EOS network.
 
