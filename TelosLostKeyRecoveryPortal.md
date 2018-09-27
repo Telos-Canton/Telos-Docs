@@ -37,7 +37,8 @@ Follow the instructions below:
 
     <div align="center">
         <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png">
-    </div>Click "Create New Account"
+    </div>
+
 
     <p align="center">Click "Create New Account"</p>
 
