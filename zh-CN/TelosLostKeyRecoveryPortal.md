@@ -16,7 +16,7 @@ You will sign a message on the Ethereum blockchain from the same address that he
 
 Be sure to save the private key associated with your new public key. This is how you will access your account! Once you send the message, please send us the Ethereum address and EOS public key you recorded. We will verify the message and change the keys.
 
-Follow the instructions below:
+请按照以下指引操作：
 
 1. Download the Sqrl wallet from telosfoundation.io/downloads
 
