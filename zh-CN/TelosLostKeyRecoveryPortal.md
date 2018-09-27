@@ -50,13 +50,13 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_5.png" />
     </div>
     <p align="center">
-      生成公钥 - "所有者"权限
+      生成"Owner-所有者"权限的公钥
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png" />
     </div>
     <p align="center">
-      将"owner - 所有者"权限的公钥拷贝进入"active - 有效"权限公钥的输入框
+      将"Owner - 所有者"权限的公钥拷贝进入"Active - 有效"权限公钥的输入框
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg" />
@@ -68,7 +68,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg" />
     </div>
     <p align="center">
-      创建帐户是没有必要的, 你只需要新的密钥!
+      至此即可，你不需要创建Telos帐户，你只需要新的密钥!
     </p>
 3. 访问: www.myetherwallet.com/signmsg.html
     
