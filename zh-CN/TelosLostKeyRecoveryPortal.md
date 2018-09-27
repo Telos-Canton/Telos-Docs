@@ -92,10 +92,10 @@ Follow the instructions below:
 
 This process is for people who never registered their EOS ERC-20 tokens with Block One prior to the genesis snapshot. Because you will need to enter your private ethereum keys, we are directing you to EOS Authority. They are a respected block producer and have developed a verified process that will work on the Telos network exactly as it does on the EOS network.
 
-1. Go to the EOS Authority web site:
+1. 访问EOS Authority网站：
     
     https://eosauthority.com/blog/how_to_generate_your_EOS_fallback_key_from_ethereum_private_key
 
 2. Save those keys for your SQRL wallet account.
 
-3. Import wallet through SQRL once network launches.
+3. 主网启动后通过SQRL导入钱包。
