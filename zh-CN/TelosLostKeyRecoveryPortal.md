@@ -56,25 +56,25 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png" />
     </div>
     <p align="center">
-      "Owner Public Key" into "Active Public Key" field
+      将"owner - 所有者"权限的公钥拷贝进入"active - 有效"权限公钥的输入框
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg" />
     </div>
     <p align="center">
-      Copy/Paste your Keys to a safe place! Offline storage is recommended.
+      将你的私钥保存到安全的地方！ 建议你用储存在线下。
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg" />
     </div>
     <p align="center">
-      Creating an account is not necessary, you just need your new keys!
+      创建帐户是没有必要的, 你只需要新的密钥!
     </p>
-3. Go to: www.myetherwallet.com/signmsg.html
+3. 访问: www.myetherwallet.com/signmsg.html
     
-    - Sign in and select the Ethereum wallet that held your EOS tokens.
+    - 登录并选择持有你的 EOS币的以太坊钱包。
     
-    - Copy/paste this message:
+    - 拷贝如下信息：
         
         As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below (“New EOS Public Key”) or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.
         
@@ -86,11 +86,11 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
         <div align="center">
           <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    - Email us your information so we can research your claim.
+    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。发送消息后，将你的以太坊地址和公钥信息发到我们的邮箱。
 
 ## 方式二：
 
-This process is for people who never registered their EOS ERC-20 tokens with Block One prior to the genesis snapshot. Because you will need to enter your private ethereum keys, we are directing you to EOS Authority. They are a respected block producer and have developed a verified process that will work on the Telos network exactly as it does on the EOS network.
+这个方式是针对那些在创始快照之前没有在Block One注册过EOS ERC-20代币的用户。 Because you will need to enter your private ethereum keys, we are directing you to EOS Authority. They are a respected block producer and have developed a verified process that will work on the Telos network exactly as it does on the EOS network.
 
 1. 访问EOS Authority网站：
     
