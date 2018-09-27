@@ -1,5 +1,5 @@
 files:
-  - source: TelosWhitePaper.md
+  - source: '*.md'
     ignore:
       - /zh-CN/
     translation: /%locale%/%original_file_name%
