@@ -4,9 +4,9 @@
 
 Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币(最高上限为40000个)。Telos的私钥与账户名与EOS创世快照一致。 不幸的是，这意味着那些在EOS创世之时或之后丢失或被盗密钥的用户，需要将他们原来的密钥转换成Telos链上的。 因此，我们在尝试让社区知道，在EOS创世时拥有账户的用户，在需要的时候可以修改他们在Telos上的密钥。
 
-关键的替换手续需要在主网启动前完成。 因为Telos使用原始的ERC-20快照，所以我们能基于持有这些密钥的以太坊地址验证所有权，并且可以绕开在EOS启动后可能在账户上出现的任何网络钓鱼或密钥丢失。 We have a special window of time in which to help anyone who lost their EOS accounts to maintain control of their new Telos accounts.
+关键的替换手续需要在主网启动前完成。 因为Telos使用原始的ERC-20快照，所以我们能基于持有这些密钥的以太坊地址验证所有权，并且可以绕开在EOS启动后可能在账户上出现的任何网络钓鱼或密钥丢失。 我们有一个特殊的时间窗口，以帮助任何失去EOS账户的人能保持对新Telos账户的控制。
 
-To be clear, Telos can only protect lost or compromised genesis accounts on the Telos blockchain. Unfortunately, we have no power to aid lost key issues on EOS accounts.
+必须澄清，Telos只能在Telos链上保护丢失或被盗账户的权益。 Unfortunately, we have no power to aid lost key issues on EOS accounts.
 
 ## 方式一：
 
