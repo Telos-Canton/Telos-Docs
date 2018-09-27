@@ -12,45 +12,45 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 这个方式适用于任何曾为他们的EOS ERC-20代币做过映射，但后来私钥丢失或被盗的人。 这会适用于98%的用户，所以它可能也适合你。
 
-你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息签名。 This message will include a new public key that you can generate in any wallet you choose; we show examples here using the Sqrl, the native Telos wallet. Sqrl can create a public key that begins with either EOS or TLOS; the order doesn’t matter.
+你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息签名。 这个信息包括了一个新的公钥，这个公钥可以用任何钱包生成，这里我们用了Sqrl（Telos本地钱包），示例如下。 Sqrl可以创建以EOS或者TLOS开头的公钥，先创建哪个都可以，顺序不重要。
 
-Be sure to save the private key associated with your new public key. This is how you will access your account! Once you send the message, please send us the Ethereum address and EOS public key you recorded. We will verify the message and change the keys.
+请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你发送了信息后，请将你发送信息的以太坊地址和对应的EOS公钥发给我们。 我们将验证该信息并为你更改密钥。
 
 请按照以下指引操作：
 
-1. Download the Sqrl wallet from telosfoundation.io/downloads
+1. 从telosfoundation.io/downloads下载Sqrl钱包
 
-2. Generate new keys for a new Telos account:
+2. 为新的Telos帐户生成新的密钥:
     
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png" />
     </div>
     <p align="center">
-      Open up the Sqrl wallet.
+      打开 Sqrl 钱包
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_2.png" />
     </div>
     <p align="center">
-      Select "Telos Testnet"
+      选择 "Telos Testnet"
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png" />
     </div>
     <p align="center">
-      Click "Create New Account"
+      单击 "Create New Account - 创建新帐户"
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_4.png" />
     </div>
     <p align="center">
-      Enter your account name
+      输入您选择的帐户
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_5.png" />
     </div>
     <p align="center">
-      Generate "Owner Public Key"
+      生成公钥 - "所有者"权限
     </p>
     <div align="center">
       <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png" />
