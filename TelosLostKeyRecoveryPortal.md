@@ -25,50 +25,58 @@ Follow the instructions below:
 2. Generate new keys for a new Telos account:
 
     <div align="center">
-        <img src="./images/recovery/step_1.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png">
     </div>
-    
+
+
     <p align="center">Open up the Sqrl wallet.</p>
 
     <div align="center">
-        <img src="./images/recovery/step_2.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_2.png">
     </div>
+
 
     <p align="center">Select "Telos Testnet"</p>
 
     <div align="center">
-        <img src="./images/recovery/step_3.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png">
     </div>
+
 
     <p align="center">Click "Create New Account"</p>
 
     <div align="center">
-        <img src="./images/recovery/step_4.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_4.png">
     </div>
+
 
     <p align="center">Enter your account name</p>
 
     <div align="center">
-        <img src="./images/recovery/step_5.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_5.png">
     </div>
+
 
     <p align="center">Generate "Owner Public Key"</p>
 
     <div align="center">
-        <img src="./images/recovery/step_6.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png">
     </div>
+
 
     <p align="center">Copy "Owner Public Key" into "Active Public Key" field</p>
 
     <div align="center">
-        <img src="./images/recovery/step_7.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg">
     </div>
+
 
     <p align="center">Copy/Paste your Keys to a safe place! Offline storage is recommended.</p>
 
     <div align="center">
-        <img src="./images/recovery/step_8.png">
+        <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg">
     </div>
+
 
     <p align="center">Create your account</p>
 
@@ -76,19 +84,20 @@ Follow the instructions below:
 
     - Sign in and select the Ethereum wallet that held your EOS tokens.
     - Copy/paste this message:
-  
+
         As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below (“New EOS Public Key”) or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.
-    
+
         Ethereum Address:<br>
         New EOS Public Key:
 
         <div align="center">
-            <img src="./images/recovery/ether_screenshot_1.jpg">
+            <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_1.jpg">
         </div>
 
         <div align="center">
-            <img src="./images/recovery/ether_screenshot_2.jpg">
+            <img src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg">
         </div>
+
 
         <p align="center">Enter your own Ethereum address where you held your EOS tokens in "Ethereum Address" and your new SQRL public key into "New EOS Public Key"</p>
 
