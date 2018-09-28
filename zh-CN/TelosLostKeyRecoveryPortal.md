@@ -20,7 +20,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 1. 从telosfoundation.io/downloads下载Sqrl钱包
 
-2. 为新的Telos帐户生成新的密钥:
+2. Generate new keys to send us:
     
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png" />
@@ -74,9 +74,9 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
     
     - 登录并选择你持有EOS代币的以太坊钱包。
     
-    - 拷贝如下信息：
+    - Copy/paste this message and add your Ethereum public key and your new Telos Public Key (or an EOS key you want to use):
         
-        As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below (“New EOS Public Key”) or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.  
+        As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below ("New EOS Public Key") or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.  
         Ethereum Address:  
         New EOS Public Key:
         
@@ -86,12 +86,31 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation.io/recovery#  
-        填写项解释：  
-        Email：你的邮箱地址  
-        Ethereum address：你的以太坊地址  
-        Newly generated Telos (or EOS) address：你的最EOS公钥  
+    <p align="center">
+      Enter your own Ethereum address where you held your EOS tokens in "Ethereum Address" and your new SQRL public key into "New EOS Public Key"
+    </p>
+    <div align="center">
+      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_3.eb955e94.png" />
+    </div>
+    <p align="center">
+      Log into the wallet that has your Ethereum account where your EOS tokens where held.
+    </p>
         
+        
+    
+    <div align="center">
+      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_4.e942d25d.jpg" />
+    </div>
+    <p align="center">
+      Sign the pasted message with the Ethereum address and new Telos Public Key (or an EOS key you want to use).
+    </p>
+    <div align="center">
+      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_5.1c820298.jpg" />
+    </div>
+    <p align="center">
+      Copy this Signature text and send it in the form below
+    </p>
+    - Email us your information so we can research your claim.
 
 ## 途径二：
 
