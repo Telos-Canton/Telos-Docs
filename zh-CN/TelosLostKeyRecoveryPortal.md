@@ -84,7 +84,12 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation.io/recovery# 填写项解释： Email：你的邮箱地址 Ethereum address：你的以太坊地址 Newly generated Telos (or EOS) address：你的最EOS公钥
+    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： 
+https://telosfoundation.io/recovery#
+填写项解释： 
+Email：你的邮箱地址 
+Ethereum address：你的以太坊地址 
+Newly generated Telos (or EOS) address：你的最EOS公钥
 
 ## 途径二：
 
