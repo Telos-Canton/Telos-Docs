@@ -74,7 +74,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
     
     - 登录并选择你持有EOS代币的以太坊钱包。
     
-    - Copy/paste this message and add your Ethereum public key and your new Telos Public Key (or an EOS key you want to use):
+    - 复制/粘贴以下信息，请注意要在信息中附上你的以太坊地址和新的Telos公钥（或EOS公钥）：
         
         As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below ("New EOS Public Key") or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.  
         Ethereum Address:  
@@ -110,7 +110,12 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
     <p align="center">
       Copy this Signature text and send it in the form below
     </p>
-    - Email us your information so we can research your claim.
+    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation.io/recovery#  
+        填写项解释：  
+        Email：你的邮箱地址  
+        Ethereum address：你的以太坊地址  
+        Newly generated Telos (or EOS) address：你的最EOS公钥  
+        
 
 ## 途径二：
 
