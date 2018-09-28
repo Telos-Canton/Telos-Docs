@@ -14,7 +14,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息做签名操作。 这个信息（具体格式下文会提到）里包含一个新的公钥，这个公钥可以用任何同类钱包生成，这里我们用了Sqrl（Telos官方钱包）作为示例，为你展示流程。 Sqrl可以创建以EOS或者TLOS开头的公钥，先创建哪个都可以，顺序不重要。
 
-请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你发送了信息后，请将信息中的以太坊地址和对应的EOS公钥发给我们（发送方法下文会提到）。 我们将验证该信息并为你更改密钥。
+请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你完成了信息签名操作后，请将信息中的以太坊地址和对应的EOS公钥发给我们（发送方法在下文的详细步骤中会提到）。 我们将验证该信息并为你更改密钥。
 
 请按照以下指引操作：
 
@@ -84,7 +84,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。发送消息后，将你的以太坊地址和公钥信息发到我们的邮箱。
+    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation. io/recovery# 填写项解释： Email：你的邮箱地址 Ethereum address：你的以太坊地址 Newly generated Telos (or EOS) address：你的最EOS公钥
 
 ## 途径二：
 
