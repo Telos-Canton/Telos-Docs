@@ -14,7 +14,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息做签名操作。 这个信息（具体格式下文会提到）里包含一个新的公钥，这个公钥可以用任何同类钱包生成，这里我们用了Sqrl（Telos官方钱包）作为示例，为你展示流程。 Sqrl可以创建以EOS或者TLOS开头的公钥，先创建哪个都可以，顺序不重要。
 
-请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你发送了信息后，请将你发送信息的以太坊地址和对应的EOS公钥发给我们。 我们将验证该信息并为你更改密钥。
+请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你发送了信息后，请将信息中的以太坊地址和对应的EOS公钥发给我们（发送方法下文会提到）。 我们将验证该信息并为你更改密钥。
 
 请按照以下指引操作：
 
@@ -62,7 +62,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg" />
     </div>
     <p align="center">
-      将你的私钥保存到安全的地方！ 建议你离线储存。
+      将你的私钥保存到安全的地方！ 建议你离线保存。
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg" />
@@ -72,7 +72,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
     </p>
 3. 访问: www.myetherwallet.com/signmsg.html
     
-    - 登录并选择持有你的 EOS币的以太坊钱包。
+    - 登录并选择你持有EOS代币的以太坊钱包。
     
     - 拷贝如下信息：
         
