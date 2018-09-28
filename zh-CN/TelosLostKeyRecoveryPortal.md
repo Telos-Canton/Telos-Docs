@@ -12,7 +12,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 这个方式适用于任何曾经为他们的EOS ERC-20代币做过映射，但后来私钥丢失或被盗的人。 这会适用于98%的用户，所以它可能也适合你。
 
-你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息做签名操作。 这个信息（具体格式下文会提到）里包含一个新的公钥，这个公钥可以用任何同类钱包生成，这里我们用了Sqrl（Telos官方钱包）作为示例，为你展示流程。 Sqrl可以创建以EOS或者TLOS开头的公钥，先创建哪个都可以，顺序不重要。
+你需要使用你在EOS创世快照上的以太坊地址，用这个地址在以太坊区块链上为一个信息做签署操作。 这个信息（具体格式下文会提到）里包含一个新的公钥，这个公钥可以用任何同类钱包生成，这里我们用了Sqrl（Telos官方钱包）作为示例，为你展示流程。 Sqrl可以创建以EOS或者TLOS开头的公钥，先创建哪个都可以，顺序不重要。
 
 请确保你保存了与你的公钥相关联的私钥。 有了私钥你才能使用你的账户！ 当你完成了信息签名操作后，请将信息中的以太坊地址和对应的EOS公钥发给我们（发送方法在下文的详细步骤中会提到）。 我们将验证该信息并为你更改密钥。
 
@@ -87,13 +87,13 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
     <p align="center">
-      Enter your own Ethereum address where you held your EOS tokens in "Ethereum Address" and your new SQRL public key into "New EOS Public Key"
+      如上图所示，在”Ethereum Address“左边填入你持有EOS代币的以太坊地址，在”New Eos Public Key“左边填入你通过SQRL钱包生成的新公钥。
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_3.eb955e94.png" />
     </div>
     <p align="center">
-      Log into the wallet that has your Ethereum account where your EOS tokens where held.
+      登入你持有EOS代币的以太坊账户钱包。
     </p>
         
         
