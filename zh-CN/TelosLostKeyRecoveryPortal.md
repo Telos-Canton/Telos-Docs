@@ -76,7 +76,9 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
     
     - 拷贝如下信息：
         
-        As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below (“New EOS Public Key”) or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions. Ethereum Address: New EOS Public Key:
+        As the cryptographically verified owner of ethereum address listed below ("Ethereum Address"), I attest that I did own the EOS tokens listed on the EOS ERC-20 snapshot associated with this address and that I hereby request that the public key for my account be changed to the new EOS public key below (“New EOS Public Key”) or the Telos Network address equivalent for my corresponding account on the Telos Network. I agree to release the Telos Network and its Members - as well as the members of any blockchain project that may subsequently use this same value snapshot in the future - from any claim arising from this request. The cryptographic signature of this document constitutes my legal digital signature in all jurisdictions.  
+        Ethereum Address:  
+        New EOS Public Key:
         
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_1.jpg" />
@@ -84,7 +86,12 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation. io/recovery# 填写项解释： Email：你的邮箱地址 Ethereum address：你的以太坊地址 Newly generated Telos (or EOS) address：你的最EOS公钥
+    - 在Ethereum Address和New Eos Public Key里面分别填入你的以太坊地址和对应的新EOS公钥。完成信息的签名操作后，请点击以下链接把你的以太坊地址和公钥信息提交给我们： https://telosfoundation.io/recovery#  
+        填写项解释：  
+        Email：你的邮箱地址  
+        Ethereum address：你的以太坊地址  
+        Newly generated Telos (or EOS) address：你的最EOS公钥  
+        
 
 ## 途径二：
 
