@@ -20,7 +20,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 1. 从telosfoundation.io/downloads下载Sqrl钱包
 
-2. Generate new keys to send us:
+2. 生产新公钥并发送给我们：
     
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png" />
