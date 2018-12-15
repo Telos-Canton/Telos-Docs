@@ -15,18 +15,23 @@ Linux 用户……
 当然，前提是你必须要有EOS创世帐户，步骤如下：
 
 1. 选择“Telos Mainnet”，点击“Connet to Server”；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_01.png)
 
 2. 点击“Import Existing Account”；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_02.png)
 
 3. 输入你EOS创世账户的帐户名或公钥（注意是公钥而不是私钥），然后点击“Lookup Account”；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_03.png)
 
 4. 输入你的EOS创世帐户私钥，点击“Show private key”可以显示输入的字符，注意要在安全的环境下输入；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_04.png)
 
 5. 输入你的钱包密码，这是后面再登陆钱包和进行安全性操作时要用到的，请牢记；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_05.png)
 
 6. 最后，同意一些常规协议，你就可以对与EOS创世帐户等额（上限为4万个）的 TLOS 进行操作了！
@@ -34,6 +39,7 @@ Linux 用户……
 
 ### 第三步：投票
 1. 点击钱包菜单栏的“Governance”，在“Block Producers”下面，点击选择30个BP，再点击“Submit votes for selected producers”进行投票；
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_08.png)
 
 这里介绍一下为什么要选择30个，因为Telos取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
@@ -44,6 +50,7 @@ Linux 用户……
 你只要知道一点，如果投的节点数量少了，票力就会大打折扣的，所以，尽量投满30吧。
 
 2. 点击“提交表决（Submit Votes）”完成投票。
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_09.png)
 
 是不是很简单？
