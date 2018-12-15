@@ -35,6 +35,7 @@ Linux 用户……
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_05.png)
 
 6. 最后，同意一些常规协议，你就可以对与EOS创世帐户等额（上限为4万个）的 TLOS 进行操作了！
+
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_06.png)
 
 ### 第三步：投票
@@ -42,12 +43,12 @@ Linux 用户……
 
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_08.png)
 
-这里介绍一下为什么要投满30个BP，因为Telos取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
+这里介绍一下为什么要投满30个BP，因为 Telos 取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数 Telos 成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/inverse_weighted_voting_latex.jpg)
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/inverse_weighted_voting.jpg)
 
-你只要知道一点，如果投的节点数量少了，票力就会大打折扣的，所以，尽量投满30吧。
+你只要知道一点，如果投的节点数量少了，票力就会大打折扣，所以，尽量投满30个吧。
 
 2. 点击“提交表决（Submit Votes）”完成投票。
 
