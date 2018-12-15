@@ -1,19 +1,18 @@
 # 教你如何参与 Telos 节点投票（上）
 
-
 大家好，Telos Canton 在这里为大家介绍投票操作，中间会穿插一些有用的小知识，也是大家经常会问及的。  
 我们会先介绍使用 Telos 官方钱包的投票方法，后面还会有Scatter钱包、Awake和欧柚手机端钱包的介绍。
 
 ### 第一步：下载官方松鼠钱包（Sqrl Wallet）
-下载网址：https://github.com/Telos-Foundation/Sqrl/releases
-Windows 用户选择“win-Sqrl-x.x.x.exe”
-Mac 用户选择“mac-Sqrl-x.x.x.dmg”
-Linux 用户……
-下载完成安装软件。
+下载网址：https://github.com/Telos-Foundation/Sqrl/releases  
+Windows 用户选择“win-Sqrl-x.x.x.exe”  
+Mac 用户选择“mac-Sqrl-x.x.x.dmg”  
+Linux 用户……  
+下载完成安装软件。 
 
 ### 第二步：导入EOS创世账户
 
-当然，前提是你必须要有EOS创世帐户，步骤如下：
+当然，前提是你必须要拥有有EOS创世帐户，步骤如下：
 
 1. 选择“Telos Mainnet”，点击“Connet to Server”；
 
@@ -43,7 +42,7 @@ Linux 用户……
 
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_08.png)
 
-这里介绍一下为什么要选择30个，因为Telos取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
+这里介绍一下为什么要投满30个BP，因为Telos取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/inverse_weighted_voting_latex.jpg)
 ![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/inverse_weighted_voting.jpg)
