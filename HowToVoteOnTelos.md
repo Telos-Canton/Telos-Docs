@@ -12,7 +12,7 @@ Linux 用户……
 
 ### 第二步：导入EOS创世账户
 
-当然，前提是你必须要拥有有EOS创世帐户，步骤如下：
+当然，前提是你必须要拥有EOS创世帐户，步骤如下：
 
 1. 选择“Telos Mainnet”，点击“Connet to Server”；
 
