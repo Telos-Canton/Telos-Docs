@@ -34,8 +34,7 @@ Linux 用户……
 
 ### 第三步：投票
 1. 点击钱包菜单栏的“Governance”，在“Block Producers”下面，点击选择30个BP，再点击“Submit votes for selected producers”进行投票；
-
-![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_07.png)
+![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_08.png)
 
 这里介绍一下为什么要选择30个，因为Telos取用“反向投票加权”（Inverse Vote Weighting）规则，这意味着如果你只投票给1或2个区块生产者，那么你的投票权重将低于投票给30个区块生产者的投票权重。目的是鼓励大多数Telos成员更多的去了解区块生产者候选人，并打击那些只为自己及其关系户投票的人。
 
@@ -45,13 +44,9 @@ Linux 用户……
 你只要知道一点，如果投的节点数量少了，票力就会大打折扣的，所以，尽量投满30吧。
 
 2. 点击“提交表决（Submit Votes）”完成投票。
-
-![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_07.png)
-
-![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_08.png)
+![](https://raw.githubusercontent.com/Telos-Canton/Telos-Docs/master/images/howtovoteontelos/Telos_Sqrl_Voting_09.png)
 
 是不是很简单？
-这里先介绍 Telos 官方钱包的投票方法，后面还有Scatter钱包、欧柚和Awake手机端钱包的介绍，敬请关注！
 
 补充一个小知识，Telos主网要在生产一百万个区块之后才能完全激活。
 而主网上线确认时刻的区块数是5594，时间约为2018年12月13日北京时间15:40。
