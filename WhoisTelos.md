@@ -1,0 +1,41 @@
+# Who is Telos?
+
+By Douglas Horn
+
+“What kind of person gives up on EOS just a month after the launch?” I am being asked this question a lot right now.
+
+I’m part of a group building a new network called Telos that uses the open source EOSIO code but with several new innovations we are currently creating. In a world where many kinds of crypto projects have many kinds of outcomes, it’s reasonable to ask who is behind this one.
+
+The road that brought me to Telos began with a long involvement with crypto from general interest to investing, then running nodes and mining operations, and most recently to assembling a talented team of developers and producers to create DApps. Every engagement I’ve had with crypto and blockchain has deepened my belief that this technology may be the last great chance we have to empower individuals more than corporations and governments.
+
+I’m old enough to have lived through the dawn of the Web era with its ice castle promises of a peer-to-peer utopia empowering the individual melting into a puddle of corporate control. I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
+
+The best way to promote crypto is to build really useful tools and DApps to get people using the tech to improve their daily lives. This opportunity is what originally guided my development company, GoodBlock.io to join the EOS mainnet launch group. At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
+
+In participating in the launch of the EOS mainnet, we learned a lot about the technology and we came to know many other block producer candidate colleagues working with us to stand up this new network. Many of us were true believers in the promise of EOS. Why else would so many talented, technically adept people dedicate months of their lives to creating a new network with only the hope of eventually being elected to help run it? Because we understood its promise and we wanted to help bring it to the world.
+
+Of course, the EOS mainnet launched and activated. And then some strange stuff happened — block producer groups we’d never worked with, never discussed policy, procedures, or technology with, often never even heard of — suddenly appeared and were instantly being voted into position as block producers, sometimes with the votes of just a single whale account. People’s EOS were seemingly being stolen and questions arose about what could be done, whether the constitution had any validity, and if it was okay to freeze people’s accounts. And of course, the RAM market exploded, driving new users and DApps away from the network due to costs. How could people be expected to join the network — particularly from underserved, economically challenged, regions — if new EOS accounts cost $10–20?
+
+## Taking Action
+
+What should a person do when they see something with amazing potential going down the wrong path — a path that threatens its ability to improve the world? Some people say to keep fighting within the system and trust that you can effect change. But in a system governed by voting, is it reasonable to expect less than 1% of the voters who control well over 70% of the voting power to choose the good of the network over their own self-interest?
+
+I felt that the promise of the EOSIO software was worth protecting and I believed the best way that I could protect it was by proposing a new form to exist alongside the original. That new form, Telos, could do things that the original could not, because unlike EOS, Telos had not run an ICO where it accepted billions of dollars in investment. As a new blockchain, Telos was free to make modifications and innovations that EOS could not — starting with correcting the hyper-centralization of voting power. By altering just 0.67% of all EOS accounts on the genesis snapshot (with a 40,000 token cap) Telos is able to create the most economically decentralized of all major blockchain projects. Telos could also be considered safer from government intervention because as an ICO-less, economically decentralized blockchain, it matched the description the US SEC had provided as a project it would not consider a security far better than EOS would.
+
+Instead of a chain where one account controls 10% of the money supply, and another coalition controls a further 15% (or 25% control from just two entities), Telos will create a blockchain where no one controls more than 0.5% of the token supply or voting.
+
+Of course, if I had been alone in my hopes for offering a different path for EOSIO software, then Telos would be no more than a document on my computer. Fortunately, I had made many acquaintances in the EOS community during the run-up to the launch and when I shared my concerns and ideas with many of these people, they responded. I was not alone in my fervent hopes for EOS and my strong concerns that there may be a better path for the technology to reach people in a sustainable way.
+
+As I shared with others in the EOS world the documents that became the Telos white paper, I found a strong wave of support from block producers and technologists at all levels. Many, who were earning rewards as block producers and standbys, told me that they could not bear the risk of alienating the whales — or Dan Larimer, who had threatened to add his votes to the BP voting mix for those who would support his new rewrite of the EOS Constitution. I couldn’t blame them; they had sunk a lot of money into launching the EOS network, as we had, and they needed to recoup some of those costs. A few brave souls earning standby block producer rewards did join us but we were fortunate enough to find many highly accomplished block producer candidates who had been shut out of the earnings after many months of important contributions. They were not held back by concerns about losing the whale votes necessary to serve as an EOS block producer. Together we announced on July 12th with 12 partners. Since then, new people have joined the Telos Contributors Group every day. Some are block producers, but many are individuals who start out asking about Telos — often with pointed questions — and end up joining the effort because they respond to the Telos ethos of security, openness, transparency, and opportunity.
+
+Telos is made up of people who believe that there is great opportunity in EOSIO that might be better served in another form than what the EOS mainnet offers. The group has organized itself, tackled tough projects, and welcomed new people from the community every day. The Telos Contributors Group is open to anyone who wants to help bring the Telos network to life. Many of our members express feeling a strong comradery in the group that they did not feel in EOS. Perhaps this is natural. In launching EOS, there was a lot of money on the table to be won by the block producers who managed to score the top 21 positions. In Telos, even when the network launches, the BP pay will be low and perhaps difficult to exchange. There is no ready market unless we make one. Perhaps one day being a Telos BP will be a highly lucrative position, but at this moment, it is one to pursue only if you really believe in the dream of a new way for EOSIO to reach out and make the world a better place.
+
+This is who we are at the Telos network. The Telos Contributors Group is open to join for anyone who wants to make contributions toward launching the network. If you believe in this dream and a better road as we do, please join us.
+
+For more information about the community of the Telos Network and the Telos Foundation, please visit us and join the conversation:
+
+Website at www.telosfoundation.io
+
+Telegram https://t.me/HelloTelos
+
+Twitter at https://twitter.com/HelloTelos
