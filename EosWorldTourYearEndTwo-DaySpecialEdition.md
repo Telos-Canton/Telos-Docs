@@ -5,7 +5,7 @@
 Trend 1: Sister Chain - Telos  
 Lecturer : Douglas Horn
 
-Scan QR Code with Wechat, add "EOS全球行小助手", and reply "1" to join the group:
+Scan QR Code with WeChat, add "EOS全球行小助手", and reply "1" to join the group:
 
 ![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018.jpg)
 
