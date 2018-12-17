@@ -34,6 +34,8 @@ EOS Overseas - EOS Detroit  Bobrigo Konsdorf
 EOS in China - EOSflytoMars LǚJie   
 Q&A Session
 
+![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018Poster.jpg)
+
 ---
 
 # Eos 世界巡回
@@ -71,3 +73,5 @@ EOS 2019 展望 - EOSLaoMao 赵余
 EOS 海外 - EOS Detroit Bobrigo Konsdorf 
 EOS 中国 - EOSflytoMars 吕杰   
 提问时间  
+
+![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018Poster.jpg)
