@@ -1,7 +1,7 @@
 # How to participate in voting on Telos (Part 1)
 
 Hello everyone, Telos Canton is here to introduce the voting operation, as well as some useful tips.   
-We will first introduce the voting method using Telos official wallet, followed by the introduction of Scatter wallet, Awake and OU mobile wallet.
+We will first introduce the voting method using Telos official wallet, followed by the introduction of Scatter wallet, Awake and Ou mobile wallet.
 
 ### 第一步：Step 1: Download the official squirrel wallet (Sqrl Wallet)
 Download URL: https://github.com/Telos-Foundation/Sqrl/releases  
