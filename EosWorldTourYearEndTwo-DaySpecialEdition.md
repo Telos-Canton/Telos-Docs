@@ -5,13 +5,13 @@
 Trend 1: Sister Chain - Telos  
 Lecturer : Douglas Horn
 
-Scan QR Code with Wechat to Join the group:
+Scan QR Code with Wechat, add "EOS全球行小助手", and reply "1" to join the group:
 
 ![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018.jpg)
 
 ## 2018 in Review 
 
-Agenda 18th December 2018 12:00 - 14:00 UTC
+Agenda 18th December 2018 12:00 - 13:40 UTC
 Organizer Speech - WhaleEx Charlie 
 EOS World Tour Overview - Moran  
 EOS 2018 in Review - EOSLaoMao  Yvonne   
@@ -23,7 +23,7 @@ Review Topic 5: Governance - EOS Alliance Myra
 Q&A Session  
 
 ## 2019 Predictions 
-Agenda 19th December 2018 12:00 - 14:00 UTC  
+Agenda 19th December 2018 12:00 - 13:40 UTC  
 EOS 2019 Predictions - EOSLaoMao Moran  
 Trend 1: Sister Chain - Telos Douglas Horn   
 Trend 2: Security - SlowMist & EOSGuardian YuXian 
@@ -43,13 +43,13 @@ Q&A Session
 趋势 1: EOS姐妹链——Telos   
 演讲者: 道格拉斯·霍恩（Douglas Horn  ）
 
-微信扫二维码加入讨论群：
+微信扫二维码，添加“EOS全球行小助手”，回复“1”，加入讨论群：
 
 ![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018.jpg)
 
 ## 2018热点
 
-2018年12月18号日程（20:00 - 22:00）  
+2018年12月18号日程（20:00 - 21:40）  
 组织者演讲 - 鲸交所（WhaleEx） Charlie  
 EOS世界巡回概述 - 赵余（Moran）  
 EOS 2018回顾 - EOSLaoMao Yvonne   
@@ -61,7 +61,7 @@ EOS 2018回顾 - EOSLaoMao Yvonne
 提问时间  
 
 ## 2019趋势 
-2018年12月19号日程（20:00 - 22:00）  
+2018年12月19号日程（20:00 - 21:40）  
 EOS 2019 展望 - EOSLaoMao 赵余 
 趋势 1: 姐妹链 - Telos 道格拉斯·霍恩（Douglas Horn  ）  
 趋势 2: 安全 - 慢雾科技 余弦 & EOSGuardian  
