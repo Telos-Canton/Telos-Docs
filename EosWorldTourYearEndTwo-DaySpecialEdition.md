@@ -5,7 +5,7 @@
 Trend 1: Sister Chain - Telos  
 Lecturer : Douglas Horn
 
-Scan QR Code with Wechat to Join:
+Scan QR Code with Wechat to Join the group:
 
 ![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018.jpg)
 
@@ -40,8 +40,12 @@ Q&A Session
 ## 年终两天特别版
 
 北京时间2018年12月19日20:00  
-趋势 1: Telos——EOS的姐妹链  
+趋势 1: EOS姐妹链——Telos   
 演讲者: 道格拉斯·霍恩（Douglas Horn  ）
+
+微信扫二维码加入讨论群：
+
+![](./images/events/JoinEosWorldTourYearEndTwo-DaySpecialEdition2018.jpg)
 
 ## 2018热点
 
