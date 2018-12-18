@@ -2,7 +2,6 @@
 
 ## 1. 浏览器
 1.1. https://telos.eosx.io/
-1.2. 
 
 ## 2. 钱包
 1.1. Sqrl
