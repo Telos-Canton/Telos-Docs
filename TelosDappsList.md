@@ -1,7 +1,8 @@
 # Telos DApps List
 
 ## 1. 浏览器
-1.1. https://telos.eosx.io/
+1.1. https://telos.eosx.io/  
+1.2. http://telostracker.io
 
 ## 2. 钱包
 1.1. Sqrl https://telosfoundation.io/downloads  
